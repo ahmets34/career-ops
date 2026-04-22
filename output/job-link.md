@@ -3,6 +3,21 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-22 19:44 (scan.mjs — API scan)
+
+### Remote
+_(none)_
+
+### Location
+- [RTX — Sr. Quality Analyst, Operations Assurance](https://www.adzuna.com/land/ad/5701318556?se=NKDcRaU-8RGcisPYkISD7w&utm_medium=api&utm_source=321f183d&v=2A9723554587C0B29C2D9F3B4271455F515873F6) _(US — pending evaluation)_
+- [Randstad Digital — SDET](https://www.adzuna.com/land/ad/5707636407?se=evd1RqU-8RGcisPYkISD7w&utm_medium=api&utm_source=321f183d&v=8E95245D716B53D0B4EF763B70D4DD2320B4E6A4) _(Texas, US — pending evaluation)_
+- [Donnelley Financial Solutions, Inc. — Senior Software Development Engineer (SDET)](https://www.adzuna.com/land/ad/5707187564?se=evd1RqU-8RGcisPYkISD7w&utm_medium=api&utm_source=321f183d&v=0FA237DE3CE987D6DBAFBAE56B5D618DCB11D642) _(Campbell, Santa Clara County — pending evaluation)_
+
+### Expired / Closed / Non-US
+_(none)_
+
+---
+
 ## 2026-04-22 19:43 (scan.mjs — API scan)
 
 ### Remote
