@@ -2,6 +2,19 @@
 
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
+## 2026-04-22 22:30 (Pipeline Batch — 6 URLs, #076–#081)
+
+### Apply (score ≥ 3.5)
+- [Ashby — Software Developer In Test](https://jobs.ashbyhq.com/ashby/2e0d2b8e-0f2a-4fb4-9156-703dcc1a7d7d) — **4.3/5** · Remote, $110K–$140K + equity, Playwright-first greenfield charter at Series D ATS; TypeScript gap manageable
+- [Continued — Senior/Staff Software Quality Engineer](https://remotive.com/remote/jobs/qa/senior-staff-software-quality-engineer-4334528) — **4.0/5** · Remote US, GitHub Actions + GraphQL + Cursor match; Cypress gap bridgeable, confirm comp early
+- [Magnet Forensics — Software Development Engineer in Test](https://jobs.lever.co/magnetforensics/a3da8213-9f7a-4900-9ac2-8553c5919dee) — **3.8/5** · Remote US, $101K–$173K, SDET archetype fit; C#/.NET gap + verify liveness manually
+- [Delos Data Inc — Software Development Engineer in Test – AI](https://jobs.ashbyhq.com/delos-data/8be17607-cd2b-4cff-9e96-9733ea9eceeb) — **3.6/5** · AI-infra SDET at stealth semiconductor startup; confirm remote + stack + comp before applying
+
+### Skip / Wrong Domain (score < 3.5)
+- [Blueprint Technologies — SDET](https://job-boards.greenhouse.io/bpcs/jobs/7497300) — **1.5/5** · Closed Sept 2025, on-site Redmond WA, C++/hardware stack
+- [Fieldwire — Senior QA Automation Engineer](https://remotive.com/remote-jobs/qa/senior-qa-automation-engineer-2011766) — **expired** · Remotive 410 Gone, no QA roles on live Greenhouse board
+
+---
 
 ## 2026-04-22 18:24 (scan.mjs — API scan)
 
