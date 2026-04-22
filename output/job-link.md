@@ -3,6 +3,41 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-22 19:43 (scan.mjs — API scan)
+
+### Remote
+_(none)_
+
+### Location
+- [HelloFresh — Food Safety and Quality Lead](https://careers.hellofresh.com/global/en/job/7642627?gh_jid=7642627) _(Goodyear, AZ, United States — pending evaluation)_
+- [DCM Infotech Limited — Senior Test Engineer RDKB & CPE Platforms](https://www.adzuna.com/details/5707336468?utm_medium=api&utm_source=321f183d) _(Cupertino, Santa Clara County — pending evaluation)_
+- [RTX — Sr. Quality Analyst, Operations Assurance](https://www.adzuna.com/land/ad/5701318556?se=NipQI6U-8RG8pp5SnrfL9Q&utm_medium=api&utm_source=321f183d&v=2A9723554587C0B29C2D9F3B4271455F515873F6) _(US — pending evaluation)_
+- [Performix Business Services, LLC — Test Engineer](https://www.adzuna.com/details/5699374145?utm_medium=api&utm_source=321f183d) _(Tualatin, Washington County — pending evaluation)_
+- [Edwards Lifesciences — Supplier Quality Engineer II](https://www.adzuna.com/details/5690600953?utm_medium=api&utm_source=321f183d) _(Salt Lake County, Utah — pending evaluation)_
+- [Introlligent Inc. — AI QA Automation Engineer](https://www.adzuna.com/details/5683248536?utm_medium=api&utm_source=321f183d) _(Monte Vista, Santa Clara County — pending evaluation)_
+- [Fiserv — SDET - Lab Technician](https://www.adzuna.com/details/5707659471?utm_medium=api&utm_source=321f183d) _(Sunnyvale, Santa Clara County — pending evaluation)_
+- [Fiserv — Sr. Software Development Engineer in Test](https://www.adzuna.com/details/5707659472?utm_medium=api&utm_source=321f183d) _(Sunnyvale, Santa Clara County — pending evaluation)_
+- [Cynet Systems — QA Automation Engineer - Remote / Telecommute](https://www.adzuna.com/details/5707639853?utm_medium=api&utm_source=321f183d) _(Fort Collins, Larimer County — pending evaluation)_
+- [Randstad Digital — SDET](https://www.adzuna.com/land/ad/5707636407?se=msk3JKU-8RGcisPYkISD7w&utm_medium=api&utm_source=321f183d&v=8E95245D716B53D0B4EF763B70D4DD2320B4E6A4) _(Texas, US — pending evaluation)_
+- [GState Consulting LLC — SDET Integration Test Engineer](https://www.adzuna.com/details/5707343000?utm_medium=api&utm_source=321f183d) _(Monte Vista, Santa Clara County — pending evaluation)_
+- [Octans Group LLC — Remote - Sr. SDET (AI-Augmented) - Contract to Hire](https://www.adzuna.com/details/5707340531?utm_medium=api&utm_source=321f183d) _(US — pending evaluation)_
+- [Drevol LLC — Automation/SDET - Remote (healtcare)](https://www.adzuna.com/details/5707340505?utm_medium=api&utm_source=321f183d) _(US — pending evaluation)_
+- [Advent Global Solutions, Inc. — W2 only | Principal Data QA Engineer / Lead SDET (Databricks, Spark) | Dallas TX/Seattle, WA ONSITE](https://www.adzuna.com/details/5707340342?utm_medium=api&utm_source=321f183d) _(Highland Park, Dallas — pending evaluation)_
+- [Capgemini America, Inc. — SDET (Contact Center / IVR)](https://www.adzuna.com/details/5707338177?utm_medium=api&utm_source=321f183d) _(Westlake, Denton County — pending evaluation)_
+- [XFORIA Inc — SDET - Python/Java](https://www.adzuna.com/details/5707337548?utm_medium=api&utm_source=321f183d) _(Cupertino, Santa Clara County — pending evaluation)_
+- [Raas Infotek LLC — SDET Engineer / Quality Engineer](https://www.adzuna.com/details/5707333561?utm_medium=api&utm_source=321f183d) _(Highland Park, Dallas — pending evaluation)_
+- [Rapsys Technologies — Device Automation Test Engineer](https://www.adzuna.com/details/5707332194?utm_medium=api&utm_source=321f183d) _(Monte Vista, Santa Clara County — pending evaluation)_
+- [INUIX Consulting — SDET - Software Development Engineer in Test - USA Remote](https://www.adzuna.com/details/5707331046?utm_medium=api&utm_source=321f183d) _(US — pending evaluation)_
+- [Donnelley Financial Solutions, Inc. — Senior Software Development Engineer (SDET)](https://www.adzuna.com/land/ad/5707187564?se=msk3JKU-8RGcisPYkISD7w&utm_medium=api&utm_source=321f183d&v=0FA237DE3CE987D6DBAFBAE56B5D618DCB11D642) _(Campbell, Santa Clara County — pending evaluation)_
+- [Expedite Technology Solutions, LLC — Automation Engineer (SDET)](https://www.adzuna.com/details/5706920912?utm_medium=api&utm_source=321f183d) _(Bozeman, Gallatin County — pending evaluation)_
+- [SS&C — Software Development Engineer in Test(SDET)](https://www.adzuna.com/details/5706920005?utm_medium=api&utm_source=321f183d) _(US — pending evaluation)_
+- [State Street — Global Head of Quality Assurance, VP III - State Street Investment Management](https://www.adzuna.com/details/5706820060?utm_medium=api&utm_source=321f183d) _(Boston, Suffolk County — pending evaluation)_
+
+### Expired / Closed / Non-US
+_(none)_
+
+---
+
 ## 2026-04-22 19:34 (scan.mjs — API scan)
 
 ### Remote
