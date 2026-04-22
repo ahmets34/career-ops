@@ -3,6 +3,22 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-22 18:47 (scan.mjs — API scan)
+
+### Remote
+- [Calendly — Security Automation Engineer](https://job-boards.greenhouse.io/calendly/jobs/8506905002) _(Remote - US — pending evaluation)_
+- [Samsara — Sr. Automation Engineer (Infra)](https://www.samsara.com/company/careers/roles/7610374?gh_jid=7610374) _(Remote - SF Bay Area — pending evaluation)_
+
+### Location
+- [FullStory — Senior AI Automation Engineer](https://jobs.ashbyhq.com/fullstory/4480a6d5-231e-420c-a69f-8d748b343118) _(Atlanta — pending evaluation)_
+- [Klaviyo — Talent Acquisition Systems & Automation Lead](https://www.klaviyo.com/careers/jobs?gh_jid=7669738003) _(Boston, MA — pending evaluation)_
+- [MongoDB — SDET Engineer, Query](https://www.mongodb.com/careers/job/?gh_jid=7571255) _(Dublin; Ireland — pending evaluation)_
+
+### Expired / Closed / Non-US
+_(none)_
+
+---
+
 ## 2026-04-22 18:44 (scan.mjs — API scan)
 
 _(no new offers this run)_
