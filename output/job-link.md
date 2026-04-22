@@ -3,6 +3,20 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-22 19:34 (scan.mjs — API scan)
+
+### Remote
+_(none)_
+
+### Location
+- [HelloFresh — Associate Quality Manager](https://careers.hellofresh.com/global/en/job/7784809?gh_jid=7784809) _(Newark, NJ, United States — pending evaluation)_
+- [HelloFresh — Food Safety and Quality Lead](https://careers.hellofresh.com/global/en/job/7821708?gh_jid=7821708) _(Aurora, IL, United States — pending evaluation)_
+
+### Expired / Closed / Non-US
+_(none)_
+
+---
+
 ## 2026-04-22 19:24 (scan.mjs — API scan)
 
 _(no new offers this run)_
