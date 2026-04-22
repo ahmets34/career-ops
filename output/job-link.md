@@ -3,6 +3,24 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-22 18:55 (scan.mjs — API scan)
+
+### Remote
+- [ClickHouse — QA Engineer - Core Database (remote)](https://job-boards.greenhouse.io/clickhouse/jobs/5654026004) _(Spain (remote) — pending evaluation)_
+- [ClickHouse — Release Engineer - Data Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5813432004) _(EU (remote) — pending evaluation)_
+- [ClickHouse — Senior Cloud Performance Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5768080004) _(Australia (remote) — pending evaluation)_
+
+### Location
+- [SoFi — AI Automation Lead](https://sofi.com/careers/job/7704502003?gh_jid=7704502003) _(United States — pending evaluation)_
+- [Talkspace — QA Automation Engineer (AI Systems & Web Apps)  ](https://www.talkspace.com/careers/job?gh_jid=5732849004) _(New York, NY (Hybrid) — pending evaluation)_
+- [Peloton — Mechanical Test Engineer](https://careers.onepeloton.com/en/all-jobs/?gh_jid=6378217) _(Woodinville, Washington — pending evaluation)_
+- [Peloton — Software Development Engineer in Test](https://careers.onepeloton.com/en/all-jobs/?gh_jid=7657669) _(Poland — pending evaluation)_
+
+### Expired / Closed / Non-US
+_(none)_
+
+---
+
 ## 2026-04-22 18:54 (scan.mjs — API scan)
 
 _(no new offers this run)_
