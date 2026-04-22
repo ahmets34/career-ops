@@ -3,6 +3,30 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-22 20:15 (Pipeline Batch — 14 URLs, #082–#095)
+
+### Apply (score ≥ 3.5)
+- [Talkspace — QA Automation Engineer (AI Systems & Web Apps)](https://www.talkspace.com/careers/job?gh_jid=5732849004) — **3.6/5** · Hybrid NYC (confirm remote flexibility) · Playwright/Selenium/SQL match · $110K–$155K · PDF ✅ `[#093]`
+
+### Borderline / Investigate (3.0–3.4)
+- [ClickHouse — QA Engineer - Core Database](https://job-boards.greenhouse.io/clickhouse/jobs/5654026004) — **3.2/5** · Remote US · C++ required · $141K–$230K · PDF ✅ `[#089]`
+- [Pinterest — Sr. QA Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642256) — **3.2/5** · Remote · JS/TS gap · posting 2mo old · PDF ✅ `[#088]`
+
+### Skip (score < 3.5)
+- [FullStory — Senior AI Automation Engineer](https://jobs.ashbyhq.com/fullstory/4480a6d5-231e-420c-a69f-8d748b343118) — **2.8/5** · Biz process automation (not QA) · Hybrid Atlanta `[#082]`
+- [Calendly — Security Automation Engineer](https://job-boards.greenhouse.io/calendly/jobs/8506905002) — **2.8/5** · Security platform engineering, not QA automation `[#083]`
+- [MongoDB — SDET Engineer, Query](https://www.mongodb.com/careers/job/?gh_jid=7571255) — **2.8/5** · Dublin, Ireland (not US-based) `[#085]`
+- [Fastly — Principal Engineer, Release Engineering](https://www.fastly.com/about/jobs/apply?gh_jid=7685198) — **2.8/5** · Release/build infra · IaC/K8s gaps `[#086]`
+- [Vanta — Salesforce Quality Engineer](https://jobs.ashbyhq.com/vanta/b9e2eb5b-5944-4843-9a61-b832013cc795) — **2.8/5** · Salesforce-only · zero stack overlap `[#087]`
+- [SoFi — AI Automation Lead](https://sofi.com/careers/job/7704502003?gh_jid=7704502003) — **2.5/5** · Likely IT ops/SaaS config, JD unverified — check URL manually `[#092]`
+- [ClickHouse — Release Engineer, Data Plane](https://job-boards.greenhouse.io/clickhouse/jobs/5813432004) — **2.2/5** · EU remote only · release/platform infra `[#090]`
+- [Databricks — Sr IT Systems/Automation Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8463169002) — **2.2/5** · IT ops (Jamf/MDM/Tines), not software QA `[#094]`
+- [Peloton — Software Development Engineer in Test](https://careers.onepeloton.com/en/all-jobs/?gh_jid=7657669) — **2.2/5** · Poland-based · Peloton layoffs Feb 2026 `[#095]`
+- [ClickHouse — Senior Cloud Performance Engineer](https://job-boards.greenhouse.io/clickhouse/jobs/5768080004) — **2.0/5** · Distributed systems/chaos eng/Go · discipline gap `[#091]`
+- [Samsara — Sr. Automation Engineer (Infra)](https://www.samsara.com/company/careers/roles/7610374?gh_jid=7610374) — **1.8/5** · Hardware HIL testing (CAN bus, BLE, RF) · not software QA `[#084]`
+
+---
+
 ## 2026-04-22 19:04 (scan.mjs — API scan)
 
 _(no new offers this run)_
