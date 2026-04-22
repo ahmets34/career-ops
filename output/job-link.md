@@ -2,6 +2,23 @@
 
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
+## 2026-04-22 19:15 (WebSearch scan — LinkedIn/Indeed/Boards)
+
+### Remote
+- [Magnet Forensics — Software Development Engineer in Test](https://jobs.lever.co/magnetforensics/a3da8213-9f7a-4900-9ac2-8553c5919dee) _(US/Canada remote — pending evaluation)_
+- [Blueprint Technologies — Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/bpcs/jobs/7497300) _(Remote US, $100K–$120K — pending evaluation)_
+- [Fieldwire — Senior QA Automation Engineer](https://remotive.com/remote-jobs/qa/senior-qa-automation-engineer-2011766) _(USA remote, $150K–$175K — pending evaluation)_
+- [Continued — Senior/Staff Software Quality Engineer](https://remotive.com/remote/jobs/qa/senior-staff-software-quality-engineer-4334528) _(Remote US W2 — pending evaluation)_
+- [Delos Data Inc — Software Development Engineer in Test – AI](https://jobs.ashbyhq.com/delos-data/8be17607-cd2b-4cff-9e96-9733ea9eceeb) _(Remote — pending evaluation)_
+- [Ashby — Software Developer In Test](https://jobs.ashbyhq.com/ashby/2e0d2b8e-0f2a-4fb4-9156-703dcc1a7d7d) _(Remote — pending evaluation)_
+
+### Location
+_(none)_
+
+### Expired / Closed / Non-US
+_(PlayStation SDET — San Mateo CA onsite; Truelogic — LATAM nearshore; Hivebrite — Paris France; Motive Sr QA — India)_
+
+---
 
 ## 2026-04-22 18:04 (scan.mjs — API scan)
 
