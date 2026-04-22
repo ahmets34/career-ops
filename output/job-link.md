@@ -3,6 +3,19 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-22 19:02 (scan.mjs — API scan)
+
+### Remote
+- [ClickHouse — QA Engineer - Core Database (remote)](https://job-boards.greenhouse.io/clickhouse/jobs/5654027004) _(United States (remote) — pending evaluation)_
+
+### Location
+_(none)_
+
+### Expired / Closed / Non-US
+_(none)_
+
+---
+
 ## 2026-04-22 18:55 (scan.mjs — API scan)
 
 ### Remote
