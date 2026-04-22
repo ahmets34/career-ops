@@ -3,6 +3,24 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-22 18:52 (scan.mjs — API scan)
+
+### Remote
+- [Mercury — Senior Engineering Manager - Release Engineering](https://job-boards.greenhouse.io/mercury/jobs/5848405004) _(San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States — pending evaluation)_
+- [Vanta — Salesforce Quality Engineer](https://jobs.ashbyhq.com/vanta/b9e2eb5b-5944-4843-9a61-b832013cc795) _(Remote U.S. — pending evaluation)_
+- [Pinterest — Sr. QA Engineer, tvScientific](https://www.pinterestcareers.com/jobs/?gh_jid=7642256) _(San Francisco, CA, US; Remote, US — pending evaluation)_
+
+### Location
+- [Fastly — Principal Engineer - Release Engineering](https://www.fastly.com/about/jobs/apply?gh_jid=7685198) _(Denver, CO; New York City, NY; San Francisco, CA — pending evaluation)_
+- [Pinterest — VP, Ads Quality Engineering](https://www.pinterestcareers.com/jobs/?gh_jid=7366112) _(San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Los Angeles, CA, US — pending evaluation)_
+- [Whoop — Senior Hardware Quality Engineer (NPI)](https://jobs.lever.co/whoop/6c3200b0-3192-4fef-ac73-8ebf50246a47) _(Boston, MA — pending evaluation)_
+- [Databricks — Sr IT Systems/Automation Engineer](https://databricks.com/company/careers/open-positions/job?gh_jid=8463169002) _(Mountain View, California — pending evaluation)_
+
+### Expired / Closed / Non-US
+_(none)_
+
+---
+
 ## 2026-04-22 18:47 (scan.mjs — API scan)
 
 ### Remote
