@@ -2,6 +2,12 @@
 
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
+
+## 2026-04-22 18:34 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
 ## 2026-04-22 22:30 (Pipeline Batch — 6 URLs, #076–#081)
 
 ### Apply (score ≥ 3.5)
