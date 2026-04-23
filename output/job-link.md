@@ -1,6 +1,12 @@
 #
-## 2026-04-23 09:44 (scan.mjs — API scan)
+## 2026-04-23 10:14 (scan.mjs — API scan)
 
+_(no new offers this run)_
+
+---
+ Job Links — Scan Finds
+
+<!-- Auto-updated after each scan. Newest entries at the top. -->
 
 ## 2026-04-23 10:04 (scan.mjs — API scan)
 
@@ -16,10 +22,6 @@ _(no new offers this run)_
 _(no new offers this run)_
 
 ---
- Job Links — Scan Finds
-
-<!-- Auto-updated after each scan. Newest entries at the top. -->
-
 
 ## 2026-04-23 09:34 (scan.mjs — API scan)
 
