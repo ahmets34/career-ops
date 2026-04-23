@@ -1,4 +1,10 @@
 
+## 2026-04-23 11:40 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
+
 ## 2026-04-23 15:27 (WebSearch scan)
 
 ### Remote
