@@ -3,6 +3,20 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-23 20:24 (scan.mjs — API scan)
+
+### Remote
+_(none)_
+
+### Location
+- [Cynet Systems — QA Automation Engineer - Remote / Telecommute](https://www.adzuna.com/details/5707690870?utm_medium=api&utm_source=321f183d) _(Fort Collins, Larimer County — pending evaluation)_
+- [Donnelley Financial Solutions, Inc. — Senior Software Development Engineer (SDET)](https://www.adzuna.com/land/ad/5707187375) _(US — pending evaluation)_
+
+### Expired / Closed / Non-US
+_(none)_
+
+---
+
 ## 2026-04-23 20:14 (scan.mjs — API scan)
 
 ### Remote
