@@ -3,6 +3,19 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-23 20:04 (scan.mjs — API scan)
+
+### Remote
+_(none)_
+
+### Location
+- [Donnelley Financial Solutions, Inc. — Senior Software Development Engineer (SDET)](https://www.adzuna.com/land/ad/5707187435) _(Washington, Washington, D.C. — pending evaluation)_
+
+### Expired / Closed / Non-US
+_(none)_
+
+---
+
 ## 2026-04-22 19:58 (scan.mjs — API scan)
 
 ### Remote
