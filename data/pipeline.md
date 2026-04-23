@@ -249,3 +249,7 @@
 - [ ] https://www.dice.com/job-detail/670c6228-e441-44de-877a-528d9d6e3a49 | Global Soft Systems | QA Automation Engineer
 - [ ] https://www.glassdoor.com/job-listing/staff-software-development-engineer-in-test-alteryx-JV_KO0,43_KE44,51.htm?jl=1010035670451 | Alteryx | Staff Software Development Engineer in Test
 - [ ] https://www.linkedin.com/jobs/view/mobile-sdet-at-onfleet-2892589040 | Onfleet | Mobile SDET
+- [ ] https://remotive.com/remote-jobs/software-dev/sdet-engineer-1659108 | EX2 Outcoding | SDET Engineer
+- [ ] https://remotive.com/remote/jobs/qa/sdet-qa-engineer-1364520 | Gigster | SDET/QA Engineer
+- [ ] https://job-boards.greenhouse.io/flex/jobs/4626696005 | Flex | Senior Software Development Engineer in Test (SDET)
+- [ ] https://www.dice.com/job-detail/057bf1fd-f540-4137-ae52-6ec4dc49c993 | Lumen Solutions Group | Sr. QA Automation Engineer (ETL/Backend)

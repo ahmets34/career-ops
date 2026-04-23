@@ -1,4 +1,14 @@
 
+## 2026-04-23 18:13 (WebSearch scan) — 4 new offers
+
+### Remote
+- [EX2 Outcoding - SDET Engineer](https://remotive.com/remote-jobs/software-dev/sdet-engineer-1659108) _(Worldwide Remote - pending evaluation)_
+- [Gigster - SDET/QA Engineer](https://remotive.com/remote/jobs/qa/sdet-qa-engineer-1364520) _(Remote - pending evaluation)_
+- [Flex - Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/flex/jobs/4626696005) _(Remote - pending evaluation)_
+- [Lumen Solutions Group - Sr. QA Automation Engineer (ETL/Backend)](https://www.dice.com/job-detail/057bf1fd-f540-4137-ae52-6ec4dc49c993) _(Remote - pending evaluation)_
+
+---
+
 ## 2026-04-23 13:40 (scan.mjs — API scan)
 
 _(no new offers this run)_
