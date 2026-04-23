@@ -3,6 +3,19 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-23 04:44 (scan.mjs — API scan)
+
+### Remote
+_(none)_
+
+### Location
+- [CGI — Sdet](https://www.adzuna.com/land/ad/5708094364) _(US — pending evaluation)_
+
+### Expired / Closed / Non-US
+_(none)_
+
+---
+
 ## 2026-04-23 04:34 (scan.mjs — API scan)
 
 _(no new offers this run)_
