@@ -3,6 +3,12 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-23 04:24 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
+
 ## 2026-04-23 04:14 (scan.mjs — API scan)
 
 _(no new offers this run)_
