@@ -3,6 +3,19 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-23 00:54 (scan.mjs — API scan)
+
+### Remote
+_(none)_
+
+### Location
+- [NeuraFlash, Part of Accenture — Quality Assurance Lead](https://www.adzuna.com/details/5707950185?utm_medium=api&utm_source=321f183d) _(US — pending evaluation)_
+
+### Expired / Closed / Non-US
+_(none)_
+
+---
+
 ## 2026-04-23 00:44 (scan.mjs — API scan)
 
 _(no new offers this run)_
