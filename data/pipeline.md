@@ -186,6 +186,10 @@
 - [ ] https://apply.workable.com/jobgether/j/92404B192D | Jobgether | Test Automation Engineer (Remote - US)
 - [ ] https://jobs.lever.co/jobgether/0392f0b1-c026-4314-b83a-b5918a9b4ccc | Jobgether | QA Lead (Remote - Worldwide)
 
+- [ ] https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5 | Quora | AI Automation Engineer
+- [ ] https://job-boards.greenhouse.io/connexure/jobs/4015509009 | Connexure | Software Development Engineer in Test (SDET)
+- [ ] https://jobs.lever.co/jobgether/9478615f-d2aa-4c9d-9efb-f0ab6c51286a | Jobgether | QA Lead (Remote - Worldwide)
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅

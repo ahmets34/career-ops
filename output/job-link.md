@@ -268,6 +268,16 @@ _(no new offers this run)_
 
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
+## 2026-04-23 15:15 (WebSearch scan) — 3 new offers
+
+### Remote
+- [Quora - AI Automation Engineer](https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5) _(remote - pending evaluation)_
+- [Connexure - Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/connexure/jobs/4015509009) _(remote - pending evaluation)_
+- [Jobgether - QA Lead](https://jobs.lever.co/jobgether/9478615f-d2aa-4c9d-9efb-f0ab6c51286a) _(worldwide - pending evaluation)_
+
+---
+
+
 
 ## 2026-04-23 17:13 (scan.mjs — API scan)
 
