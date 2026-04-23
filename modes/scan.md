@@ -108,6 +108,7 @@ Los niveles son aditivos — se ejecutan todos, los resultados se mezclan y dedu
    - Al menos 1 keyword de `positive` debe aparecer en el título (case-insensitive)
    - 0 keywords de `negative` deben aparecer
    - `seniority_boost` keywords dan prioridad pero no son obligatorios
+   - **Contract positions are INCLUDED** — "Contract", "C2C", "W2 Contract", "Contract-to-Hire" in the title are NOT disqualifiers. Evaluate them normally and note contract type in the pipeline entry.
 
 7. **Deduplicar** contra 3 fuentes:
    - `scan-history.tsv` → URL exacta ya vista
