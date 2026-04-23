@@ -3,6 +3,19 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-23 22:04 (scan.mjs — API scan)
+
+### Remote
+_(none)_
+
+### Location
+- [SAIC — Automation Test Engineer](https://www.adzuna.com/details/5707819012?utm_medium=api&utm_source=321f183d) _(Washington, D.C., US — pending evaluation)_
+
+### Expired / Closed / Non-US
+_(none)_
+
+---
+
 ## 2026-04-23 21:54 (scan.mjs — API scan)
 
 _(no new offers this run)_
