@@ -135,6 +135,18 @@ title_filter:
     - "Crypto"
     - "Mainframe"
     - "COBOL"
+
+    # -- India location hints in title --
+    - "India"
+    - "Bangalore"
+    - "Bengaluru"
+    - "Hyderabad"
+    - "Mumbai"
+    - "Pune"
+    - "Chennai"
+    - "Noida"
+    - "Gurugram"
+    - "Gurgaon"
   seniority_boost:
     # These prefixes add relevance but are not required
     - "Senior"
