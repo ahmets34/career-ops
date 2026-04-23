@@ -257,6 +257,12 @@ _(no new offers this run)_
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-23 17:13 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
+
 ## 2026-04-23 15:59 (scan.mjs — API scan)
 
 _(no new offers this run)_
