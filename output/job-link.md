@@ -3,6 +3,20 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-23 22:44 (scan.mjs — API scan)
+
+### Remote
+_(none)_
+
+### Location
+- [Pratt & Whitney — Senior Quality Engineering Manager (Onsite)](https://www.adzuna.com/land/ad/5707861829) _(Phenix City, Russell County — pending evaluation)_
+- [U.S. Bank — Software Engineering Manager 3 (QA Payments Engineering)](https://www.adzuna.com/details/5707868199?utm_medium=api&utm_source=321f183d) _(Atlanta, Fulton County — pending evaluation)_
+
+### Expired / Closed / Non-US
+_(none)_
+
+---
+
 ## 2026-04-23 22:34 (scan.mjs — API scan)
 
 _(no new offers this run)_
