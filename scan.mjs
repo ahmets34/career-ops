@@ -392,6 +392,11 @@ async function main() {
   const companyFlag   = args.indexOf('--company');
   const filterCompany = companyFlag !== -1 ? args[companyFlag + 1]?.toLowerCase() : null;
 
+  // Pull latest from GitHub first so remote scan results appear in job-link.md immediately
+  if (!dryRun) {
+    try { execSync('git pull --rebase origin main', { stdio: 'ignore' }); } catch { /* offline or no remote */ }
+  }
+
   if (!existsSync(PORTALS_PATH)) {
     console.error('Error: portals.yml not found. Run onboarding first.');
     process.exit(1);
@@ -470,9 +475,6 @@ async function main() {
 
   // ── Write results ───────────────────────────────────────────────
   if (!dryRun) {
-    // Pull latest before writing job-link.md so concurrent remote scans don't conflict
-    try { execSync('git pull --rebase origin main', { stdio: 'ignore' }); } catch { /* no remote or offline */ }
-
     if (newOffers.length > 0) {
       appendToPipeline(newOffers);
       appendToScanHistory(newOffers, date);
@@ -513,7 +515,7 @@ async function main() {
   // Auto-push job-link.md to GitHub so it's viewable on mobile
   if (!dryRun) {
     try {
-      execSync('git add output/job-link.md', { stdio: 'ignore' });
+      execSync('git add output/job-link.md data/scan-history.tsv data/pipeline.md', { stdio: 'ignore' });
       execSync(`git commit -m "scan: update job-link.md ${datetime}"`, { stdio: 'ignore' });
       execSync('git push', { stdio: 'ignore' });
       console.log('→ job-link.md pushed to GitHub.');
