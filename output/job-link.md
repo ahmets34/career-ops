@@ -53,6 +53,12 @@
 
 ## 2026-04-23 12:00 (scan.mjs — API scan)
 
+
+## 2026-04-23 12:20 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
 _(no new offers this run)_
 
 ---
