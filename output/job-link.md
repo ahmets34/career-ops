@@ -3,6 +3,19 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-23 09:04 (scan.mjs — API scan)
+
+### Remote
+_(none)_
+
+### Location
+- [Whoop — Electrical Test Engineering Tech Lead](https://jobs.lever.co/whoop/11d7d642-b301-41e7-8d7b-7b25651c9882) _(Boston, MA — pending evaluation)_
+
+### Expired / Closed / Non-US
+_(none)_
+
+---
+
 ## 2026-04-23 08:54 (scan.mjs — API scan)
 
 _(no new offers this run)_
