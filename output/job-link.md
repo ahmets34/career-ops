@@ -3,6 +3,20 @@
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
 
+## 2026-04-23 20:14 (scan.mjs — API scan)
+
+### Remote
+_(none)_
+
+### Location
+- [TrustMinds, Inc. — Software Developer Engineer in Test (SDET) - Hybrid / Contract to Hire Role](https://www.adzuna.com/details/5707680609?utm_medium=api&utm_source=321f183d) _(Goodhope, Cumberland County — pending evaluation)_
+- [Donnelley Financial Solutions, Inc. — Senior Software Development Engineer (SDET)](https://www.adzuna.com/land/ad/5707187442) _(Northlake, DeKalb County — pending evaluation)_
+
+### Expired / Closed / Non-US
+_(none)_
+
+---
+
 ## 2026-04-23 20:04 (scan.mjs — API scan)
 
 ### Remote
