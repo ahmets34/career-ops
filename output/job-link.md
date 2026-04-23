@@ -8,6 +8,95 @@ _(no new offers this run)_
 
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
+## 2026-04-23 14:14 (WebSearch scan)
+
+### Remote
+- [Cracken - Software Development Engineer in Test (SDET)](https://jobs.ashbyhq.com/crackenagi/8fa95f75-5885-4f39-b1e7-62815d20e32a) _(remote - pending evaluation)_
+- [Moxie - Software Development Engineer in Test (Global)](https://jobs.ashbyhq.com/moxie/98052fac-5e43-45da-bf7e-fac3cd627c1c) _(remote - pending evaluation)_
+- [AnswersNow - Senior QA Automation Engineer](https://jobs.ashbyhq.com/answersnow/8aa58694-b647-4044-9ddd-181069640e0b) _(remote - pending evaluation)_
+- [Machinify - Senior Automation Engineer, Quality Assurance](https://jobs.ashbyhq.com/machinify/2f6dd716-42c9-4490-9ded-fee3b2631d7f) _(remote - pending evaluation)_
+- [Real - Sr QA Automation Engineer - Tech Lead](https://jobs.ashbyhq.com/real/504cc0d1-d4ca-4768-9dfb-f32b713730b9) _(remote - pending evaluation)_
+- [Onebrief - Senior Test Automation Engineer](https://jobs.ashbyhq.com/onebrief/7ed44919-59c8-4bf8-bad8-fb7b64d42588) _(remote - pending evaluation)_
+- [Percona - Senior Quality Engineer](https://jobs.ashbyhq.com/percona/8fa1b24e-6b7c-42eb-9334-cbe8573a662b) _(remote - pending evaluation)_
+- [Maximus - Lead Quality Assurance (QA) Engineer](https://jobs.ashbyhq.com/maximustribe/5e570d66-c091-4042-886a-91e3b405d3f3) _(remote - pending evaluation)_
+- [Maximus Health - Senior Quality Assurance (QA) Engineer](https://jobs.ashbyhq.com/maximustribe/09b686e4-4f38-4758-a4a0-6da7569104bf) _(remote - pending evaluation)_
+- [Lazer - Senior QA Engineer](https://jobs.ashbyhq.com/lazer/274f4de5-103e-423a-9309-398dd595270d) _(remote - pending evaluation)_
+- [Empower Finance - Sr. QA Engineer](https://jobs.ashbyhq.com/empower%20finance/48a1274a-5436-485f-9471-86db3db479de) _(remote - pending evaluation)_
+- [Reach Financial - Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/reach/jobs/8169924002) _(remote - pending evaluation)_
+- [ASSYST - Test Automation Engineer (SDET)](https://job-boards.greenhouse.io/assystinc/jobs/4214576009) _(remote - pending evaluation)_
+- [Cayuse - Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/cayuse/jobs/8512811002) _(remote - pending evaluation)_
+- [Bobsled - Senior Software Development Engineer in Test (SDET)](https://boards.greenhouse.io/bobsledinc/jobs/4385159005) _(remote - pending evaluation)_
+- [QGenda - Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/qgenda/jobs/4103637008) _(remote - pending evaluation)_
+- [Panther Labs - Senior Software Development Engineer in Test (SDET)](https://boards.greenhouse.io/pantherlabs/jobs/4408313003) _(remote - pending evaluation)_
+- [Bold Metrics - Software Developer in Test (SDET)](https://boards.greenhouse.io/boldmetrics/jobs/4419897005) _(remote - pending evaluation)_
+- [Faeth Therapeutics - Staff Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/faeththerapeutics/jobs/4226312009) _(remote - pending evaluation)_
+- [Upgrade - Senior QA Automation Engineer](https://job-boards.greenhouse.io/upgrade/jobs/4497438005) _(remote - pending evaluation)_
+- [Impiricus - QA Automation Engineer](https://job-boards.greenhouse.io/impiricus/jobs/4993696008) _(remote - pending evaluation)_
+- [OneStudyTeam - Senior Test Automation Engineer](https://job-boards.greenhouse.io/onestudyteam/jobs/5826366004) _(remote - pending evaluation)_
+- [Collectors - Staff QA Automation Engineer/SDET](https://boards.greenhouse.io/collectorsuniverse/jobs/5451432004) _(remote - pending evaluation)_
+- [Machinify - Staff Automation Engineer, QA](https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009) _(remote - pending evaluation)_
+- [Carta - Senior QA Automation Engineer](https://job-boards.greenhouse.io/carta/jobs/6651499003) _(remote - pending evaluation)_
+- [Cresta - QA Lead, AI Agent](https://job-boards.greenhouse.io/cresta/jobs/5148813008) _(remote - pending evaluation)_
+- [Kunai - Software QA Lead](https://job-boards.greenhouse.io/kunai/jobs/5000195007) _(remote - pending evaluation)_
+- [Seamless - Senior QA Engineer](https://job-boards.greenhouse.io/seamlessai/jobs/4087674004) _(remote - pending evaluation)_
+- [BetterHelp - Software QA Engineer III](https://job-boards.greenhouse.io/betterhelpcom/jobs/4806004008) _(remote - pending evaluation)_
+- [Glean - Lead Quality Assurance](https://job-boards.greenhouse.io/gleanwork/jobs/4464005005) _(remote - pending evaluation)_
+- [ClickHouse - QA Engineer - Core Database](https://job-boards.greenhouse.io/clickhouse/jobs/5654026004) _(remote - pending evaluation)_
+- [Foodsmart - Software Development Engineer in Test (SDET)](https://jobs.lever.co/foodsmart/7cd3c3d5-9afb-4c98-b4c6-c0a7bdb6504e) _(remote - pending evaluation)_
+- [Netomi - SDET II](https://jobs.lever.co/netomi/d637db60-0873-4dc6-8b23-b8fa78a04727) _(remote - pending evaluation)_
+- [Softrams - Software Development Engineer in Test (SDET)](https://jobs.lever.co/softrams/8ab0c4e5-e5fa-4ebe-ac66-9b8ba81005cd) _(remote - pending evaluation)_
+- [Bluesight - Senior Software Development Engineer in Test (SDET)](https://jobs.lever.co/bluesight/5668e24b-3143-4882-89fd-918bb24b3a20) _(remote - pending evaluation)_
+- [Jobgether - QA Automation Engineer (Remote)](https://jobs.lever.co/jobgether/90300e18-c389-43f0-8d84-bda667fbf5ab) _(remote - pending evaluation)_
+- [Celara - QA Automation Engineer](https://jobs.lever.co/celaralabs/a42e3b5c-d748-4d0c-b661-1283d350374f) _(remote - pending evaluation)_
+- [Cloaked - Quality Assurance Automation Engineer](https://jobs.lever.co/cloaked-app/e58f8ccd-9873-4fe8-b3c0-abfb46136b9a) _(remote - pending evaluation)_
+- [Bluesight - Software Development Engineer in Test (SDET)](https://jobs.lever.co/bluesight/3ad25798-f14c-47c0-927e-dcc8be57aab5) _(remote - pending evaluation)_
+- [Jobgether - Quality Assurance Lead (REMOTE)](https://jobs.lever.co/jobgether/4e04d692-7184-434a-a0fa-62899862faab) _(remote - pending evaluation)_
+- [Encoura - QA Lead Engineer](https://jobs.lever.co/nrccua/2c0fdf1b-2e24-4142-9010-6239bc61c4ea) _(remote - pending evaluation)_
+- [Smile Digital Health - QA Automation Tester](https://jobs.lever.co/smiledigitalhealth/53d94bc5-48d2-4ae3-a76a-d2618dac6983) _(remote - pending evaluation)_
+- [Jobgether - Remote Software Test Engineer](https://jobs.lever.co/jobgether/6a94b466-3d14-49d5-aa66-756b6e5a2c03) _(remote - pending evaluation)_
+- [Quanata - Senior SDET](https://www.linkedin.com/jobs/view/senior-sdet-remote-at-quanata-3928390964) _(remote - pending evaluation)_
+- [Collectors - Senior QA Automation Engineer](https://www.linkedin.com/jobs/view/senior-qa-automation-engineer-at-collectors-3208678580) _(remote - pending evaluation)_
+- [Alteryx - Staff Software Development Engineer in Test](https://www.glassdoor.com/job-listing/staff-software-development-engineer-in-test-alteryx-JV_KO0,43_KE44,51.htm?jl=1010035670451) _(remote - pending evaluation)_
+- [Prohires - SDET – Automation Engineer (Java + Selenium + AWS)](https://www.dice.com/job-detail/3ef8c77d-3e03-4255-9c90-480e118ead35) _(remote - pending evaluation)_
+- [Techwizens LLC - SDET QA Automation Engineer](https://www.dice.com/job-detail/86286a9b-faa7-4cdd-9af8-5515e1e9727e) _(remote - pending evaluation)_
+- [ASSYST - Test Automation Engineer (SDET)](https://www.dice.com/job-detail/f807828f-42de-462d-9bc9-8d4cfa023b21) _(remote - pending evaluation)_
+- [Global Soft Systems - QA Automation Engineer](https://www.dice.com/job-detail/670c6228-e441-44de-877a-528d9d6e3a49) _(remote - pending evaluation)_
+- [CloudLinux - SDET / QA Automation Engineer (remote-only)](https://apply.workable.com/cloudlinux-1/j/5781E9695C) _(remote - pending evaluation)_
+- [CloudLinux - SDET / QA Automation Engineer (worldwide)](https://apply.workable.com/j/E55432B76F) _(remote - pending evaluation)_
+- [CloudLinux - Senior SDET / QA Automation Engineer (worldwide remote)](https://apply.workable.com/cloudlinux-1/j/FF27DA6EEC) _(remote - pending evaluation)_
+- [Jobgether - QA Automation Test Engineer II (Remote - US)](https://apply.workable.com/jobgether/j/97DFE99E39) _(remote - pending evaluation)_
+- [1Kosmos - Test Automation Engineer](https://apply.workable.com/1kosmos/j/86C8993ACA) _(remote - pending evaluation)_
+- [Jobgether - Software Development Engineer in Test (SDET) (Remote - US)](https://apply.workable.com/jobgether/j/BF65DC8681) _(remote - pending evaluation)_
+- [Jobgether - Test Automation Engineer (Remote - US)](https://apply.workable.com/jobgether/j/92404B192D) _(remote - pending evaluation)_
+- [Drivetrain - Lead SDET / QA Manager](https://builtin.com/job/lead-software-development-engineer-test-sdet/2546760) _(remote - pending evaluation)_
+- [Fullbay - Senior Software Development Engineer in Test (SDET)](https://builtin.com/job/senior-software-development-engineer-test-sdet/8483864) _(remote - pending evaluation)_
+- [Evidation - Manager, Software Development Engineer in Test (SDET)](https://builtin.com/job/manager-software-development-engineer-test-sdet/2811669) _(remote - pending evaluation)_
+- [Secure Privacy - QA Engineer - AI, Automation & Intelligent Testing](https://weworkremotely.com/remote-jobs/secure-privacy-qa-engineer-ai-automation-intelligent-testing) _(remote - pending evaluation)_
+- [Mediavine - Software Test Engineer / SDET](https://weworkremotely.com/remote-jobs/mediavine-software-test-engineer-sdet) _(remote - pending evaluation)_
+- [Icario - Software Engineer in Test (SDET)](https://weworkremotely.com/remote-jobs/icario-software-engineer-in-test-sdet) _(remote - pending evaluation)_
+- [KodeKloud - Senior SDET (Automation)](https://weworkremotely.com/remote-jobs/kodekloud-senior-sdet-automation) _(remote - pending evaluation)_
+
+### Location
+- [onX - Senior Software Development Engineer in Test](https://boards.greenhouse.io/onxmaps/jobs/4252823006) _(Montana or Remote - pending evaluation)_
+- [Medeloop - Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/medeloop/jobs/4224606009) _(San Francisco CA - pending evaluation)_
+- [Elite Technology - Lead Software Engineer in Test](https://job-boards.greenhouse.io/elitetechnology/jobs/5184327008) _(United States - pending evaluation)_
+- [Angel - Senior SDET / QA Engineer (Smart TV)](https://jobs.lever.co/angel/599f965c-cdaf-42d7-8a6b-bdb92eb5ee78) _(United States - pending evaluation)_
+- [EnGen - QA Lead](https://jobs.lever.co/voxy-engen/5077ae29-234f-4fe2-b609-3a199adbd69e) _(United States - pending evaluation)_
+- [Turning Point Global Solutions - QA Manager and Lead Test Engineer](https://jobs.lever.co/tpgsi/f4983e3e-e8c6-4276-bda0-83d386eff692) _(United States - pending evaluation)_
+- [Alkami Technology - Sr Staff SDET](https://www.linkedin.com/jobs/view/sr-staff-sdet-at-alkami-technology-4189004677) _(United States - pending evaluation)_
+- [VGS - Staff SDET](https://www.linkedin.com/jobs/view/staff-sdet-at-vgs-3550782736) _(United States - pending evaluation)_
+- [Jobs via Dice - Senior SDET Engineer](https://www.linkedin.com/jobs/view/senior-sdet-engineer-at-jobs-via-dice-4263149499) _(United States - pending evaluation)_
+- [SAS - Senior Software Development Engineer in Test (SDET)](https://www.linkedin.com/jobs/view/senior-software-development-engineer-in-test-sdet-at-sas-3747669613) _(Cary NC - pending evaluation)_
+- [SADA - Senior QA Automation Engineer](https://www.linkedin.com/jobs/view/senior-qa-automation-engineer-at-sada-2939989681) _(Los Angeles CA - pending evaluation)_
+- [CyberCoders - Senior QA Automation Engineer](https://www.linkedin.com/jobs/view/senior-qa-automation-engineer-at-cybercoders-3099499399) _(Denver CO - pending evaluation)_
+- [Gallup - Senior QA Automation Engineer](https://www.linkedin.com/jobs/view/senior-qa-automation-engineer-at-gallup-3300516759) _(Sioux Falls SD - pending evaluation)_
+- [Fragomen - Senior Quality Assurance Automation Engineer](https://www.linkedin.com/jobs/view/senior-quality-assurance-automation-engineer-at-fragomen-3196969187) _(United States - pending evaluation)_
+- [Litify - Software Development Engineer in Test (SDET)](https://builtin.com/job/engineer/software-development-engineer-test-sdet/90062) _(United States - pending evaluation)_
+- [Toyota Connected North America - Software Development Engineer in Test (SDET)](https://builtin.com/job/software-development-engineer-test-sdet/2808426) _(United States - pending evaluation)_
+- [Stryker - Software Development Engineer in Test (SDET - Automation)](https://builtin.com/job/software-development-engineer-testsdet-automation/3553558) _(United States - pending evaluation)_
+
+---
+
 ## 2026-04-23 10:04 (scan.mjs — API scan)
 
 _(no new offers this run)_
