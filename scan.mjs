@@ -1,5 +1,4 @@
 #!/usr/bin/env node
-
 /**
  * scan.mjs — Zero-token portal scanner
  *
@@ -471,6 +470,9 @@ async function main() {
 
   // ── Write results ───────────────────────────────────────────────
   if (!dryRun) {
+    // Pull latest before writing job-link.md so concurrent remote scans don't conflict
+    try { execSync('git pull --rebase origin main', { stdio: 'ignore' }); } catch { /* no remote or offline */ }
+
     if (newOffers.length > 0) {
       appendToPipeline(newOffers);
       appendToScanHistory(newOffers, date);
