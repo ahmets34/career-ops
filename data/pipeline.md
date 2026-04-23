@@ -153,6 +153,12 @@
 
 - [ ] https://jobs.lever.co/whoop/11d7d642-b301-41e7-8d7b-7b25651c9882 | Whoop | Electrical Test Engineering Tech Lead
 
+- [ ] https://job-boards.greenhouse.io/faeththerapeutics/jobs/4226312009 | Faeth Therapeutics | Staff SDET
+- [ ] https://jobs.lever.co/tpgsi/f4983e3e-e8c6-4276-bda0-83d386eff692 | Turning Point Global Solutions | Quality Assurance Manager and Lead Test Engineer
+- [ ] https://himalayas.app/companies/jobgether/jobs/qa-automation-tech-lead-remote-us | Jobgether | QA Automation Tech Lead (Remote - US)
+- [ ] https://apply.workable.com/jobgether/j/92404B192D | Jobgether | Test Automation Engineer (Remote - US)
+- [ ] https://jobs.lever.co/jobgether/0392f0b1-c026-4314-b83a-b5918a9b4ccc | Jobgether | QA Lead (Remote - Worldwide)
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅

@@ -1,4 +1,20 @@
 
+## 2026-04-23 15:47 (WebSearch scan)
+
+### Remote
+
+- [Faeth Therapeutics - Staff SDET](https://job-boards.greenhouse.io/faeththerapeutics/jobs/4226312009) _(Remote - pending evaluation)_
+- [Turning Point Global Solutions - Quality Assurance Manager and Lead Test Engineer](https://jobs.lever.co/tpgsi/f4983e3e-e8c6-4276-bda0-83d386eff692) _(Remote - pending evaluation)_
+- [Jobgether - QA Automation Tech Lead](https://himalayas.app/companies/jobgether/jobs/qa-automation-tech-lead-remote-us) _(Remote US - pending evaluation)_
+- [Jobgether - Test Automation Engineer](https://apply.workable.com/jobgether/j/92404B192D) _(Remote US - pending evaluation)_
+- [Jobgether - QA Lead](https://jobs.lever.co/jobgether/0392f0b1-c026-4314-b83a-b5918a9b4ccc) _(Remote Worldwide - pending evaluation)_
+
+### Location
+
+_(none)_
+
+---
+
 ## 2026-04-23 11:40 (scan.mjs — API scan)
 
 _(no new offers this run)_
@@ -158,6 +174,12 @@ _(no new offers this run)_
 
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
+
+## 2026-04-23 15:40 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
 
 ## 2026-04-23 15:19 (scan.mjs — API scan)
 
