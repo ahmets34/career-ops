@@ -1,4 +1,20 @@
 
+## 2026-04-23 16:16 (WebSearch scan) — 6 new offers
+
+### Remote
+
+- [Multibank Group - QA Engineer](https://jobs.ashbyhq.com/mexdigital/16d5e7c6-7af0-4dc8-a510-1f79f1fdda2a) _(Remote - pending evaluation)_
+- [EX2 Outcoding - SDET Engineer](https://remotive.com/remote/jobs/qa/sdet-engineer-1659108) _(Remote worldwide - pending evaluation)_
+- [KangarooHealth - Senior QA Automation Engineer](https://wellfound.com/jobs/2726462-senior-qa-automation-engineer-remote-overseas-us-pst-hours) _(Remote US PST - pending evaluation)_
+- [Global Soft Systems - QA Automation Engineer](https://www.dice.com/job-detail/670c6228-e441-44de-877a-528d9d6e3a49) _(Remote - pending evaluation)_
+- [Alteryx - Staff Software Development Engineer in Test](https://www.glassdoor.com/job-listing/staff-software-development-engineer-in-test-alteryx-JV_KO0,43_KE44,51.htm?jl=1010035670451) _(Remote US - pending evaluation)_
+
+### Location
+
+- [Onfleet - Mobile SDET](https://www.linkedin.com/jobs/view/mobile-sdet-at-onfleet-2892589040) _(San Francisco, CA - pending evaluation)_
+
+---
+
 ## 2026-04-23 16:07 (WebSearch scan)
 
 ### Remote

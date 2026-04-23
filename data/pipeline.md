@@ -239,3 +239,9 @@
 - [!] https://jobs.ashbyhq.com/writer/7d42793b-c380-464c-bb42-c120328ea6ad | Writer | QA Automation — JS-rendered
 - [!] https://boards.greenhouse.io/esri/jobs/5076375007 | Esri | Sr SDET — not evaluated
 - [!] https://job-boards.greenhouse.io/qgenda/jobs/4103637008 | QGenda | SDET — not evaluated
+- [ ] https://jobs.ashbyhq.com/mexdigital/16d5e7c6-7af0-4dc8-a510-1f79f1fdda2a | Multibank Group | QA Engineer | Remote
+- [ ] https://remotive.com/remote/jobs/qa/sdet-engineer-1659108 | EX2 Outcoding | SDET Engineer
+- [ ] https://wellfound.com/jobs/2726462-senior-qa-automation-engineer-remote-overseas-us-pst-hours | KangarooHealth | Senior QA Automation Engineer (Remote US PST)
+- [ ] https://www.dice.com/job-detail/670c6228-e441-44de-877a-528d9d6e3a49 | Global Soft Systems | QA Automation Engineer
+- [ ] https://www.glassdoor.com/job-listing/staff-software-development-engineer-in-test-alteryx-JV_KO0,43_KE44,51.htm?jl=1010035670451 | Alteryx | Staff Software Development Engineer in Test
+- [ ] https://www.linkedin.com/jobs/view/mobile-sdet-at-onfleet-2892589040 | Onfleet | Mobile SDET
