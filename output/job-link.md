@@ -1,4 +1,10 @@
 
+## 2026-04-23 13:40 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
+
 ## 2026-04-23 13:13 (WebSearch scan) — 0 new offers
 
 _(no new offers this run — all previously seen)_
