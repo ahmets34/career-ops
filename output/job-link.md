@@ -55,6 +55,12 @@ _(no new offers this run)_
 
 <!-- Auto-updated after each scan. Newest entries at the top. -->
 
+
+## 2026-04-23 15:19 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
 ## 2026-04-23 14:14 (WebSearch scan)
 
 ### Remote
