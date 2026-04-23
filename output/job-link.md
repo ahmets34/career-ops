@@ -1,4 +1,40 @@
 
+## 2026-04-23 16:07 (WebSearch scan)
+
+### Remote
+
+- [Assured - Staff QA Engineer](https://jobs.ashbyhq.com/assured/4f27b41f-001d-46f1-afad-532ac5b0f139) _(Remote - pending evaluation)_
+- [Wander - Quality Assurance (QA) Engineer](https://jobs.ashbyhq.com/wander/121c24e0-eeff-49a8-ac56-793d2dbc9fcd) _(Remote - pending evaluation)_
+- [Serve Robotics - QA Engineer Platform and Ops Tooling](https://jobs.ashbyhq.com/serverobotics/050cf1d0-4286-42e5-9b49-3659dada68d2) _(Remote - pending evaluation)_
+- [Collectors - Staff QA Automation Engineer/SDET](https://boards.greenhouse.io/collectorsuniverse/jobs/5451432004) _(Remote - pending evaluation)_
+- [VGS - Staff SDET](https://www.linkedin.com/jobs/view/staff-sdet-at-vgs-3550782736) _(Remote US - pending evaluation)_
+- [Quanata - Senior SDET](https://www.linkedin.com/jobs/view/senior-sdet-remote-at-quanata-3928390964) _(Remote US - pending evaluation)_
+- [Alkami Technology - Sr Staff SDET](https://www.linkedin.com/jobs/view/sr-staff-sdet-at-alkami-technology-4189004677) _(Remote US - pending evaluation)_
+- [Collectors - Senior QA Automation Engineer](https://www.linkedin.com/jobs/view/senior-qa-automation-engineer-at-collectors-3208678580) _(Remote - pending evaluation)_
+- [Prohires - SDET Automation Engineer](https://www.dice.com/job-detail/3ef8c77d-3e03-4255-9c90-480e118ead35) _(Remote - pending evaluation)_
+- [Techwizens LLC - SDET QA Automation Engineer](https://www.dice.com/job-detail/86286a9b-faa7-4cdd-9af8-5515e1e9727e) _(Remote - pending evaluation)_
+- [ASSYST - Test Automation Engineer (SDET)](https://www.dice.com/job-detail/f807828f-42de-462d-9bc9-8d4cfa023b21) _(Remote - pending evaluation)_
+- [Accylerate - QA Automation Engineer](https://www.dice.com/job-detail/8223b9cf-a3a5-4201-a4a1-f1b9bbf3f11a) _(Remote - pending evaluation)_
+- [RapidFort - Sr SDET / Sr QA Automation Engineer](https://remotive.com/remote/jobs/qa/sr-sdet-sr-qa-automation-engineer-3880708) _(Remote USA - pending evaluation)_
+- [Gigster - SDET/QA Engineer](https://remotive.com/remote-jobs/qa/sdet-qa-engineer-1364520) _(Remote - pending evaluation)_
+- [Cloudlinux - SDET/QA Automation Lead](https://remotive.com/remote/jobs/qa/sdet-qa-automation-lead-3778571) _(Remote worldwide - pending evaluation)_
+- [Gigster - SDET/QA Engineer](https://remotive.com/remote-jobs/qa/sdet-qa-engineer-1992693) _(Remote - pending evaluation)_
+
+### Location
+
+- [Jobs via Dice - Senior SDET Engineer](https://www.linkedin.com/jobs/view/senior-sdet-engineer-at-jobs-via-dice-4263149499) _(United States - pending evaluation)_
+- [SAS - Senior SDET](https://www.linkedin.com/jobs/view/senior-software-development-engineer-in-test-sdet-at-sas-3747669613) _(Cary, NC - pending evaluation)_
+- [Abbott - Staff SDET](https://www.linkedin.com/jobs/view/staff-sdet-at-abbott-4034421121) _(Alameda, CA - pending evaluation)_
+- [SADA - Senior QA Automation Engineer](https://www.linkedin.com/jobs/view/senior-qa-automation-engineer-at-sada-2939989681) _(Los Angeles, CA - pending evaluation)_
+- [CyberCoders - Senior QA Automation Engineer](https://www.linkedin.com/jobs/view/senior-qa-automation-engineer-at-cybercoders-3099499399) _(Denver, CO - pending evaluation)_
+- [Gallup - Senior QA Automation Engineer](https://www.linkedin.com/jobs/view/senior-qa-automation-engineer-at-gallup-3300516759) _(Sioux Falls, SD - pending evaluation)_
+- [Age of Learning - Senior QA Automation Engineer Mobile](https://www.linkedin.com/jobs/view/senior-qa-automation-engineer-mobile-at-age-of-learning-3729462387) _(United States - pending evaluation)_
+- [Fragomen - Senior Quality Assurance Automation Engineer](https://www.linkedin.com/jobs/view/senior-quality-assurance-automation-engineer-at-fragomen-3196969187) _(United States - pending evaluation)_
+- [ElevaIT Solutions - QA Automation Engineer](https://www.dice.com/job-detail/556f6d3b-ee19-47c3-bbdf-f3fe32c61801) _(Atlanta, GA - pending evaluation)_
+- [QGenda - Software Development Engineer in Test (SDET)](https://builtin.com/job/engineer/software-development-engineer-test-sdet/305030) _(United States - pending evaluation)_
+
+---
+
 ## 2026-04-23 12:00 (scan.mjs — API scan)
 
 _(no new offers this run)_
