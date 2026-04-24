@@ -6,6 +6,11 @@
 
 ## Pendientes
 
+- [ ] https://jobs.ashbyhq.com/tempo/ee7c084e-d0cb-4b7a-adde-064e8a23207d | Tempo | QA Specialist - Agent+
+- [ ] https://jobs.lever.co/jobgether/e133f812-210d-43d1-ac1a-8321f7c1eb55 | Jobgether | Remote QA Automation Lead
+- [ ] https://jobs.lever.co/jobgether/f9a23e1c-371e-44de-ab6a-29bc0907cf40 | Jobgether | Lead QA Engineer
+- [ ] https://jobs.lever.co/jobgether/9d12f3fb-4e62-47f6-90fa-b71f41a0f5f5 | Jobgether | Quality Assurance Engineer
+- [ ] https://jobs.lever.co/jobgether/a49e19eb-e929-452a-be54-fdfb5326d80a | Jobgether | QA Engineer
 - [ ] https://jobs.ashbyhq.com/assured/4f27b41f-001d-46f1-afad-532ac5b0f139 | Assured | Staff QA Engineer
 - [ ] https://jobs.ashbyhq.com/wander/121c24e0-eeff-49a8-ac56-793d2dbc9fcd | Wander | Quality Assurance (QA) Engineer
 - [ ] https://jobs.ashbyhq.com/serverobotics/050cf1d0-4286-42e5-9b49-3659dada68d2 | Serve Robotics | QA Engineer Platform and Ops Tooling

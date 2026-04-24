@@ -1,3 +1,20 @@
+## 2026-04-24 08:08 (WebSearch scan) — 5 new offers
+
+### Remote
+- [Tempo - QA Specialist - Agent+](https://jobs.ashbyhq.com/tempo/ee7c084e-d0cb-4b7a-adde-064e8a23207d) _(Remote - pending evaluation)_
+- [Jobgether - Remote QA Automation Lead](https://jobs.lever.co/jobgether/e133f812-210d-43d1-ac1a-8321f7c1eb55) _(Remote - pending evaluation)_
+- [Jobgether - Lead QA Engineer](https://jobs.lever.co/jobgether/f9a23e1c-371e-44de-ab6a-29bc0907cf40) _(Remote - pending evaluation)_
+- [Jobgether - Quality Assurance Engineer](https://jobs.lever.co/jobgether/9d12f3fb-4e62-47f6-90fa-b71f41a0f5f5) _(Remote - pending evaluation)_
+- [Jobgether - QA Engineer](https://jobs.lever.co/jobgether/a49e19eb-e929-452a-be54-fdfb5326d80a) _(Remote - pending evaluation)_
+
+---
+
+## 2026-04-24 08:08 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
+
 ## 2026-04-23 23:40 (WebSearch scan) — 0 new offers
 
 _(no new offers this run — all previously seen)_
