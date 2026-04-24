@@ -16,6 +16,7 @@
  */
 
 import { readFileSync, writeFileSync, appendFileSync, existsSync, mkdirSync } from 'fs';
+import { execSync } from 'child_process';
 import yaml from 'js-yaml';
 const parseYaml = yaml.load;
 
@@ -255,6 +256,13 @@ async function main() {
   const companyFlag = args.indexOf('--company');
   const filterCompany = companyFlag !== -1 ? args[companyFlag + 1]?.toLowerCase() : null;
 
+  // Fetch remote so we can read origin/main:output/job-link.md in step 7
+  if (!dryRun) {
+    try {
+      execSync('git fetch origin main', { stdio: 'ignore' });
+    } catch { /* offline — continue anyway */ }
+  }
+
   // 1. Read portals.yml
   if (!existsSync(PORTALS_PATH)) {
     console.error('Error: portals.yml not found. Run onboarding first.');
@@ -359,6 +367,41 @@ async function main() {
 
   console.log(`\n→ Run /career-ops pipeline to evaluate new offers.`);
   console.log('→ Share results and get help: https://discord.gg/8pRpHETxa4');
+
+  // 7. Update job-link.md
+  if (!dryRun) {
+    const JOB_LINK_PATH = 'output/job-link.md';
+    mkdirSync('output', { recursive: true });
+
+    const now = new Date();
+    const timeStr = now.toLocaleTimeString('en-US', {
+      timeZone: 'America/New_York',
+      hour: '2-digit',
+      minute: '2-digit',
+      hour12: false,
+    });
+
+    const header = `## ${date} ${timeStr} (scan.mjs — API scan)\n\n`;
+    let body;
+    if (newOffers.length > 0) {
+      body = newOffers.map(o =>
+        `- [${o.company} — ${o.title}](${o.url})${o.location ? ' · ' + o.location : ''}`
+      ).join('\n') + '\n';
+    } else {
+      body = '_(no new offers this run)_\n';
+    }
+
+    const section = header + body + '\n---\n\n';
+
+    // Base on remote version so WebSearch sections from CCR agents stay visible
+    let existing;
+    try {
+      existing = execSync('git show origin/main:output/job-link.md', { encoding: 'utf-8' });
+    } catch {
+      existing = existsSync(JOB_LINK_PATH) ? readFileSync(JOB_LINK_PATH, 'utf-8') : '';
+    }
+    writeFileSync(JOB_LINK_PATH, section + existing, 'utf-8');
+  }
 }
 
 main().catch(err => {
