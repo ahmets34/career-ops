@@ -1,3 +1,9 @@
+## 2026-04-24 16:21 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
+
 ## 2026-04-24 15:24 (WebSearch scan) — 0 new offers
 
 _(no new offers this run — all previously seen)_
@@ -1751,3 +1757,6 @@ _No new offers found._
 - [Juniper Square — QA Automation Engineer II](https://jobs.ashbyhq.com/junipersquare/f59291cf-97f9-46b9-8034-aac7293544eb)
 - [Accenture Federal Services — Quality Engineer (Automation Tester)](https://job-boards.greenhouse.io/accenturefederalservices/jobs/4675354006)
 - [State Affairs — Quality Assurance Engineer](https://job-boards.greenhouse.io/stateaffairs/jobs/4132189009)
+
+## 2026-04-24 16:21 EDT
+_No new offers found._
