@@ -1718,3 +1718,23 @@ _(none)_
 
 ## 2026-04-24 15:05 EDT
 _No new offers found._
+
+## 2026-04-24 15:02 EDT
+- [Glassdoor — Senior Software Test Automation Engineer](https://boards.greenhouse.io/glassdoor/jobs/4975772002)
+- [Oddball — Senior QA Test Automation Engineer](https://job-boards.greenhouse.io/oddball/jobs/6675281003)
+- [Elite Technology — Senior Software Test Engineer](https://job-boards.greenhouse.io/elitetechnology/jobs/5129511008)
+- [HeartFlow — Senior Engineer in Test](https://boards.greenhouse.io/heartflowinc/jobs/4178806004)
+- [Parspec — Senior SDET](https://jobs.ashbyhq.com/parspec/b3112352-c571-4be9-a85c-ad572353902c)
+- [1950Labs — Sr. QA Automation Engineer](https://himalayas.app/companies/1950labs/jobs/sr-qa-automation-engineer)
+- [Element Solutions — Sr. Software Development Engineer in Test](https://himalayas.app/companies/element-solutions/jobs/sr-software-development-engineer-in-test)
+- [Trimble — SDET II](https://builtin.com/job/software-development-engineer-test-sdet-ii/4158755)
+- [Quanata — SDET (Back End, Remote US)](https://himalayas.app/companies/quanata-llc/jobs/sdet-back-end-remote-us)
+- [The Zebra — Senior Quality Engineer](https://jobs.ashbyhq.com/The%20Zebra/65955a20-eafd-4075-b2fb-6883e58bf84f)
+- [The Zebra — Quality Engineer II](https://jobs.ashbyhq.com/The%20Zebra/8502ee88-efcd-4802-bfd4-71c426f56939)
+- [ZeekTek — Sr. Lead SDET QA Automation Engineer (100% Remote)](https://www.linkedin.com/jobs/view/sr-lead-sdet-qa-automation-engineer-100%-remote-contract-to-permanent-job-at-zeektek-4383909933)
+- [AI Squared — QA Engineer](https://job-boards.greenhouse.io/aisquared/jobs/4621299006)
+- [Data Edge — SDET](https://himalayas.app/companies/data-edge/jobs/software-development-engineer-in-test-sdet)
+- [Qventus — SDET/QA Engineer](https://jobs.ashbyhq.com/qventus/b0b5805c-951c-4797-be3e-a079328faa2b)
+- [Juniper Square — QA Automation Engineer II](https://jobs.ashbyhq.com/junipersquare/f59291cf-97f9-46b9-8034-aac7293544eb)
+- [Accenture Federal Services — Quality Engineer (Automation Tester)](https://job-boards.greenhouse.io/accenturefederalservices/jobs/4675354006)
+- [State Affairs — Quality Assurance Engineer](https://job-boards.greenhouse.io/stateaffairs/jobs/4132189009)
