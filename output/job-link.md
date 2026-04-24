@@ -1,3 +1,25 @@
+## 2026-04-24 18:07 EDT (WebSearch scan) — 17 new offers
+
+- [Quanata — Senior SDET [Remote]](https://boards.greenhouse.io/quanata/jobs/5159154004)
+- [Apollo.io — Senior SDET](https://boards.greenhouse.io/apolloio/jobs/5189009004)
+- [Veza Technologies — Senior SDET](https://job-boards.greenhouse.io/veza/jobs/5722315004)
+- [BrightAI — Staff QA Engineer](https://job-boards.greenhouse.io/brightai/jobs/5421978004)
+- [Motive — Salesforce QA Automation Engineer](https://job-boards.greenhouse.io/gomotive/jobs/8463895002)
+- [Logos — Test Automation Engineer](https://job-boards.greenhouse.io/logos/jobs/7122961)
+- [Jobgether — Senior Test Automation Engineer (Remote CA)](https://jobs.lever.co/jobgether/d1d77512-cf25-40d9-9e16-f712d7ca77ad)
+- [Jobgether — Senior Test Automation Engineer (Remote GA)](https://jobs.lever.co/jobgether/26915045-5a7c-4f1f-bcd0-ca838e468025)
+- [Jobgether — Senior Test Automation Engineer (Remote IL)](https://jobs.lever.co/jobgether/992ba916-3a24-46ac-ae15-390db17fb15e)
+- [Halcyon — Cloud Test Automation Engineer](https://job-boards.greenhouse.io/halcyon/jobs/5808645004)
+- [Cribl — Engineering Manager, SDET](https://job-boards.greenhouse.io/cribl/jobs/5673481004)
+- [Cyware — SDET - Python (REMOTE)](https://boards.greenhouse.io/cyware/jobs/5794592003)
+- [iHerb — Software Development Engineer in Test II (Remote)](https://boards.greenhouse.io/iherb/jobs/5529887003)
+- [Chili Piper — QA Automation Engineer](https://weworkremotely.com/remote-jobs/chili-piper-qa-automation-engineer)
+- [Mill — Software Development Engineer in Test](https://job-boards.greenhouse.io/mill/jobs/4676918005)
+- [Mosaic.tech — Senior QA Engineer / SDET / Automation Engineer](https://www.linkedin.com/jobs/view/senior-qa-engineer-sdet-automation-engineer-at-mosaic-tech-2889129172)
+- [CyberCoders — Remote QA Automation Engineer (Playwright/TypeScript)](https://www.linkedin.com/jobs/view/remote-qa-automation-engineer-playwright-typescript-ui-at-cybercoders-3686709363)
+
+---
+
 ## 2026-04-24 17:12 (scan.mjs — API scan)
 
 _(no new offers this run)_
