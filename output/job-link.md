@@ -1,3 +1,17 @@
+## 2026-04-23 23:31 (WebSearch scan) — 2 new offers
+
+### Remote
+- [HeyMilo - Quality Assurance (QA)](https://jobs.ashbyhq.com/heymilo/9940698f-82a5-4a55-b5d4-526edcda7197) _(Remote - pending evaluation)_
+- [Jobgether - QA Lead - Fully remote (Worldwide)](https://jobs.lever.co/jobgether/69e2c64f-c8a8-4d58-910a-e8d4292e0593) _(Worldwide Remote - pending evaluation)_
+
+---
+
+## 2026-04-24 23:32 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
+
 
 ## 2026-04-23 18:13 (WebSearch scan) — 4 new offers
 

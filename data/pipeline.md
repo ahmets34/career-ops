@@ -12,6 +12,8 @@
 - [ ] https://boards.greenhouse.io/collectorsuniverse/jobs/5451432004 | Collectors | Staff QA Automation Engineer/SDET
 - [ ] https://www.linkedin.com/jobs/view/staff-sdet-at-vgs-3550782736 | VGS | Staff SDET
 - [ ] https://www.linkedin.com/jobs/view/senior-sdet-engineer-at-jobs-via-dice-4263149499 | Jobs via Dice | Senior SDET Engineer
+- [ ] https://jobs.ashbyhq.com/heymilo/9940698f-82a5-4a55-b5d4-526edcda7197 | HeyMilo | Quality Assurance (QA)
+- [ ] https://jobs.lever.co/jobgether/69e2c64f-c8a8-4d58-910a-e8d4292e0593 | Jobgether | QA Lead - Fully remote (Worldwide)
 - [ ] https://www.linkedin.com/jobs/view/senior-software-development-engineer-in-test-sdet-at-sas-3747669613 | SAS | Senior SDET
 - [ ] https://www.linkedin.com/jobs/view/senior-sdet-remote-at-quanata-3928390964 | Quanata | Senior SDET
 - [ ] https://www.linkedin.com/jobs/view/sr-staff-sdet-at-alkami-technology-4189004677 | Alkami Technology | Sr Staff SDET
