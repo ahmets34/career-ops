@@ -1,3 +1,16 @@
+## 2026-04-24 15:24 (WebSearch scan) — 0 new offers
+
+_(no new offers this run — all previously seen)_
+
+---
+
+
+## 2026-04-24 15:15 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
+
 ## 2026-04-24 15:06 (scan.mjs — API scan)
 
 _(no new offers this run)_
