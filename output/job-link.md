@@ -1,3 +1,9 @@
+## 2026-04-24 18:17 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
+
 ## 2026-04-24 18:07 EDT (WebSearch scan) — 17 new offers
 
 - [Quanata — Senior SDET [Remote]](https://boards.greenhouse.io/quanata/jobs/5159154004)
@@ -1790,4 +1796,7 @@ _No new offers found._
 _No new offers found._
 
 ## 2026-04-24 17:11 EDT
+_No new offers found._
+
+## 2026-04-24 18:17 EDT
 _No new offers found._
