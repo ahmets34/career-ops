@@ -1,3 +1,9 @@
+## 2026-04-24 17:12 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
+
 ## 2026-04-24 16:21 (scan.mjs — API scan)
 
 _(no new offers this run)_
@@ -1759,4 +1765,7 @@ _No new offers found._
 - [State Affairs — Quality Assurance Engineer](https://job-boards.greenhouse.io/stateaffairs/jobs/4132189009)
 
 ## 2026-04-24 16:21 EDT
+_No new offers found._
+
+## 2026-04-24 17:11 EDT
 _No new offers found._
