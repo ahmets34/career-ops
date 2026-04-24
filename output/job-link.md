@@ -1,3 +1,16 @@
+## 2026-04-24 13:10 (WebSearch scan) — 1 new offer
+
+### Location
+- [Xsolla - Senior QA Automation Engineer](https://jobs.lever.co/xsolla/98156612-0720-4b0e-8eb1-069748cb5608) _(pending evaluation)_
+
+---
+
+## 2026-04-24 13:10 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
+
 ## 2026-04-24 10:05 (WebSearch scan) — 1 new offer
 
 ### Remote

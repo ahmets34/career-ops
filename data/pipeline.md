@@ -6,6 +6,7 @@
 
 ## Pendientes
 
+- [ ] https://jobs.lever.co/xsolla/98156612-0720-4b0e-8eb1-069748cb5608 | Xsolla | Senior QA Automation Engineer
 - [ ] https://wellfound.com/jobs/3021602-software-engineer-qa | QA Wolf | Software Engineer QA
 - [ ] https://jobs.ashbyhq.com/tempo/ee7c084e-d0cb-4b7a-adde-064e8a23207d | Tempo | QA Specialist - Agent+
 - [ ] https://jobs.lever.co/jobgether/e133f812-210d-43d1-ac1a-8321f7c1eb55 | Jobgether | Remote QA Automation Lead
