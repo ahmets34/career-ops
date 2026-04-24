@@ -1,3 +1,9 @@
+## 2026-04-24 15:06 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
+
 ## 2026-04-24 13:10 (WebSearch scan) — 1 new offer
 
 ### Location
@@ -1709,3 +1715,6 @@ _(none)_
 
 ### Expired / Closed / Non-US
 _(none)_
+
+## 2026-04-24 15:05 EDT
+_No new offers found._
