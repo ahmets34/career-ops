@@ -1,3 +1,16 @@
+## 2026-04-24 10:05 (WebSearch scan) — 1 new offer
+
+### Remote
+- [QA Wolf - Software Engineer QA](https://wellfound.com/jobs/3021602-software-engineer-qa) _(remote - pending evaluation)_
+
+---
+
+## 2026-04-24 10:05 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
+
 ## 2026-04-24 08:08 (WebSearch scan) — 5 new offers
 
 ### Remote
