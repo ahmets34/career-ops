@@ -1,3 +1,18 @@
+## 2026-04-25 10:04 EDT — 10 new offers
+
+- [Altana — Principal SDET](https://job-boards.greenhouse.io/altanaai/jobs/6281619003)
+- [Softrams — QA Engineer (Automated Testing)](https://jobs.lever.co/softrams/ef0f6e8e-07b1-4076-a937-4498e8516ef0)
+- [Vida Health — Lead QA Automation Engineer](https://jobs.lever.co/vida/0abe5d46-784a-42fb-beaa-fc1351bf7828)
+- [When I.T. Matters LLC — Senior QA Automation Engineer](https://www.dice.com/job-detail/1aed614d-80d2-4cf8-8a27-bcef1c95311e)
+- [OneTrust — Principal Quality Engineer - SDET](https://job-boards.greenhouse.io/onetrust/jobs/7656977)
+- [Equip — Senior QA Automation Engineer](https://apply.workable.com/equip/j/99A3C331B1)
+- [Cohere Health — Senior QA Automation Engineer](https://job-boards.greenhouse.io/coherehealth/jobs/7703927003)
+- [Medrio — Automation Engineer (Mid-level SDET)](https://job-boards.greenhouse.io/medrio/jobs/8468590002)
+- [Jobgether — Remote QA Engineer](https://jobs.lever.co/jobgether/19ba8d10-a54d-438c-9438-990d702deda4)
+- [Jobgether — QA Automation Engineer (Data)](https://jobs.lever.co/jobgether/9c1ba583-8940-44de-abc0-65ca457efd6d)
+
+---
+
 ## 2026-04-25 22:09 (scan.mjs — API scan)
 
 _(no new offers this run)_
