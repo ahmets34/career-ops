@@ -1,3 +1,19 @@
+## 2026-04-25 18:20 EDT — 11 new offers
+
+- [KnowBe4 — QA Engineer (MIS) (Remote)](https://job-boards.greenhouse.io/knowbe4/jobs/8500816002)
+- [Tailscale — QA Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4571327005)
+- [ClickHouse — QA Engineer - Core Database (Remote)](https://job-boards.greenhouse.io/clickhouse/jobs/5654024004)
+- [Affinitiv — Software Test Engineer (Automation)](https://job-boards.greenhouse.io/affinitiv/jobs/7601528003)
+- [Jobgether — Remote Senior QA Engineer](https://jobs.lever.co/jobgether/205e6d24-e975-4029-a3ec-078f8e47800f)
+- [Gravie — AI Test Automation Engineer](https://jobs.lever.co/gravie/1a651cf9-4c31-417b-9b9b-4aaa2dc9de6e)
+- [Valsoft — SDET - Automation | Java | US Healthcare](https://himalayas.app/companies/valsoft-corporation/jobs/software-development-engineer-in-test-sdet-automation-java-us-healthcare)
+- [KnowBe4 — Automated Testing/QA Lead - SaaS Ecosystem (Remote)](https://job-boards.greenhouse.io/knowbe4/jobs/8402290002)
+- [ASAPP — Lead QA Engineer](https://jobs.lever.co/asapp-2/8f11e60b-d1eb-4cdf-b6eb-c9d07142acd3)
+- [Jobgether — Test Automation Engineer (Remote - US)](https://apply.workable.com/jobgether/j/2DF8862552)
+- [Aretum — QA Automation Test Engineer](https://apply.workable.com/aretum/j/13ADE336DC)
+
+---
+
 ## 2026-04-25 10:04 EDT — 10 new offers
 
 - [Altana — Principal SDET](https://job-boards.greenhouse.io/altanaai/jobs/6281619003)
