@@ -1,3 +1,9 @@
+## 2026-04-25 22:09 (scan.mjs — API scan)
+
+_(no new offers this run)_
+
+---
+
 ## 2026-04-25 21:05 (scan.mjs — API scan)
 
 _(no new offers this run)_
@@ -1826,4 +1832,7 @@ _No new offers found._
 _No new offers found._
 
 ## 2026-04-24 21:04 EDT
+_No new offers found._
+
+## 2026-04-24 22:09 EDT
 _No new offers found._
