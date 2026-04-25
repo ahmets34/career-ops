@@ -1856,3 +1856,10 @@ _No new offers found._
 - [Cribl — Staff Software Developer in Test](https://job-boards.greenhouse.io/cribl/jobs/5701734004)
 - [NeuraFlash — Quality Assurance Lead](https://job-boards.greenhouse.io/neuraflash/jobs/5978041004)
 - [ThalamusGME — Software Development Engineer in Test](https://job-boards.greenhouse.io/thalamusgme/jobs/4823584007)
+
+## 2026-04-25 13:12 EDT (WebSearch scan) — 4 new offers
+
+- [Elite Technology — Lead Software Development Engineer in Test](https://job-boards.greenhouse.io/elitetechnology/jobs/4751280008)
+- [Offchain Labs — Senior Quality Engineer, Platform](https://jobs.lever.co/offchainlabs/ecb0944a-fd48-43c6-95d1-1d4b228c86b9)
+- [OpenGov — SDET III](https://jobs.ashbyhq.com/opengov/8e8f6db6-945a-4d19-a119-ff6614903919)
+- [Swap — Senior SDET](https://jobs.ashbyhq.com/swap/edfe8478-2236-4d50-ba4b-b5d624fab58d)
