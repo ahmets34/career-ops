@@ -1836,3 +1836,8 @@ _No new offers found._
 
 ## 2026-04-24 22:09 EDT
 _No new offers found._
+
+## 2026-04-25 08:26 EDT
+- [Cribl — Staff Software Developer in Test](https://job-boards.greenhouse.io/cribl/jobs/5701734004)
+- [NeuraFlash — Quality Assurance Lead](https://job-boards.greenhouse.io/neuraflash/jobs/5978041004)
+- [ThalamusGME — Software Development Engineer in Test](https://job-boards.greenhouse.io/thalamusgme/jobs/4823584007)
