@@ -1931,3 +1931,17 @@ _No new offers found._
 - [Hubstaff — Senior/Lead Software Test Automation Engineer (Remote Contractor)](https://jobs.ashbyhq.com/hubstaff/2696b052-72fd-4d05-907c-c1cd065234df)
 - [Weave — Senior SDET](https://job-boards.greenhouse.io/weave/jobs/4116536009)
 - [PlayStation (Sony) — SDET II](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5969889004)
+
+## 2026-04-26 13:05 EDT — 11 new offers
+
+- [Keeper Security — SDET, Browser Extension](https://job-boards.greenhouse.io/keepersecurity/jobs/4204775009)
+- [Rialtic — Software Developer in Test (SDET)](https://boards.greenhouse.io/rialtic/jobs/6490114003)
+- [Equip Health — Senior Software Development Engineer In Test](https://jobs.ashbyhq.com/equip/ca0da98b-8575-4799-84c0-d174d0e6be0d)
+- [Motive — Senior QA - Test Automation Engineer](https://remotive.com/remote/jobs/qa/senior-qa-test-automation-engineer-3876740)
+- [CSG — QA Test Engineer Senior](https://remotive.com/remote/jobs/qa/qa-test-engineer-senior-4296632)
+- [Jobgether — Lead QA Tester (Remote)](https://jobs.lever.co/jobgether/7b753948-dfb7-4036-a09b-54ff6f176a70)
+- [Jobgether — Remote QA Engineer](https://jobs.lever.co/jobgether/c751355b-9426-4092-ac14-e38190984c2a)
+- [Whoop — Senior Embedded QA Automation Engineer](https://jobs.lever.co/whoop/6d06050b-2f74-4be4-a30e-eb0d4a469cca)
+- [Jobgether — Senior Quality Assurance Engineer (REMOTE)](https://jobs.lever.co/jobgether/784b8e48-8bde-4ec1-800c-82c86b557770)
+- [Jobgether — Remote Senior QA Specialist](https://jobs.lever.co/jobgether/908f9253-a6c3-481c-a97d-a3266687db5e)
+- [Keeper Security — QA Analyst, Browser Extension](https://job-boards.greenhouse.io/keepersecurity/jobs/4090623009)
