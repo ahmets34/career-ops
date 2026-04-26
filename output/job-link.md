@@ -1,3 +1,27 @@
+## 2026-04-26 08:03 EDT — 19 new offers
+
+- [Mattermost — Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/mattermost/jobs/4889100008)
+- [AIP Publishing — Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/aippublishing/jobs/5638793004)
+- [Flex — Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/flex/jobs/4684410005)
+- [Zoox — Software Development Engineer in Test, Product Software](https://jobs.lever.co/zoox/eceb3a6d-9cbe-4241-ab70-e6e45509390a)
+- [Real — Senior QA Automation Engineer - Tech Lead](https://jobs.ashbyhq.com/real/6d4bc00f-7682-454a-9c87-c3adee0af77b)
+- [RealPage — QA Engineer III (Selenium/Playwright)](https://weworkremotely.com/remote-jobs/realpage-qa-engineer-iii-selenium-playwright)
+- [Loka Inc — Senior Quality Assurance Specialist](https://job-boards.greenhouse.io/lokainc/jobs/5045145007)
+- [EarnIn — Senior SDET - Tooling Engineer](https://job-boards.greenhouse.io/earnin/jobs/7403324)
+- [OneTrust — Senior Quality Engineer - SDET](https://job-boards.greenhouse.io/onetrust/jobs/7608831)
+- [Finite State — QA Lead Engineer (AI-First)](https://job-boards.greenhouse.io/finitestate/jobs/5811251004)
+- [Zynga — Senior Software Developer in Test (Sr. SDET)](https://job-boards.greenhouse.io/zyngacareers/jobs/5759508004)
+- [Nautical Commerce — Software Development Engineer in Test (SDET)](https://jobs.ashbyhq.com/nautical-commerce/0bbb5966-8f46-41d9-bee6-e93a51d36b4b)
+- [Agile Six — QA Engineer (Remote US)](https://job-boards.greenhouse.io/agilesix/jobs/6573515003)
+- [Amount — Automation Engineer](https://job-boards.greenhouse.io/amount/jobs/4868946007)
+- [Everbridge — Software Development Engineer in Test (SDET)](https://jobs.lever.co/everbridge/11f4c133-18e5-487e-b3dd-800abc0e6401)
+- [Veeva Systems — Software Engineer in Test](https://jobs.lever.co/veeva/34c41864-e8c4-4bcc-8374-7cc4190f6fdb)
+- [Stand Together — Lead Software Development Engineer in Test (SDET)](https://jobs.lever.co/standtogether/6b4bc05b-e759-4d95-bf12-98a7e1fba7bf)
+- [BlackCloak — Software Development Engineer in Test (SDET)](https://jobs.lever.co/BlackCloak/a83ba757-873b-4187-a7ea-2862621b1e45)
+- [Divvy (BILL) — Senior Software Engineer in Test](https://jobs.lever.co/divvypay/93f20555-befc-4436-b640-3cc329af10cc)
+
+---
+
 ## 2026-04-25 18:20 EDT — 11 new offers
 
 - [KnowBe4 — QA Engineer (MIS) (Remote)](https://job-boards.greenhouse.io/knowbe4/jobs/8500816002)
