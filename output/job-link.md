@@ -1945,3 +1945,16 @@ _No new offers found._
 - [Jobgether — Senior Quality Assurance Engineer (REMOTE)](https://jobs.lever.co/jobgether/784b8e48-8bde-4ec1-800c-82c86b557770)
 - [Jobgether — Remote Senior QA Specialist](https://jobs.lever.co/jobgether/908f9253-a6c3-481c-a97d-a3266687db5e)
 - [Keeper Security — QA Analyst, Browser Extension](https://job-boards.greenhouse.io/keepersecurity/jobs/4090623009)
+
+## 2026-04-26 15:01 EDT
+- [Mesh — Senior QA Automation Engineer](https://job-boards.greenhouse.io/mesh/jobs/5199203008)
+- [Radformation — Senior QA Automation Engineer](https://jobs.lever.co/radformation/26e72787-8ac0-4058-8645-dc919ae815da)
+- [ICF — Senior DevSecOps Test Automation Engineer](https://remotive.com/remote/jobs/qa/senior-devsecops-test-automation-engineer-4419377)
+- [Adapter — Test Automation Engineer](https://job-boards.greenhouse.io/adapter/jobs/4422297008)
+- [Jobgether — Senior QA Automation Engineer](https://jobs.lever.co/jobgether/193d8c64-ec73-45e7-aa34-db55d192c8d9)
+- [PlayStation (SIE) — Senior SDET – QA Lead Focus](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5586168004)
+- [Anduril — Test Automation Engineer](https://job-boards.greenhouse.io/andurilindustries/jobs/4739929007)
+- [Reveal Technology — Quality Assurance Engineer](https://jobs.lever.co/revealtech/45032a27-633d-447f-b875-e3ce70ced2db)
+- [Onebrief — Software Development Engineer in Test](https://jobs.ashbyhq.com/onebrief/91e6c5c3-7552-4dcf-a06e-16cc6212efb7/application)
+- [Delos Data — Software Development Engineer in Test (AI)](https://jobs.ashbyhq.com/delos-data/8be17607-cd2b-4cff-9e96-9733ea9eceeb/application)
+- [Delinea — Software Developer in Test (SDET)](https://jobs.ashbyhq.com/delinea/a40669e9-fab7-446d-bfbc-16c6218af318)
