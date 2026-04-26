@@ -1958,3 +1958,13 @@ _No new offers found._
 - [Onebrief — Software Development Engineer in Test](https://jobs.ashbyhq.com/onebrief/91e6c5c3-7552-4dcf-a06e-16cc6212efb7/application)
 - [Delos Data — Software Development Engineer in Test (AI)](https://jobs.ashbyhq.com/delos-data/8be17607-cd2b-4cff-9e96-9733ea9eceeb/application)
 - [Delinea — Software Developer in Test (SDET)](https://jobs.ashbyhq.com/delinea/a40669e9-fab7-446d-bfbc-16c6218af318)
+
+## 2026-04-26 18:04 EDT — 7 new offers
+
+- [Entersekt — Senior Quality Engineer: Automation & Integration Testing](https://job-boards.greenhouse.io/entersekt/jobs/5844534004)
+- [Network Optix — Senior Test Automation Engineer (Python)](https://job-boards.greenhouse.io/networkoptix/jobs/5068088007)
+- [ClickHouse — SDET Core Database (Remote)](https://job-boards.greenhouse.io/clickhouse/jobs/5585255004)
+- [ASICS Digital — Senior QA Automation Engineer (Remote)](https://jobs.lever.co/runkeeper/f6471ad3-cbdb-4d36-8dd8-7c1cd71d5db3)
+- [Serve Robotics — Senior QA Engineer (API)](https://jobs.ashbyhq.com/serverobotics/25076ad5-4851-4d31-8018-d24afd450476)
+- [Mechanical Licensing Collective — Software Test (QA) Engineer](https://job-boards.greenhouse.io/mechanicallicensingcollective/jobs/7657799003)
+- [A-TEK Inc — Senior QA Automation Engineer (Remote)](https://job-boards.greenhouse.io/atek/jobs/4904535008)
