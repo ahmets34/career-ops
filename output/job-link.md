@@ -1925,3 +1925,9 @@ _No new offers found._
 - [Lumen Solutions — Sr. Software Engineer, QA Automation (Remote)](https://www.dice.com/job-detail/043c7614-6805-41fe-bb3b-eda1456bb7cc)
 - [Apetan Consulting — Lead SDET (Remote)](https://www.dice.com/job-detail/1acc5d46-83c3-4696-9590-3402a09cb466)
 - [SGS Consulting — Senior Test Automation Engineer (Remote)](https://www.dice.com/job-detail/d6f99aa3-5fc8-4edb-ba55-c4f5633c574c)
+
+## 2026-04-26 10:11 EDT
+- [Built In — QA Automation Engineer](https://boards.greenhouse.io/builtin/jobs/3041661)
+- [Hubstaff — Senior/Lead Software Test Automation Engineer (Remote Contractor)](https://jobs.ashbyhq.com/hubstaff/2696b052-72fd-4d05-907c-c1cd065234df)
+- [Weave — Senior SDET](https://job-boards.greenhouse.io/weave/jobs/4116536009)
+- [PlayStation (Sony) — SDET II](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5969889004)
