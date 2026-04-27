@@ -1974,3 +1974,9 @@ _No new offers found._
 - [CyberMedia Technologies — Senior Quality Assurance Engineer (Remote US)](https://job-boards.greenhouse.io/cybermediatechnologies/jobs/5101313008)
 - [SmartAsset — Software Engineer, QA (Remote, Contiguous US)](https://job-boards.greenhouse.io/smartasset/jobs/8207891002)
 - [QGenda — SDET (Remote / Atlanta-Ohio)](https://job-boards.greenhouse.io/qgenda/jobs/4549068008)
+
+## 2026-04-27 10:24 EDT — 3 new offers
+
+- [Replicant — Lead Quality Engineer (Remote US)](https://jobs.ashbyhq.com/Replicant/0329d2dc-4d2a-4aa3-b0a8-ce5746f1f2db)
+- [Khan Academy — Senior Quality Engineer (Remote US)](https://job-boards.greenhouse.io/khanacademy/jobs/7540400)
+- [Reddit — Senior Software Engineer, Android Test Engineering (Remote US)](https://job-boards.greenhouse.io/reddit/jobs/7488862)
