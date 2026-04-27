@@ -1987,3 +1987,8 @@ _No new offers found._
 - [Dialpad — Sr. SDET (Remote US)](https://job-boards.greenhouse.io/dialpad/jobs/8475155002)
 - [Lyric — SDET / Senior SDET (Remote US)](https://jobs.ashbyhq.com/lyric/0289a41b-3e29-41c0-807f-2ce86c17818c)
 - [Cofense — Automation Engineer / SDET (Remote US, Ruby/Java)](https://weworkremotely.com/remote-jobs/cofense-automation-engineer-sdet)
+
+## 2026-04-27 15:15 EDT — 2 new offers
+
+- [Reddit — Senior SDET, Android (Remote US)](https://boards.greenhouse.io/reddit/jobs/4327244)
+- [Clearer.io — Senior QA Automation Engineer (Remote US)](https://jobs.lever.co/Clearer/21e0a71d-09a1-4f76-aafc-1739f17bba53)
