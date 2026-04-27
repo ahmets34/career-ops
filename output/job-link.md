@@ -1980,3 +1980,10 @@ _No new offers found._
 - [Replicant — Lead Quality Engineer (Remote US)](https://jobs.ashbyhq.com/Replicant/0329d2dc-4d2a-4aa3-b0a8-ce5746f1f2db)
 - [Khan Academy — Senior Quality Engineer (Remote US)](https://job-boards.greenhouse.io/khanacademy/jobs/7540400)
 - [Reddit — Senior Software Engineer, Android Test Engineering (Remote US)](https://job-boards.greenhouse.io/reddit/jobs/7488862)
+
+## 2026-04-27 13:06 EDT — 4 new offers
+
+- [Softrams — Senior Automation Test Engineer (Remote US)](https://jobs.lever.co/softrams/81593fd6-74b4-4506-81aa-cecf7250adc6)
+- [Dialpad — Sr. SDET (Remote US)](https://job-boards.greenhouse.io/dialpad/jobs/8475155002)
+- [Lyric — SDET / Senior SDET (Remote US)](https://jobs.ashbyhq.com/lyric/0289a41b-3e29-41c0-807f-2ce86c17818c)
+- [Cofense — Automation Engineer / SDET (Remote US, Ruby/Java)](https://weworkremotely.com/remote-jobs/cofense-automation-engineer-sdet)
