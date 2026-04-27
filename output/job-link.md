@@ -1968,3 +1968,9 @@ _No new offers found._
 - [Serve Robotics — Senior QA Engineer (API)](https://jobs.ashbyhq.com/serverobotics/25076ad5-4851-4d31-8018-d24afd450476)
 - [Mechanical Licensing Collective — Software Test (QA) Engineer](https://job-boards.greenhouse.io/mechanicallicensingcollective/jobs/7657799003)
 - [A-TEK Inc — Senior QA Automation Engineer (Remote)](https://job-boards.greenhouse.io/atek/jobs/4904535008)
+
+## 2026-04-27 08:17 EDT
+- [SpecterOps — Testing Automation Engineer (Remote US)](https://job-boards.greenhouse.io/specterops/jobs/8523500002)
+- [CyberMedia Technologies — Senior Quality Assurance Engineer (Remote US)](https://job-boards.greenhouse.io/cybermediatechnologies/jobs/5101313008)
+- [SmartAsset — Software Engineer, QA (Remote, Contiguous US)](https://job-boards.greenhouse.io/smartasset/jobs/8207891002)
+- [QGenda — SDET (Remote / Atlanta-Ohio)](https://job-boards.greenhouse.io/qgenda/jobs/4549068008)
