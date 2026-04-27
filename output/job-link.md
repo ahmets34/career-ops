@@ -1992,3 +1992,10 @@ _No new offers found._
 
 - [Reddit — Senior SDET, Android (Remote US)](https://boards.greenhouse.io/reddit/jobs/4327244)
 - [Clearer.io — Senior QA Automation Engineer (Remote US)](https://jobs.lever.co/Clearer/21e0a71d-09a1-4f76-aafc-1739f17bba53)
+
+## 2026-04-27 18:09 EDT — 4 new offers
+
+- [Close — QA Engineer (USA Only - 100% Remote)](https://weworkremotely.com/remote-jobs/close-qa-engineer-usa-only-100-remote)
+- [TTC Global — Software QA Engineer (Playwright & API Testing)](https://job-boards.greenhouse.io/ttcglobal/jobs/7848682002)
+- [Nextech — Sr Software Engineer in Test (Remote - US)](https://builtin.com/job/software-engineer-test-remote-us/4417801)
+- [TurbineOne — Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/turbineone/jobs/5130733008)
