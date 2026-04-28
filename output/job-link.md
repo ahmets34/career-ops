@@ -1,3 +1,16 @@
+## 2026-04-28 15:12 EDT (WebSearch scan) — 8 new offers
+
+- [Reltio — Senior AI SDET](https://job-boards.greenhouse.io/reltio/jobs/5913806004)
+- [Versapay — QA Engineer](https://jobs.lever.co/versapay/f3b8bfa3-55e9-4834-a9cc-c18449930d7b)
+- [Jobgether — QA & Verifications Engineer (Remote from US)](https://jobs.lever.co/jobgether/607d96f5-a323-44f3-acde-53dd068a7315)
+- [Veeva Systems — Senior Quality Engineer - Infrastructure](https://jobs.lever.co/veeva/4921a2b6-f939-4178-b668-aa1ab0077494)
+- [Simpplr — Senior SDET (Playwright + JS/TS)](https://job-boards.greenhouse.io/simpplr/jobs/5620736004)
+- [Aisera — Senior SDET](https://job-boards.greenhouse.io/aiserajobs/jobs/5360318004)
+- [ecoATM | Gazelle — Senior SDE-T](https://job-boards.greenhouse.io/ecoatmgazelle/jobs/4926185008)
+- [Chili Piper — QA Engineer](https://weworkremotely.com/remote-jobs/chili-piper-qa-engineer)
+
+---
+
 ## 2026-04-28 13:02 EDT — 2 new offers
 
 - [Ashby — Software Developer In Test](https://jobs.ashbyhq.com/Ashby/2e0d2b8e-0f2a-4fb4-9156-703dcc1a7d7d)
