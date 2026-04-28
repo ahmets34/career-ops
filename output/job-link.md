@@ -1,3 +1,15 @@
+## 2026-04-28 18:04 EDT (WebSearch scan) — 7 new offers
+
+- [Calendly — QA Engineer III](https://job-boards.greenhouse.io/calendly/jobs/8322193002)
+- [Sphere Laboratories — Mid-Senior SDET](https://jobs.lever.co/sphere-laboratories/05776feb-ea93-4868-8210-c497f0594b04)
+- [Kikoff — QA Automation Manager](https://job-boards.greenhouse.io/kikoff/jobs/4203375009)
+- [Beautiful.ai — Senior QA Engineer](https://job-boards.greenhouse.io/beautifulai/jobs/4803551007)
+- [KnowBe4 — Snr. Software Engineer in Test](https://boards.greenhouse.io/knowbe4/jobs/5222100002)
+- [Propelus — Quality Engineer](https://jobs.ashbyhq.com/propelus/0232b914-f043-4c68-aa7b-05c1cc250aaa)
+- [Replicant — Quality Engineer](https://jobs.ashbyhq.com/replicant/34b16b04-c8c7-4c1f-a5e9-6207513e728e)
+
+---
+
 ## 2026-04-28 15:12 EDT (WebSearch scan) — 8 new offers
 
 - [Reltio — Senior AI SDET](https://job-boards.greenhouse.io/reltio/jobs/5913806004)
