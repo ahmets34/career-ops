@@ -1999,3 +1999,12 @@ _No new offers found._
 - [TTC Global — Software QA Engineer (Playwright & API Testing)](https://job-boards.greenhouse.io/ttcglobal/jobs/7848682002)
 - [Nextech — Sr Software Engineer in Test (Remote - US)](https://builtin.com/job/software-engineer-test-remote-us/4417801)
 - [TurbineOne — Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/turbineone/jobs/5130733008)
+
+## 2026-04-28 08:30 EDT — 6 new offers
+
+- [Block — Embedded Software Test Engineer - Proto](https://boards.greenhouse.io/block/jobs/4811619008)
+- [Cubic³ — Senior Test Automation Engineer](https://jobs.ashbyhq.com/cubic3/b113d5f5-050b-4f64-9e3d-c3be4d32bf01)
+- [Cerebras Systems — ML API Features SDET](https://job-boards.greenhouse.io/cerebrassystems/jobs/7610238003)
+- [Canary Technologies — Senior QA Engineer](https://jobs.lever.co/canarytechnologies/91a97aeb-357a-4ab8-9f98-997850b67d04)
+- [Earnest — Senior SDET (Remote US)](https://builtin.com/job/engineer/senior-sdet-remote/1129340)
+- [Multi Media LLC — Senior Software Developer in Test (SDET)](https://builtin.com/job/senior-software-developer-test-sdet/4718763)
