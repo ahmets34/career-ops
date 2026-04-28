@@ -2008,3 +2008,13 @@ _No new offers found._
 - [Canary Technologies — Senior QA Engineer](https://jobs.lever.co/canarytechnologies/91a97aeb-357a-4ab8-9f98-997850b67d04)
 - [Earnest — Senior SDET (Remote US)](https://builtin.com/job/engineer/senior-sdet-remote/1129340)
 - [Multi Media LLC — Senior Software Developer in Test (SDET)](https://builtin.com/job/senior-software-developer-test-sdet/4718763)
+
+## 2026-04-28 10:01 EDT
+- [Abacus Insights — Senior QA Engineer](https://job-boards.greenhouse.io/abacusinsights/jobs/8203195002)
+- [QGenda — Senior QA Engineer](https://job-boards.greenhouse.io/qgenda/jobs/5091868008)
+- [Kinetik — Senior QA Engineer](https://job-boards.greenhouse.io/kinetik/jobs/5091899007)
+- [Datacor — Senior QA Automation Engineer](https://job-boards.greenhouse.io/datacor/jobs/5068527007)
+- [Jobgether — Principal Software QA Engineer](https://jobs.lever.co/jobgether/f7562f7a-250b-4a7e-9f5f-4eab5a658762)
+- [Strivacity — Test Automation Engineer](https://job-boards.greenhouse.io/strivacity/jobs/5077109007)
+- [Vonage — SDET (QA Automation)](https://job-boards.greenhouse.io/vonage/jobs/8464346002)
+- [Subsplash — Software Development Engineer in Test III](https://job-boards.greenhouse.io/subsplash/jobs/8447432002)
