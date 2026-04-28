@@ -1,3 +1,8 @@
+## 2026-04-28 13:02 EDT — 2 new offers
+
+- [Ashby — Software Developer In Test](https://jobs.ashbyhq.com/Ashby/2e0d2b8e-0f2a-4fb4-9156-703dcc1a7d7d)
+- [Cribl — Senior Software Development Engineer in Test (SDET)](https://himalayas.app/companies/cribl/jobs/senior-software-development-engineer-in-test-sdet)
+
 ## 2026-04-26 08:03 EDT — 19 new offers
 
 - [Mattermost — Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/mattermost/jobs/4889100008)
