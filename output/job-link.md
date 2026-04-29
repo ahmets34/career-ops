@@ -1,3 +1,15 @@
+## 2026-04-29 10:11 EDT (WebSearch scan) — 7 new offers
+
+- [Cribl — Senior SDET](https://job-boards.greenhouse.io/cribl/jobs/5544783004)
+- [Neighborhoods.com — QA Specialist (1099 Contract)](https://job-boards.greenhouse.io/neighborhoodscom/jobs/6478831)
+- [Bitwarden — Associate QA Manager](https://boards.greenhouse.io/bitwarden/jobs/7640804003)
+- [Litify — Software Development Engineer in Test (SDET)](https://boards.greenhouse.io/litify/jobs/3204117)
+- [Upgrade — Senior QA Automation Engineer](https://boards.greenhouse.io/upgrade/jobs/4196268005)
+- [NVIDIA — Senior Software Development Engineer in Test (SDET)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Software-Development-Engineer-in-Test---SDET_JR2016826)
+- [Four Hands — QA Automation Engineer](https://job-boards.greenhouse.io/fourhands/jobs/4229866009)
+
+---
+
 ## 2026-04-29 08:32 EDT (WebSearch scan) — 8 new offers
 
 - [Quanata — Senior SDET (Remote-US)](https://builtin.com/job/senior-sdet-remote/2474223)
