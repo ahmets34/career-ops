@@ -1,3 +1,12 @@
+## 2026-04-29 15:10 EDT (WebSearch scan) — 4 new offers
+
+- [AlphaSense — Senior QA Automation Engineer](https://boards.greenhouse.io/alphasense/jobs/7760723002)
+- [Fresh Prints — Senior QA Automation Engineer](https://boards.greenhouse.io/freshprints/jobs/4749485004)
+- [Jobgether — Senior Test Automation Engineer](https://jobs.lever.co/jobgether/9996b96b-afc7-4d04-bc7c-e3d703bae2d6)
+- [Jobgether — Software Engineer in Test (Remote)](https://jobs.lever.co/jobgether/3ee326b4-9714-405b-b8df-4f433272bfc9)
+
+---
+
 ## 2026-04-29 13:08 EDT (WebSearch scan) — 11 new offers
 
 - [Tebra — Staff SDET](https://boards.greenhouse.io/tebra/jobs/4408479005)
