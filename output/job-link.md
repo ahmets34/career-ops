@@ -1,3 +1,19 @@
+## 2026-04-29 13:08 EDT (WebSearch scan) — 11 new offers
+
+- [Tebra — Staff SDET](https://boards.greenhouse.io/tebra/jobs/4408479005)
+- [Astronomer — Senior Software Engineer Test Automation](https://jobs.ashbyhq.com/astronomer/bb2c7284-5085-4e7c-90dd-f61db3150bfb)
+- [Onebrief — Senior Test Automation Engineer](https://jobs.ashbyhq.com/onebrief/a23da8c1-25ce-4b4f-8a25-ae02f4ba89f8)
+- [Lumilens — Senior Software Test Automation Engineer](https://jobs.ashbyhq.com/lumilens/268af14e-e0c6-429b-a088-7cff6923d639)
+- [Mia Labs — Senior Test Automation Engineer](https://jobs.ashbyhq.com/mia-labs/5156c918-c7a0-4a9a-88db-f03b52e8c0e1)
+- [Veeva Systems — Senior/Principal Automation QA Engineer](https://jobs.lever.co/veeva/9a663661-3e9a-458e-af48-bae171fda568)
+- [Jeeves — Senior QA Engineer](https://jobs.lever.co/tryjeeves/1713c5e7-b97b-423e-8e52-41da6a6d030b)
+- [Dragos — Staff SDET](https://job-boards.greenhouse.io/dragos/jobs/4926451008)
+- [Cribl — Sr Software Developer in Test (FedRamp)](https://job-boards.greenhouse.io/cribl/jobs/5656974004)
+- [FirmPilot AI — Senior SDET](https://job-boards.greenhouse.io/firmpilotailawfirmmarketing/jobs/5068572008)
+- [Murmuration — Senior QA Engineer](https://remotive.com/remote/jobs/qa/senior-qa-engineer-4102514)
+
+---
+
 ## 2026-04-29 10:11 EDT (WebSearch scan) — 7 new offers
 
 - [Cribl — Senior SDET](https://job-boards.greenhouse.io/cribl/jobs/5544783004)
