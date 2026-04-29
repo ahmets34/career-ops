@@ -1,3 +1,16 @@
+## 2026-04-29 08:32 EDT (WebSearch scan) — 8 new offers
+
+- [Quanata — Senior SDET (Remote-US)](https://builtin.com/job/senior-sdet-remote/2474223)
+- [Whoop — Software Engineer II (Quality)](https://jobs.lever.co/whoop/b6bfd5ee-635c-43fb-8f95-37907075583e)
+- [Imagine Pediatrics — QA Engineer (Remote)](https://job-boards.greenhouse.io/imaginepediatrics/jobs/4636163005)
+- [Knack — Software Engineer in Test](https://weworkremotely.com/remote-jobs/knack-software-engineer-in-test)
+- [Aerostrat — Software Engineer QA Senior (US)](https://himalayas.app/companies/aerostrat/jobs/software-engineer-qa-senior-us)
+- [Hatch IT — Senior QA Lead](https://jobs.lever.co/hatchit/ff872376-fbf8-426e-9079-18edace6820c)
+- [Emtrain — Senior Software QA & Release Manager](https://job-boards.greenhouse.io/emtrain/jobs/7646577003)
+- [Polymarket — Senior QA Engineer](https://jobs.ashbyhq.com/polymarket/110fc95d-7252-4c0f-8e04-34e6f2144f40)
+
+---
+
 ## 2026-04-28 18:04 EDT (WebSearch scan) — 7 new offers
 
 - [Calendly — QA Engineer III](https://job-boards.greenhouse.io/calendly/jobs/8322193002)
