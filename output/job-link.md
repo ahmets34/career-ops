@@ -1,3 +1,18 @@
+## 2026-04-29 18:05 EDT (WebSearch scan) — 10 new offers
+
+- [NT Concepts — Senior Test Automation Engineer](https://job-boards.greenhouse.io/ntconcepts/jobs/5981519004)
+- [Figure — Senior Test Automation Engineer](https://job-boards.greenhouse.io/figureai/jobs/4402299006)
+- [accesso — Software Engineer in Test (SDET - Mobile)](https://jobs.lever.co/accesso/6db6fe64-3df4-4f0b-ac55-726caf068744)
+- [Smart Working Solutions — Software Development Engineer in Test (SDET)](https://jobs.lever.co/smart-working-solutions/7a96b32c-4747-43c8-a822-2d251f1dd997)
+- [Recharge — Senior Software Development Engineer in Test](https://job-boards.greenhouse.io/recharge/jobs/8006089002)
+- [Relativity Space — Senior SDET](https://job-boards.greenhouse.io/relativity/jobs/8432250002)
+- [Esri — Software Development Engineer in Test II (SDET)](https://boards.greenhouse.io/esri/jobs/5035369007)
+- [Smart Working Solutions — Senior QA Engineer](https://jobs.lever.co/smart-working-solutions/f8ce55b6-db5a-4702-8bf3-e58bfe2c194b)
+- [Insider One — Senior Software QA Engineer](https://jobs.lever.co/insiderone/9975b5f6-2f14-4562-a58e-665648d9f7e6)
+- [Jobgether — Remote Quality Assurance Engineer](https://jobs.lever.co/jobgether/21429e55-4d57-4a0e-9f9a-d0e18ed81219)
+
+---
+
 ## 2026-04-29 15:10 EDT (WebSearch scan) — 4 new offers
 
 - [AlphaSense — Senior QA Automation Engineer](https://boards.greenhouse.io/alphasense/jobs/7760723002)
