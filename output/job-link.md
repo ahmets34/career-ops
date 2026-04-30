@@ -1,3 +1,12 @@
+## 2026-04-30 18:10 EDT (WebSearch scan) — 4 new offers
+
+- [Cribl — Sr Software Developer in Test](https://job-boards.greenhouse.io/cribl/jobs/5656959004)
+- [Cribl — Senior SDET, Performance](https://job-boards.greenhouse.io/cribl/jobs/5601278004)
+- [Bitwarden — QA Engineer (Remote, U.S.)](https://job-boards.greenhouse.io/bitwarden/jobs/7578228003)
+- [Equip Health — Sr SDET](https://jobs.lever.co/equiphealth/dd81cb7e-923f-43c1-ae0e-c28f9166e3f0)
+
+---
+
 ## 2026-04-30 15:05 EDT (WebSearch scan) — 4 new offers
 
 - [ExtraHop — Manager, Engineering | QA (Remote)](https://job-boards.greenhouse.io/extrahopnetworks/jobs/5839554004)
