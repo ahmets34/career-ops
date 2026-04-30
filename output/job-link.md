@@ -1,3 +1,12 @@
+## 2026-04-30 13:07 EDT (WebSearch scan) — 4 new offers
+
+- [Jobgether — Senior QA Engineer (Remote)](https://jobs.lever.co/jobgether/68d1cd4a-1cb6-408d-83c2-462ebe031060)
+- [Litify — QA Automation Engineer](https://job-boards.greenhouse.io/litify/jobs/7813105)
+- [Cognizant — SDET (Selenium/Java/Playwright)](https://careers.cognizant.com/us-en/jobs/00066855121/sdet-with-experience-in-selenium-with-java-and-playwright-experience/)
+- [Documo — QA Engineer](https://job-boards.greenhouse.io/documocareers/jobs/4678991005)
+
+---
+
 ## 2026-04-30 10:05 EDT (WebSearch scan) — 8 new offers
 
 - [Jobgether — Remote Test Automation Specialist](https://jobs.lever.co/jobgether/8b7e1d0d-fe47-47ef-95b0-10b3636b2cbd)
