@@ -1,3 +1,14 @@
+## 2026-04-30 08:19 EDT (WebSearch scan) — 6 new offers
+
+- [Ironclad — Senior Automation Quality Engineer (SDET)](https://jobs.ashbyhq.com/ironcladhq/bbc400df-9128-4123-9821-769b6576d05d)
+- [Real — Senior QA Automation Engineer - Tech Lead (Playwright)](https://jobs.ashbyhq.com/real/f75316d9-24ab-46e4-9879-7dd80e0def1e)
+- [Vonage — Senior SDET (QA Automation Lead)](https://job-boards.greenhouse.io/vonage/jobs/8341560002)
+- [Vonage — Lead Performance Tester (SDET)](https://job-boards.greenhouse.io/vonage/jobs/8506369002)
+- [Vonage — Lead Automation Engineer](https://job-boards.greenhouse.io/vonage/jobs/8341553002)
+- [Technology Navigators — REMOTE Senior QA Automation Engineer SDET (Salesforce CRM)](https://www.ziprecruiter.com/c/Technology-Navigators/Job/REMOTE-Senior-QA-Automation-Engineer-SDET-Scripting,-Salesforce-CRM/-in-Houston,TX?jid=11c845ef9cec3365)
+
+---
+
 ## 2026-04-29 18:05 EDT (WebSearch scan) — 10 new offers
 
 - [NT Concepts — Senior Test Automation Engineer](https://job-boards.greenhouse.io/ntconcepts/jobs/5981519004)
