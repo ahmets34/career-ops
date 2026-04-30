@@ -1,3 +1,12 @@
+## 2026-04-30 15:05 EDT (WebSearch scan) — 4 new offers
+
+- [ExtraHop — Manager, Engineering | QA (Remote)](https://job-boards.greenhouse.io/extrahopnetworks/jobs/5839554004)
+- [Maximus Health — Senior QA Engineer (Remote)](https://jobs.ashbyhq.com/maximustribe/09b686e4-4f38-4758-a4a0-6da7569104bf)
+- [Fullscript — Senior SDET](https://jobs.lever.co/fullscript/b5261262-fe39-4e31-97c1-bdf2b1c09895)
+- [Mesh — Senior QA Automation Engineer](https://job-boards.greenhouse.io/mesh/jobs/5199190008)
+
+---
+
 ## 2026-04-30 13:07 EDT (WebSearch scan) — 4 new offers
 
 - [Jobgether — Senior QA Engineer (Remote)](https://jobs.lever.co/jobgether/68d1cd4a-1cb6-408d-83c2-462ebe031060)
