@@ -1,3 +1,16 @@
+## 2026-04-30 10:05 EDT (WebSearch scan) — 8 new offers
+
+- [Jobgether — Remote Test Automation Specialist](https://jobs.lever.co/jobgether/8b7e1d0d-fe47-47ef-95b0-10b3636b2cbd)
+- [TherapyNotes.com — Senior Quality Assurance Engineer (SDET)](https://www.ziprecruiter.com/c/TherapyNotes.com/Job/Senior-Quality-Assurance-Engineer-(SDET)/-in-Remote,US?jid=b61802c3225e5f5e)
+- [Glassdoor — Senior Software Engineer in Test, Customer Insights](https://boards.greenhouse.io/glassdoor/jobs/5414676002)
+- [Bungie — Staff SDET, Game Engine](https://boards.greenhouse.io/bungie/jobs/4963309)
+- [Natera — Sr Software Engineer in Test](https://job-boards.greenhouse.io/natera/jobs/5972676004)
+- [Sotheby's — Senior Software Engineer in Test](https://job-boards.greenhouse.io/sothebys/jobs/5490623004)
+- [Remote US Only — Senior SDET (AI Systems)](https://www.remotejobleads.com/senior-sdet-qa-ai-systems-remote-us-only/)
+- [Atticus — QA Engineer](https://jobs.ashbyhq.com/atticus/67fe92f6-249f-492e-b282-8c331160c968)
+
+---
+
 ## 2026-04-30 08:19 EDT (WebSearch scan) — 6 new offers
 
 - [Ironclad — Senior Automation Quality Engineer (SDET)](https://jobs.ashbyhq.com/ironcladhq/bbc400df-9128-4123-9821-769b6576d05d)
