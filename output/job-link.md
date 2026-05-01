@@ -1,3 +1,12 @@
+## 2026-05-01 08:13 EDT (WebSearch scan) — 4 new offers
+
+- [Liquibase — Senior Software Developer in Test (SDET)](https://remotive.com/remote-jobs/qa/senior-software-developer-in-test-sdet-engineer-1947733)
+- [Jobgether — Software Engineer III QA (Remote US)](https://himalayas.app/companies/jobgether/jobs/software-engineer-iii-qa-contingent-remote-us)
+- [Jobgether — Senior QA Automation Engineer (Remote US)](https://himalayas.app/companies/jobgether/jobs/senior-qa-automation-engineer)
+- [Kunai — Senior QA Test Engineer](https://job-boards.greenhouse.io/kunai/jobs/5068336007)
+
+---
+
 ## 2026-04-30 18:10 EDT (WebSearch scan) — 4 new offers
 
 - [Cribl — Sr Software Developer in Test](https://job-boards.greenhouse.io/cribl/jobs/5656959004)
