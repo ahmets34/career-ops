@@ -1,3 +1,11 @@
+## 2026-05-01 13:00 EDT (WebSearch scan) — 3 new offers
+
+- [Cribl — Senior Software Developer in Test, Performance](https://job-boards.greenhouse.io/cribl/jobs/5719842004)
+- [OneMain Financial — Senior QA Automation Engineer (Remote US)](https://builtin.com/job/senior-qa-automation-engineer/249751)
+- [Real — Senior QA Automation Engineer Tech Lead (Remote US)](https://builtin.com/job/senior-qa-automation-engineer-tech-lead/7664456)
+
+---
+
 ## 2026-05-01 10:06 EDT (WebSearch scan) — 3 new offers
 
 - [Flex — Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/flex/jobs/4651948005)
