@@ -1,3 +1,10 @@
+## 2026-05-01 15:03 EDT (WebSearch scan) — 2 new offers
+
+- [Avive — Software Test Engineer](https://jobs.lever.co/AviveSolutions/9026c441-cd81-4757-8aec-14df6c403aee)
+- [Figma — Integration Engineer, QA](https://job-boards.greenhouse.io/figma/jobs/5702724004)
+
+---
+
 ## 2026-05-01 13:00 EDT (WebSearch scan) — 3 new offers
 
 - [Cribl — Senior Software Developer in Test, Performance](https://job-boards.greenhouse.io/cribl/jobs/5719842004)
