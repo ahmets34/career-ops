@@ -1,3 +1,13 @@
+## 2026-05-01 18:35 EDT (WebSearch scan) — 5 new offers
+
+- [Veeva Systems — Senior Integrations Software Engineer in Test](https://jobs.lever.co/veeva/04b1a2d4-b4db-4966-80c8-af3b43e0d493)
+- [Softrams — QA Tester](https://jobs.lever.co/softrams/5f128844-ca38-4aad-a7d6-8c964ffb19b2)
+- [Prosper — Sr. Software Engineer in Test (SDET)](https://jobs.lever.co/prosper/6b79c4be-9295-4c08-8c0e-a9eafcbfeeae)
+- [Tala — Senior SDET](https://jobs.lever.co/tala/ad2121e6-4421-4858-a3b3-5e5bc36e6bc9)
+- [Veeva — Senior Software Engineer in Test (Remote)](https://careers.veeva.com/job/14268097/senior-software-engineer-in-test-remote/)
+
+---
+
 ## 2026-05-01 15:03 EDT (WebSearch scan) — 2 new offers
 
 - [Avive — Software Test Engineer](https://jobs.lever.co/AviveSolutions/9026c441-cd81-4757-8aec-14df6c403aee)
