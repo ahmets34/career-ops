@@ -1,3 +1,11 @@
+## 2026-05-01 10:06 EDT (WebSearch scan) — 3 new offers
+
+- [Flex — Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/flex/jobs/4651948005)
+- [LastPass — Senior Software Engineer, SDET](https://boards.greenhouse.io/lastpass/jobs/4376661005)
+- [Juniper Square — Senior QA Automation Engineer](https://jobs.ashbyhq.com/junipersquare/c6e6f78c-c206-4ee5-8737-78a329c1f7ac)
+
+---
+
 ## 2026-05-01 08:13 EDT (WebSearch scan) — 4 new offers
 
 - [Liquibase — Senior Software Developer in Test (SDET)](https://remotive.com/remote-jobs/qa/senior-software-developer-in-test-sdet-engineer-1947733)
