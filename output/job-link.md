@@ -1,3 +1,17 @@
+## 2026-05-02 10:11 EDT (WebSearch scan) — 9 new offers
+
+- [Humana — Software Development Engineer in Test (SDET)](https://builtin.com/job/software-development-engineer-test-sdet/4426860)
+- [eHealth — Sr. SDET (Software Development Engineer in Test)](https://builtin.com/job/sr-sdet-software-development-engineer-test/6223759)
+- [Underdog Fantasy — Senior Software Development Engineer in Test (SDET)](https://builtin.com/job/engineer/senior-software-development-engineer-test-sdet/1938496)
+- [Real — Senior QA Automation Engineer - Tech Lead](https://remotive.com/remote/jobs/qa/senior-qa-automation-engineer-tech-lead-1393594)
+- [HSI — Senior QA Automation Engineer](https://remotive.com/remote/jobs/qa/senior-qa-automation-engineer-4484302)
+- [The Nuclear Company — Senior Software Engineer in Test (SDET)](https://job-boards.greenhouse.io/thenuclearcompany/jobs/4780834008)
+- [Glassdoor — Software Engineer in Test, Jobs UX](https://boards.greenhouse.io/glassdoor/jobs/5673069002)
+- [Howl — Senior Software Engineer in Test (SDET)](https://boards.greenhouse.io/howl/jobs/6594133002)
+- [Extend — Software Development Engineer in Test (SDET)](https://boards.greenhouse.io/extend/jobs/4403202004)
+
+---
+
 ## 2026-05-02 08:33 EDT (WebSearch scan) — 5 new offers
 
 - [CodeRoad — Senior QA Automation Engineer](https://job-boards.greenhouse.io/coderoad/jobs/4235759009)
