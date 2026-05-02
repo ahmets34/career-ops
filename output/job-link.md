@@ -1,3 +1,13 @@
+## 2026-05-02 13:12 EDT (WebSearch scan) — 5 new offers
+
+- [Angel Studios — Senior QA Engineer](https://jobs.lever.co/angel/0d87cacc-f167-42a2-b52b-eea51e960788)
+- [Fannie Mae — Senior SDET Associate (Open to Remote)](https://builtin.com/job/senior-sdet-associate-open-remote/3844130)
+- [Greenlight — Senior SDET](https://builtin.com/job/senior-sdet/4721479)
+- [Spokeo — Senior SDET, Data](https://builtin.com/job/senior-software-development-engineer-test-sdet-data/3792346)
+- [Kong — Senior Software Engineer in Test](https://jobs.ashbyhq.com/kong/b1f68210-7482-4779-a4d4-e0af0cced15e)
+
+---
+
 ## 2026-05-02 10:11 EDT (WebSearch scan) — 9 new offers
 
 - [Humana — Software Development Engineer in Test (SDET)](https://builtin.com/job/software-development-engineer-test-sdet/4426860)
