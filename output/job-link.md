@@ -1,3 +1,13 @@
+## 2026-05-02 08:33 EDT (WebSearch scan) — 5 new offers
+
+- [CodeRoad — Senior QA Automation Engineer](https://job-boards.greenhouse.io/coderoad/jobs/4235759009)
+- [Okta — Senior Software Engineer in Test](https://boards.greenhouse.io/okta/jobs/7033231)
+- [Concentrix — Senior QA Automation Engineer](https://himalayas.app/companies/concentrix/jobs/senior-qa-automation-engineer)
+- [ServiceNow — Staff Data Platform Software Engineer in Test (RaptorDB)](https://www.builtinnyc.com/job/staff-data-platform-software-engineer-test-raptordb/274651)
+- [Experian — Senior Software Design Engineer in Test (Remote US)](https://jobs.experian.com/job/senior-software-design-engineer-in-test-remote-in-united-states-jid-2460)
+
+---
+
 ## 2026-05-01 18:35 EDT (WebSearch scan) — 5 new offers
 
 - [Veeva Systems — Senior Integrations Software Engineer in Test](https://jobs.lever.co/veeva/04b1a2d4-b4db-4966-80c8-af3b43e0d493)
