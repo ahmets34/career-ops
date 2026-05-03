@@ -1,3 +1,10 @@
+## 2026-05-03 10:08 EDT (WebSearch scan) — 2 new offers
+
+- [Elite Technology — Senior Software Development Engineer in Test](https://job-boards.greenhouse.io/elitetechnology/jobs/5206489008)
+- [OneStudyTeam — Senior Test Automation Engineer](https://builtin.com/job/senior-test-automation-engineer/8738869)
+
+---
+
 ## 2026-05-03 08:30 EDT (WebSearch scan) — 6 new offers
 
 - [SemanticBits — Senior QA Automation Engineer (Remote)](https://jobs.lever.co/semanticbits/2b6ddd4a-d9b9-4b1d-b72c-3ab24223639a)
