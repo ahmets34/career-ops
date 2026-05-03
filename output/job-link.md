@@ -1,3 +1,14 @@
+## 2026-05-03 08:30 EDT (WebSearch scan) — 6 new offers
+
+- [SemanticBits — Senior QA Automation Engineer (Remote)](https://jobs.lever.co/semanticbits/2b6ddd4a-d9b9-4b1d-b72c-3ab24223639a)
+- [Genea — Senior QA Engineer](https://job-boards.greenhouse.io/genea/jobs/5100876008)
+- [Valtech — Senior QA Automation Engineer](https://job-boards.greenhouse.io/valtechgreenhouse/jobs/7825146002)
+- [Rush Street Interactive — Senior QA Engineer](https://job-boards.greenhouse.io/rushstreetinteractive/jobs/5623656004)
+- [Capco — Senior QA Engineer (Java/SQL/Cucumber)](https://job-boards.greenhouse.io/capco/jobs/7765480)
+- [Veeva Systems — Senior Software Engineer in Test (CDMS)](https://jobs.lever.co/veeva/08038777-0280-45f6-92c2-765f7eda2fd0)
+
+---
+
 ## 2026-05-02 18:12 EDT (WebSearch scan) — 1 new offer
 
 - [ReviewTrackers — Software Engineer in Test (Remote)](https://jobs.lever.co/reviewtrackers/67869c6c-d69d-4d45-968d-91c6498d0a48)
