@@ -1,3 +1,14 @@
+## 2026-05-03 18:21 EDT (WebSearch scan) — 6 new offers
+
+- [Cribl — Software Developer in Test (SDET)](https://builtin.com/job/software-developer-test-sdet/3510131)
+- [FMX — Software Development Engineer in Test (SDET)](https://builtin.com/job/software-development-engineer-test-sdet/6749597)
+- [CrowdStrike — Sr. Software Engineer, SDET - Infrastructure (Remote)](https://builtin.com/job/sr-software-engineer-sdet-infrastructure-remote/3396565)
+- [Softrams — Software Development Engineer in Test (SDET)](https://builtin.com/job/software-development-engineer-test-sdet/3594999)
+- [Launchpad Technologies — Senior QA Automation Engineer](https://job-boards.greenhouse.io/launchpadtechnologiesinc/jobs/4617707006)
+- [Jobgether — Remote Automation Test Engineer](https://jobs.lever.co/jobgether/0ede524f-7c3b-4712-9348-2f152f6076b3)
+
+---
+
 ## 2026-05-03 15:05 EDT (WebSearch scan) — 3 new offers
 
 - [ABBYY — QA/QMS Lead](https://job-boards.greenhouse.io/abbyy/jobs/4749132101)
