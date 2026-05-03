@@ -1,3 +1,18 @@
+## 2026-05-03 13:04 EDT (WebSearch scan) — 10 new offers
+
+- [Glassdoor — Senior Software Engineer in Test](https://boards.greenhouse.io/glassdoor/jobs/5713210002)
+- [Foodsmart — Software Development Engineer in Test (SDET)](https://jobs.lever.co/foodsmart/554a4335-6533-438f-8e71-933f1ab716b0)
+- [Lightship — Senior Software Engineer in Test - Embedded Systems](https://jobs.lever.co/lightship/c6569a09-46e3-4d03-b169-ef36a7b232a2)
+- [Luxury Presence — Senior AI Automation Engineer (US Remote)](https://builtin.com/job/senior-ai-automation-engineer-us-remote/6747352)
+- [Renew Home — Senior Software Engineer, Test and Automation (Remote, US)](https://builtin.com/job/senior-software-engineer-test-and-automation-remote-us/3341264)
+- [ICF — Senior QA Engineer (USA/Remote)](https://builtin.com/job/senior-qa-engineer-usaremote/3428998)
+- [Testlio — Sr Test Automation Specialist (SDET)](https://builtin.com/job/sr-test-automation-specialist-sdet/3364666)
+- [Experian — Senior Software QA Test Engineer](https://builtin.com/job/senior-software-qa-test-engineer/6778779)
+- [ai2io — Senior Quality Assurance Specialist](https://builtin.com/job/senior-quality-assurance-specialist/7683961)
+- [Seamless.AI — Senior Quality Assurance Engineer (Remote US)](https://builtin.com/job/senior-quality-assurance-engineer-remote-us/3521630)
+
+---
+
 ## 2026-05-03 10:08 EDT (WebSearch scan) — 2 new offers
 
 - [Elite Technology — Senior Software Development Engineer in Test](https://job-boards.greenhouse.io/elitetechnology/jobs/5206489008)
