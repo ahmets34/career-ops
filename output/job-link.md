@@ -1,3 +1,11 @@
+## 2026-05-03 15:05 EDT (WebSearch scan) — 3 new offers
+
+- [ABBYY — QA/QMS Lead](https://job-boards.greenhouse.io/abbyy/jobs/4749132101)
+- [Prodly — Automation QA Engineer](https://job-boards.greenhouse.io/prodlyjobs/jobs/7686932002)
+- [webAI — Senior QA Automation Engineer](https://jobs.ashbyhq.com/webai/8d8cb5b6-e62b-4fd9-b9ae-49101f418581)
+
+---
+
 ## 2026-05-03 13:04 EDT (WebSearch scan) — 10 new offers
 
 - [Glassdoor — Senior Software Engineer in Test](https://boards.greenhouse.io/glassdoor/jobs/5713210002)
