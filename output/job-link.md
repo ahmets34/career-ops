@@ -1,3 +1,13 @@
+## 2026-05-04 13:02 EDT (WebSearch scan) — 5 new offers
+
+- [Enova International — Senior Software Development Engineer in Test (Remote)](https://boards.greenhouse.io/enova/jobs/3124098)
+- [Dragos — Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/dragos/jobs/4923864008)
+- [RunPod — Software Development Engineer in Test](https://job-boards.greenhouse.io/runpod/jobs/4512112008)
+- [Quilt — Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/quilt/jobs/4969434007)
+- [Ditto — Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/dittoliveincorporated/jobs/4610066006)
+
+---
+
 ## 2026-05-04 10:24 EDT (WebSearch scan) — 9 new offers
 
 - [Flex — Staff Software Development Engineer in Test (Staff SDET)](https://job-boards.greenhouse.io/flex/jobs/4600678005)
