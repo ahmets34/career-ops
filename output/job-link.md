@@ -1,3 +1,13 @@
+## 2026-05-04 18:03 EDT (WebSearch scan) — 5 new offers
+
+- [Reltio — Senior AI SDET](https://job-boards.greenhouse.io/reltio/jobs/5913410004)
+- [Green Dot Corporation — Remote Senior QA Backend Automation Engineer](https://builtin.com/job/remote-senior-qa-backend-automation-engineer/3025601)
+- [Reddit — Senior/Staff SDET, Quality Engineering](https://builtin.com/job/engineer/seniorstaff-sdet-quality-engineering/95983)
+- [Alkami Technology — Staff SDET](https://alkami.wd12.myworkdayjobs.com/alkami/job/us-remote/staff-sdet_jr-000546)
+- [Drivetrain — Lead SDET / QA Manager](https://jobs.lever.co/drivetrain/4d6be8c0-0380-4243-9969-8d946aee096f)
+
+---
+
 ## 2026-05-04 15:15 EDT (WebSearch scan) — 25 new offers
 
 - [Quanata — Senior SDET [Remote]](https://boards.greenhouse.io/quanata/jobs/5159154004)
