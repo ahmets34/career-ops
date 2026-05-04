@@ -1,3 +1,33 @@
+## 2026-05-04 15:15 EDT (WebSearch scan) — 25 new offers
+
+- [Quanata — Senior SDET [Remote]](https://boards.greenhouse.io/quanata/jobs/5159154004)
+- [Radformation — Senior QA Automation Engineer](https://jobs.lever.co/radformation/26e72787-8ac0-4058-8645-dc919ae815da)
+- [Jobgether — Remote QA Automation Lead](https://jobs.lever.co/jobgether/e133f812-210d-43d1-ac1a-8321f7c1eb55)
+- [Jobgether — QA Automation Engineer (Data)](https://jobs.lever.co/jobgether/9c1ba583-8940-44de-abc0-65ca457efd6d)
+- [Reveal Technology — Quality Assurance Engineer](https://jobs.lever.co/revealtech/45032a27-633d-447f-b875-e3ce70ced2db)
+- [ClickHouse — QA Engineer (Core Database)](https://job-boards.greenhouse.io/clickhouse/jobs/5654027004)
+- [Cribl — Engineering Manager, SDET](https://job-boards.greenhouse.io/cribl/jobs/5673481004)
+- [Jobgether — Senior Test Automation Engineer](https://jobs.lever.co/jobgether/9996b96b-afc7-4d04-bc7c-e3d703bae2d6)
+- [Jobgether — Sr. Software Developer in Test](https://jobs.lever.co/jobgether/98affa40-0355-4899-9135-0953bd27ecec)
+- [Veeva Systems — Software Engineer in Test](https://jobs.lever.co/veeva/34c41864-e8c4-4bcc-8374-7cc4190f6fdb)
+- [Veeva Systems — Senior Integrations Software Engineer in Test](https://jobs.lever.co/veeva/04b1a2d4-b4db-4966-80c8-af3b43e0d493)
+- [Avive Solutions — Software Test Engineer](https://jobs.lever.co/AviveSolutions/9026c441-cd81-4757-8aec-14df6c403aee)
+- [Buoy Software — Sr. QA Automation Engineer (Remote US)](https://builtin.com/job/sr-qa-automation-engineer-remote-us-based/4029150)
+- [EmpiRx Health — Senior Software Development Engineer in Test](https://remotive.com/remote/jobs/software-development/senior-software-development-engineer-in-test-4353646)
+- [WHOOP — Software Engineer II (Quality)](https://jobs.lever.co/whoop/b6bfd5ee-635c-43fb-8f95-37907075583e)
+- [KnowBe4 — Automated Testing/QA Lead](https://job-boards.greenhouse.io/knowbe4/jobs/8402290002)
+- [SpecterOps — Testing Automation Engineer](https://job-boards.greenhouse.io/specterops/jobs/8523500002)
+- [Hudl — Quality Assurance Engineer II](https://job-boards.greenhouse.io/hudl/jobs/7859183)
+- [Inductive Automation — Senior Quality Assurance Engineer I](https://jobs.ashbyhq.com/inductive-automation-llc/2bfd844f-37a8-47cd-925b-697f7dacfcbc)
+- [Halcyon — Cloud Test Automation Engineer](https://job-boards.greenhouse.io/halcyon/jobs/5808645004)
+- [Connexure — Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/connexure/jobs/4015509009)
+- [Esri — Software Development Engineer in Test II](https://job-boards.greenhouse.io/esri/jobs/5035369007)
+- [Real — Senior QA Automation Engineer Tech Lead](https://remotive.com/remote/jobs/qa/senior-qa-automation-engineer-tech-lead-1393594)
+- [Concentrix — Senior QA Automation Engineer](https://himalayas.app/companies/concentrix/jobs/senior-qa-automation-engineer)
+- [TherapyNotes — Senior Quality Assurance Engineer (SDET)](https://www.ziprecruiter.com/c/TherapyNotes.com/Job/Senior-Quality-Assurance-Engineer-(SDET)/-in-Remote,US?jid=b61802c3225e5f5e)
+
+---
+
 ## 2026-05-04 13:02 EDT (WebSearch scan) — 5 new offers
 
 - [Enova International — Senior Software Development Engineer in Test (Remote)](https://boards.greenhouse.io/enova/jobs/3124098)
