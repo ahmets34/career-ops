@@ -1,3 +1,17 @@
+## 2026-05-04 10:24 EDT (WebSearch scan) — 9 new offers
+
+- [Flex — Staff Software Development Engineer in Test (Staff SDET)](https://job-boards.greenhouse.io/flex/jobs/4600678005)
+- [HighLevel — Software Development Engineer in Test III - AI](https://jobs.lever.co/gohighlevel/3299d482-4ae7-4f34-abcf-3d1b01e58d38)
+- [Gallup — Senior QA Automation Engineer](https://job-boards.greenhouse.io/gallup/jobs/4037575009)
+- [PlayStation Global — Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5272216004)
+- [Liquibase — Senior QA/SDET Engineer (Remote US-Based)](https://builtin.com/job/senior-qasdet-engineer-remote-us-based/3520317)
+- [Checkmate — Senior Software Development Engineer in Test](https://apply.workable.com/itsacheckmate-dot-com/j/6AFB495EC6)
+- [Casa — QA Engineer (Remote US)](https://job-boards.greenhouse.io/casa/jobs/5061807007)
+- [Cadwell — Software Development Engineer in Test II (CadLink)](https://job-boards.greenhouse.io/cadwell/jobs/4174667009)
+- [Encora — Senior SDET](https://job-boards.greenhouse.io/encora10/jobs/5119692007)
+
+---
+
 ## 2026-05-04 08:43 EDT (WebSearch scan) — 4 new offers
 
 - [Okta — Software Engineer in Test II (Identity Governance)](https://job-boards.greenhouse.io/okta/jobs/7190724)
