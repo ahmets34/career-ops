@@ -1,3 +1,12 @@
+## 2026-05-04 08:43 EDT (WebSearch scan) — 4 new offers
+
+- [Okta — Software Engineer in Test II (Identity Governance)](https://job-boards.greenhouse.io/okta/jobs/7190724)
+- [Veeva Systems — Senior Software Engineer in Test](https://jobs.lever.co/veeva/7f88b837-0eb9-4b5d-b42d-5fcec3be3826)
+- [ecoATM Gazelle — Senior SDET](https://himalayas.app/companies/ecoatm-gazelle/jobs/senior-software-development-engineer-test)
+- [TeamSnap — Senior Software Development Engineer in Test](https://jobs.lever.co/teamsnap/c9fea67e-f24f-45a2-a1aa-1e28f38078d3)
+
+---
+
 ## 2026-05-03 18:21 EDT (WebSearch scan) — 6 new offers
 
 - [Cribl — Software Developer in Test (SDET)](https://builtin.com/job/software-developer-test-sdet/3510131)
