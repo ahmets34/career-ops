@@ -1,3 +1,9 @@
+## 2026-05-05 18:08 EDT (WebSearch scan) — 1 new offer
+
+- [AlphaSense — Senior QA Automation Engineer](https://job-boards.greenhouse.io/alphasense/jobs/7760723002)
+
+---
+
 ## 2026-05-05 15:09 EDT (WebSearch scan) — 0 new offers
 
 _(no new offers this run — all previously seen)_
