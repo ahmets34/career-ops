@@ -1,3 +1,19 @@
+## 2026-05-05 08:04 EDT (WebSearch scan) — 11 new offers
+
+- [Kong — Senior Software Development Engineer in Test](https://jobs.ashbyhq.com/kong/2c79d8be-8489-4fdf-9bb7-b627cff8210f)
+- [Virtuous — Sr. Software Engineer in Test](https://jobs.ashbyhq.com/virtuous/41a2da36-3007-4819-aa84-d668db625b1c)
+- [NetBox Labs — Software Engineer in Test](https://jobs.ashbyhq.com/netboxlabs/94d74e66-80d1-4f92-94ac-0888e6f766d5)
+- [Machinify — Sr. Automation Engineer, UI Quality Assurance (Remote)](https://jobs.ashbyhq.com/machinify/00b016d2-8209-4b2c-826c-2c67f909711e)
+- [Qu POS — Senior QA Automation Engineer](https://builtin.com/job/senior-qa-automation-engineer/7862063)
+- [Upgrade, Inc. — Senior QA Automation Developer (Remote)](https://builtin.com/job/engineer/senior-qa-automation-developer/1352825)
+- [Jobgether — Senior QA Engineer - REMOTE](https://jobs.lever.co/jobgether/a426e149-c735-4867-a962-59ef8047d296)
+- [Olo — Senior Quality Engineer](https://jobs.lever.co/olo/30e1c324-2ed3-46ab-a655-0704b544c94c)
+- [Shyft6 — Principal Quality Automation Architect](https://himalayas.app/companies/shyft6/jobs/principal-quality-automation-architect)
+- [Real — Senior QA Automation Engineer - Tech Lead](https://himalayas.app/companies/real/jobs/senior-qa-automation-engineer-tech-lead)
+- [A-TEK Inc. — Senior QA Automation Engineer](https://job-boards.greenhouse.io/atek/jobs/5205275008)
+
+---
+
 ## 2026-05-04 18:03 EDT (WebSearch scan) — 5 new offers
 
 - [Reltio — Senior AI SDET](https://job-boards.greenhouse.io/reltio/jobs/5913410004)
