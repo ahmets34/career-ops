@@ -1,3 +1,9 @@
+## 2026-05-05 15:09 EDT (WebSearch scan) — 0 new offers
+
+_(no new offers this run — all previously seen)_
+
+---
+
 ## 2026-05-05 13:09 EDT (WebSearch scan) — 4 new offers
 
 - [Anaplan — Principal QA Engineer (Python, Pytest and ML)](https://job-boards.greenhouse.io/anaplan/jobs/8474339002)
