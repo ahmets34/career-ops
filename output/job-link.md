@@ -1,3 +1,12 @@
+## 2026-05-05 13:09 EDT (WebSearch scan) — 4 new offers
+
+- [Anaplan — Principal QA Engineer (Python, Pytest and ML)](https://job-boards.greenhouse.io/anaplan/jobs/8474339002)
+- [Phaidra — Software Engineer (Senior, Test, SDET)](https://boards.greenhouse.io/phaidra/jobs/4255419005)
+- [Gigster — SDET/QA Engineer](https://job-boards.greenhouse.io/gigster/jobs/5492705004)
+- [Boku — QA Engineer - SDET - US](https://job-boards.greenhouse.io/boku/jobs/5462657004)
+
+---
+
 ## 2026-05-05 10:07 EDT (WebSearch scan) — 1 new offer
 
 - [SemanticBits — Lead Quality Assurance Automation Engineer](https://jobs.lever.co/semanticbits/67c5660f-0dcf-44ed-a0b1-ca3e9557e56a)
