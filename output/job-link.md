@@ -1,3 +1,9 @@
+## 2026-05-05 10:07 EDT (WebSearch scan) — 1 new offer
+
+- [SemanticBits — Lead Quality Assurance Automation Engineer](https://jobs.lever.co/semanticbits/67c5660f-0dcf-44ed-a0b1-ca3e9557e56a)
+
+---
+
 ## 2026-05-05 08:04 EDT (WebSearch scan) — 11 new offers
 
 - [Kong — Senior Software Development Engineer in Test](https://jobs.ashbyhq.com/kong/2c79d8be-8489-4fdf-9bb7-b627cff8210f)
