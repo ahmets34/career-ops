@@ -1,3 +1,9 @@
+## 2026-05-06 15:07 EDT (WebSearch scan) — 0 new offers
+
+_(no new offers this run — all previously seen)_
+
+---
+
 ## 2026-05-06 13:01 EDT (WebSearch scan) — 5 new offers
 
 - [Anduril Industries — Senior Test Automation Engineer](https://job-boards.greenhouse.io/andurilindustries/jobs/5099151007)
