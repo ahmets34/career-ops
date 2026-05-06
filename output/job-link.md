@@ -1,3 +1,13 @@
+## 2026-05-06 13:01 EDT (WebSearch scan) — 5 new offers
+
+- [Anduril Industries — Senior Test Automation Engineer](https://job-boards.greenhouse.io/andurilindustries/jobs/5099151007)
+- [Lightci — Senior Software Development Engineer in Test](https://jobs.lever.co/lightci/277efea1-b792-4d66-bb30-3e4e1c9f4a64)
+- [Flock Safety — Software Engineer in Test](https://jobs.ashbyhq.com/Flock%20Safety/300fafc4-0bd6-44ce-ab6e-116cf4662fc1)
+- [Humana — Sr SDET - AI](https://careers.humana.com/us/en/job/R-384943/Sr-SDET-AI)
+- [ECP — Senior SDET](https://jobs.workable.com/view/fxsj2GGYgmFK5EL2rkDLeX/remote-senior-software-development-engineer-in-test-(sdet)-in-milwaukee-at-ecp)
+
+---
+
 ## 2026-05-06 10:08 EDT (WebSearch scan) — 2 new offers
 
 - [Glide — Software Development Engineer in Test (SDET)](https://jobs.ashbyhq.com/glide/d58b6d08-490d-4122-b6b0-ef7c7e35af2d)
