@@ -1,3 +1,11 @@
+## 2026-05-06 18:08 EDT (WebSearch scan) — 3 new offers
+
+- [RYZ Labs — QA Automation Engineer](https://jobs.lever.co/RyzLabs/8e7cb146-7f9b-489d-bd84-1b02f4ee5e6b)
+- [Canary Technologies — Software Development Engineer in Test (SDET)](https://jobs.lever.co/canarytechnologies/0c855674-11e9-4381-81ba-e342f0ce3c42)
+- [OpenGov — SDET Engineer III](https://jobs.lever.co/opengov/4cf4505a-1e92-4ab3-ac59-8f61fd0b585d)
+
+---
+
 ## 2026-05-06 15:07 EDT (WebSearch scan) — 0 new offers
 
 _(no new offers this run — all previously seen)_
