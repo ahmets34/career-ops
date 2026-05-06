@@ -1,3 +1,12 @@
+## 2026-05-06 08:11 EDT (WebSearch scan) — 4 new offers
+
+- [3Pillar Global — Senior QA Engineer (contractor)](https://jobs.lever.co/3pillarglobal/1403ad18-7919-4b4d-abfe-0b2cbad9b045)
+- [AKQA — Freelance Senior Quality Assurance Engineer](https://boards.greenhouse.io/akqa/jobs/7674579)
+- [MetTel — Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/mettel/jobs/4677171006)
+- [Tala — Senior SDET](https://jobs.lever.co/tala/a8e75c00-e104-4aa3-a2ae-48665f1dba7a)
+
+---
+
 ## 2026-05-05 18:08 EDT (WebSearch scan) — 1 new offer
 
 - [AlphaSense — Senior QA Automation Engineer](https://job-boards.greenhouse.io/alphasense/jobs/7760723002)
