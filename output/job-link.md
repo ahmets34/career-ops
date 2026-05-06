@@ -1,3 +1,10 @@
+## 2026-05-06 10:08 EDT (WebSearch scan) — 2 new offers
+
+- [Glide — Software Development Engineer in Test (SDET)](https://jobs.ashbyhq.com/glide/d58b6d08-490d-4122-b6b0-ef7c7e35af2d)
+- [Super.com — Senior QA Engineer](https://jobs.ashbyhq.com/super.com/0c70da0f-3c4f-40b9-abc2-ebe0df8d56a7)
+
+---
+
 ## 2026-05-06 08:11 EDT (WebSearch scan) — 4 new offers
 
 - [3Pillar Global — Senior QA Engineer (contractor)](https://jobs.lever.co/3pillarglobal/1403ad18-7919-4b4d-abfe-0b2cbad9b045)
