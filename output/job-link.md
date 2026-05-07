@@ -1,3 +1,11 @@
+## 2026-05-07 08:13 EDT (WebSearch scan) — 3 new offers
+
+- [Global Force USA — Senior SDET (Fully Remote, W2)](https://www.dice.com/job-detail/b2270f7d-614c-44ba-a97d-a06cb289768c)
+- [Prohires — SDET (W2 Remote, Java + Selenium + AWS)](https://www.dice.com/job-detail/b27954e4-3c39-4bf7-90a9-ed0d9bd2b461)
+- [Phantom — SDET (Wallet Platform)](https://jobs.ashbyhq.com/phantom/50fa106b-7e02-4cff-8cf8-9f45cf1d60d4)
+
+---
+
 ## 2026-05-06 18:08 EDT (WebSearch scan) — 3 new offers
 
 - [RYZ Labs — QA Automation Engineer](https://jobs.lever.co/RyzLabs/8e7cb146-7f9b-489d-bd84-1b02f4ee5e6b)
