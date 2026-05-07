@@ -1,3 +1,10 @@
+## 2026-05-07 15:07 EDT (WebSearch scan) — 2 new offers
+
+- [Enumerate — Automation Engineer](https://job-boards.greenhouse.io/enumerate/jobs/4119220009)
+- [Amount — Automation Engineer](https://job-boards.greenhouse.io/amount/jobs/4614099007)
+
+---
+
 ## 2026-05-07 13:03 EDT (WebSearch scan) — 8 new offers
 
 - [eClinical Solutions — Senior AI-Enabled Software Engineer in Test](https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5054566007)
