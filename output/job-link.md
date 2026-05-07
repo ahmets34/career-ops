@@ -1,3 +1,16 @@
+## 2026-05-07 13:03 EDT (WebSearch scan) — 8 new offers
+
+- [eClinical Solutions — Senior AI-Enabled Software Engineer in Test](https://job-boards.greenhouse.io/eclinicalsolutions/jobs/5054566007)
+- [DeepIntent — Senior Software Engineer In Test](https://job-boards.greenhouse.io/deepintent/jobs/5728523004)
+- [Litmos — Senior Software Engineer in Test](https://job-boards.greenhouse.io/litmos/jobs/4837331101)
+- [Natera — Sr Software Engineer in Test](https://job-boards.greenhouse.io/natera/jobs/5848062004)
+- [Formstack — QA Automation Engineer](https://jobs.lever.co/formstack/90792b20-1eb7-4039-bcaa-9ec26f1474e6)
+- [Airbnb — Senior Web Automation Engineer, Quality Platform](https://job-boards.greenhouse.io/airbnb/jobs/7863467)
+- [Caribou Financial — Senior Quality Engineer](https://job-boards.greenhouse.io/caribou/jobs/7595455003)
+- [NT Concepts — Senior Test Automation Engineer](https://job-boards.greenhouse.io/ntconcepts/jobs/5981519004)
+
+---
+
 ## 2026-05-07 10:05 EDT (WebSearch scan) — 6 new offers
 
 - [Fetch Rewards — Senior Software Engineer in Test](https://boards.greenhouse.io/fetchrewards/jobs/4386306003)
