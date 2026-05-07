@@ -1,3 +1,14 @@
+## 2026-05-07 10:05 EDT (WebSearch scan) — 6 new offers
+
+- [Fetch Rewards — Senior Software Engineer in Test](https://boards.greenhouse.io/fetchrewards/jobs/4386306003)
+- [insightsoftware — Senior Software Development Engineer in Test (Remote)](https://builtin.com/job/engineer/senior-software-development-engineer-test-remote/1289016)
+- [ServiceTitan — Senior Software Engineer in Test](https://builtin.com/job/senior-software-engineer-test/4773811)
+- [ServiceTitan — Senior Software Engineer in Test (Performance Testing)](https://servicetitan.wd1.myworkdayjobs.com/ServiceTitan/job/US-Remote/Senior-Software-Engineer-in-Test--Performance-Testing-_JR110665)
+- [Tenable — Senior Software Engineer in Test](https://builtin.com/job/senior-software-engineer-test/2813419)
+- [Autodesk — Senior Software Engineer in Test](https://builtin.com/job/senior-software-engineer-test/4274454)
+
+---
+
 ## 2026-05-07 08:13 EDT (WebSearch scan) — 3 new offers
 
 - [Global Force USA — Senior SDET (Fully Remote, W2)](https://www.dice.com/job-detail/b2270f7d-614c-44ba-a97d-a06cb289768c)
