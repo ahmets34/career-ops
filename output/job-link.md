@@ -1,3 +1,10 @@
+## 2026-05-07 18:09 EDT (WebSearch scan) — 2 new offers
+
+- [Calendly — QA Engineer III](https://job-boards.greenhouse.io/calendly/jobs/8464705002)
+- [Qualitest — Test Lead (Automation)](https://himalayas.app/companies/qualitest/jobs/19763-test-lead-automation)
+
+---
+
 ## 2026-05-07 15:07 EDT (WebSearch scan) — 2 new offers
 
 - [Enumerate — Automation Engineer](https://job-boards.greenhouse.io/enumerate/jobs/4119220009)
