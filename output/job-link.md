@@ -1,3 +1,17 @@
+## 2026-05-08 18:06 EDT (WebSearch scan) — 9 new offers
+
+- [Elite Technology — Senior Software Development Engineer in Test](https://remotive.com/remote/jobs/software-development/senior-software-development-engineer-in-test-4542969)
+- [Smart Working Solutions — QA Automation Lead](https://jobs.lever.co/smart-working-solutions/f90fd0c0-405a-4110-a243-3c27aeed84f4)
+- [WHOOP — SDET II](https://jobs.lever.co/whoop/5f348ba8-efd8-4f15-9c57-659c1333a0ca)
+- [Vonage — SDET Team Lead](https://job-boards.greenhouse.io/vonage/jobs/8496366002)
+- [Esri — Sr. Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/esri/jobs/5076361007)
+- [Allegiant Air — Software Engineer in Test (SET)](https://jobs.lever.co/allegiantair/11d8e500-6164-4f13-b17d-b5d75546d793)
+- [Zimperium — SDET (Mobile Test Automation)](https://jobs.lever.co/zimperium/91125154-1d12-48dc-9fb7-b6bc8cc565d3)
+- [Anduril — Senior Quality Engineer](https://job-boards.greenhouse.io/andurilindustries/jobs/5123813007)
+- [iCapital Network — Software Developer in Test (AVP)](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8390665002)
+
+---
+
 ## 2026-05-08 15:09 EDT (WebSearch scan) — 4 new offers
 
 - [Agile Six — QA Engineer](https://job-boards.greenhouse.io/agilesixv2/jobs/6573517003)
