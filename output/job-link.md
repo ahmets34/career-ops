@@ -1,3 +1,12 @@
+## 2026-05-08 15:09 EDT (WebSearch scan) — 4 new offers
+
+- [Agile Six — QA Engineer](https://job-boards.greenhouse.io/agilesixv2/jobs/6573517003)
+- [MyFunded Futures — QA Engineer](https://job-boards.greenhouse.io/myfundedfutures/jobs/4181071009)
+- [Medeloop — Senior SDET](https://job-boards.greenhouse.io/medeloop/jobs/4224637009)
+- [Envision Pharma — Senior Test Automation Engineer (Remote)](https://careers.envisionpharmagroup.com/jobs/vacancy/senior-software-test-automation-engineer-playwright-selenium-python-1467-remote/1485/description/)
+
+---
+
 ## 2026-05-08 13:10 EDT (WebSearch scan) — 4 new offers
 
 - [Phantom — SDET (Money Movement)](https://jobs.ashbyhq.com/phantom/49997233-6425-42a6-a61e-62c8ddd15551)
