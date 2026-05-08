@@ -1,3 +1,10 @@
+## 2026-05-08 10:02 EDT (WebSearch scan) — 2 new offers
+
+- [LTK USA — Software Development Engineer in Test (SDET)](https://boards.greenhouse.io/shopltk/jobs/5014696003)
+- [LTK USA — Software Engineer in Test](https://boards.greenhouse.io/shopltk/jobs/5171949003)
+
+---
+
 ## 2026-05-08 08:07 EDT (WebSearch scan) — 6 new offers
 
 - [Backblaze — Senior QA Engineer](https://job-boards.greenhouse.io/backblaze/jobs/5193435008)
