@@ -1,3 +1,12 @@
+## 2026-05-08 13:10 EDT (WebSearch scan) — 4 new offers
+
+- [Phantom — SDET (Money Movement)](https://jobs.ashbyhq.com/phantom/49997233-6425-42a6-a61e-62c8ddd15551)
+- [Swap — Staff SDET](https://jobs.ashbyhq.com/swap/2535491e-880a-4bda-a7a7-a1c9f7f6d3a9)
+- [Intradiem — Team Lead, QA](https://job-boards.greenhouse.io/intradiem/jobs/4668646006)
+- [Accenture Federal Services — Quality Engineer (Automation Tester)](https://job-boards.greenhouse.io/accenturefederalservices/jobs/4675525006)
+
+---
+
 ## 2026-05-08 10:02 EDT (WebSearch scan) — 2 new offers
 
 - [LTK USA — Software Development Engineer in Test (SDET)](https://boards.greenhouse.io/shopltk/jobs/5014696003)
