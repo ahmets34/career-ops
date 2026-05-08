@@ -1,3 +1,14 @@
+## 2026-05-08 08:07 EDT (WebSearch scan) — 6 new offers
+
+- [Backblaze — Senior QA Engineer](https://job-boards.greenhouse.io/backblaze/jobs/5193435008)
+- [TTC Global — Senior Software QA Engineer](https://job-boards.greenhouse.io/ttcglobal/jobs/7755287002)
+- [Jobgether — QA Engineer](https://jobs.lever.co/jobgether/a81d1ea2-d14f-4561-ad53-253f3d41ecec)
+- [Drone Sense — Senior Manual QA Engineer (Mobile)](https://jobs.lever.co/dronesense/36d0c4c1-b412-48ce-b4c9-2dc89252bb6d)
+- [Maximus Health — Lead QA Engineer](https://jobs.ashbyhq.com/maximustribe/25b98749-8a84-47d2-b2b7-308dc66cab6e)
+- [CodeRoad — Senior QA Automation Engineer](https://job-boards.greenhouse.io/coderoad/jobs/4164242009)
+
+---
+
 ## 2026-05-07 18:09 EDT (WebSearch scan) — 2 new offers
 
 - [Calendly — QA Engineer III](https://job-boards.greenhouse.io/calendly/jobs/8464705002)
