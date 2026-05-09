@@ -1,3 +1,9 @@
+## 2026-05-09 10:03 EDT (WebSearch scan) — 0 new offers
+
+_(no new offers this run — all previously seen)_
+
+---
+
 ## 2026-05-09 08:03 EDT (WebSearch scan) — 1 new offers
 
 - [PDQ — Software Engineer in Test](https://ats.rippling.com/pdq/jobs/698d390d-f27e-4b79-8ed0-9807cd129cbe)
