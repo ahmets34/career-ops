@@ -1,3 +1,17 @@
+## 2026-05-09 13:04 EDT (WebSearch scan) — 9 new offers
+
+- [WorkBoard — Software Developer in Test (SDET)](https://job-boards.greenhouse.io/workboard/jobs/8512882002)
+- [openDoctor — Software Development Engineer in Test (SDET)](https://jobs.ashbyhq.com/opendr/7f3d2971-0a19-4cb8-8e92-7f3417e86952)
+- [Blueprint Technologies — Senior Test Automation Engineer](https://job-boards.greenhouse.io/bpcs/jobs/7904677)
+- [Axon — Software Engineer in Test I (Automation)](https://job-boards.greenhouse.io/axon/jobs/7653393003)
+- [OfficeSpace Software — Lead QA Engineer](https://job-boards.greenhouse.io/officespacesoftware/jobs/5110225008)
+- [NetDocuments — Senior Software Test Engineer](https://job-boards.greenhouse.io/netdocuments/jobs/4890085008)
+- [Convera — Senior QA Engineer (Automation & Functional Testing)](https://job-boards.greenhouse.io/convera/jobs/4849369101)
+- [CompassX Group — Software Development Engineer in Test (Contract)](https://jobs.lever.co/compassx/9ecb7cd0-c3c6-4f2e-af58-d662e2891ea6)
+- [Planning Center — QA Tester](https://job-boards.greenhouse.io/planningcenter/jobs/4146991009)
+
+---
+
 ## 2026-05-09 10:03 EDT (WebSearch scan) — 0 new offers
 
 _(no new offers this run — all previously seen)_
