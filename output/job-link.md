@@ -1,3 +1,9 @@
+## 2026-05-09 08:03 EDT (WebSearch scan) — 1 new offers
+
+- [PDQ — Software Engineer in Test](https://ats.rippling.com/pdq/jobs/698d390d-f27e-4b79-8ed0-9807cd129cbe)
+
+---
+
 ## 2026-05-08 18:06 EDT (WebSearch scan) — 9 new offers
 
 - [Elite Technology — Senior Software Development Engineer in Test](https://remotive.com/remote/jobs/software-development/senior-software-development-engineer-in-test-4542969)
