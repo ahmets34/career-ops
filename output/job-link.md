@@ -1,3 +1,10 @@
+## 2026-05-09 15:06 EDT (WebSearch scan) — 2 new offers
+
+- [Accenture Federal Services — Automation Test Engineer](https://job-boards.greenhouse.io/accenturefederalservices/jobs/4643163006)
+- [Embrace Software — QA Engineer (Automation)](https://himalayas.app/companies/embrace-software-inc/jobs/qa-engineer-automation)
+
+---
+
 ## 2026-05-09 13:04 EDT (WebSearch scan) — 9 new offers
 
 - [WorkBoard — Software Developer in Test (SDET)](https://job-boards.greenhouse.io/workboard/jobs/8512882002)
