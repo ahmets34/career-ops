@@ -1,3 +1,11 @@
+## 2026-05-10 13:01 EDT (WebSearch scan) — 3 new offers
+
+- [Reddit — Senior/Staff SDET, Quality Engineering](https://boards.greenhouse.io/reddit/jobs/3014287)
+- [Trivelta — SDET](https://job-boards.greenhouse.io/trivelta/jobs/4093361009)
+- [Newsela — Senior Fullstack Quality Engineer](https://job-boards.greenhouse.io/newsela/jobs/7773856)
+
+---
+
 ## 2026-05-10 10:05 EDT (WebSearch scan) — 6 new offers
 
 - [Ping Identity — Senior Manager, Quality Engineering](https://job-boards.greenhouse.io/pingidentity/jobs/8084757002)
