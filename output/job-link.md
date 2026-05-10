@@ -1,3 +1,12 @@
+## 2026-05-10 08:14 EDT (WebSearch scan) — 4 new offers
+
+- [TripleBlind — Software Engineer in Test](https://jobs.lever.co/tripleblind/6f4582ca-8f8a-4533-b8f2-05f6c399841f)
+- [3Pillar — QA Lead (Contractor)](https://jobs.lever.co/3pillarglobal/aa558efd-4a89-45df-810a-e183b6f3475f)
+- [GoodLeap — Senior Quality Engineer](https://jobs.lever.co/goodleap/1d7fcfb2-8ac3-48fe-8ccb-f69d838656fa)
+- [GoodLeap — Senior Quality Engineer, Payments](https://jobs.lever.co/goodleap/8e93e30a-9f33-4626-b684-97b686204dc1)
+
+---
+
 ## 2026-05-09 18:02 EDT (WebSearch scan) — 0 new offers
 
 _(no new offers this run — all previously seen)_
