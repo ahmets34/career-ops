@@ -1,3 +1,14 @@
+## 2026-05-10 10:05 EDT (WebSearch scan) — 6 new offers
+
+- [Ping Identity — Senior Manager, Quality Engineering](https://job-boards.greenhouse.io/pingidentity/jobs/8084757002)
+- [Ping Identity — Senior Software Quality Engineer](https://job-boards.greenhouse.io/pingidentity/jobs/8139849002)
+- [Ping Identity — QA Engineer](https://job-boards.greenhouse.io/pingidentity/jobs/8152268002)
+- [Ping Identity — Software Quality Engineer I](https://job-boards.greenhouse.io/pingidentity/jobs/8467781002)
+- [Impact.com — Software Quality Engineer (Java/Selenium)](https://job-boards.greenhouse.io/impact/jobs/6256610002)
+- [Extend — Senior Quality Engineer](https://job-boards.greenhouse.io/extend/jobs/5703156004)
+
+---
+
 ## 2026-05-10 08:14 EDT (WebSearch scan) — 4 new offers
 
 - [TripleBlind — Software Engineer in Test](https://jobs.lever.co/tripleblind/6f4582ca-8f8a-4533-b8f2-05f6c399841f)
