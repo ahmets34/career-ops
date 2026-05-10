@@ -1,3 +1,16 @@
+## 2026-05-10 15:04 EDT (WebSearch scan) — 8 new offers
+
+- [OneTrust — Principal Quality Engineer - SDET](https://job-boards.greenhouse.io/onetrust/jobs/7825595)
+- [LVT — Software Development in Test (SDET III)](https://job-boards.greenhouse.io/liveviewtechnologiesinc/jobs/5185164008)
+- [QGenda — Software Development Engineer in Test (SDET)](https://wellfound.com/jobs/1846401-software-development-engineer-in-test-sdet)
+- [ProductPerfect — Senior QA Automation Engineer (Contract)](https://jobs.ashbyhq.com/productperfect/ab27d5cc-706a-4aaf-ad7f-636b863b39de)
+- [Kraken — Senior QA Automation Engineer - Consumer](https://jobs.ashbyhq.com/kraken.com/79016f2e-8a2e-40c6-a261-0e0ddc1e4a8a)
+- [Curology — SDET/QA Engineer](https://apply.workable.com/curology/j/1C519D74D1)
+- [Wing Assistant — Senior Quality Assurance Engineer](https://jobs.lever.co/getwingapp/d8cf7b6e-9fff-4593-97cb-ceb81d9d68a4)
+- [Owner — Senior Quality Engineer](https://jobs.lever.co/owner/a7238535-c646-44a2-b7ef-eec43a0db562)
+
+---
+
 ## 2026-05-10 13:01 EDT (WebSearch scan) — 3 new offers
 
 - [Reddit — Senior/Staff SDET, Quality Engineering](https://boards.greenhouse.io/reddit/jobs/3014287)
