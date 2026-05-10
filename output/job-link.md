@@ -1,3 +1,15 @@
+## 2026-05-10 18:07 EDT (WebSearch scan) — 7 new offers
+
+- [Veeva Systems — QA Engineer](https://jobs.lever.co/veeva/a9151e15-24ab-4fcd-af1e-74beea3063a9)
+- [Nutrafol — Senior Quality Assurance Analyst](https://job-boards.greenhouse.io/nutrafol/jobs/4590077005)
+- [Acorns — Quality Assurance Engineer I](https://jobs.ashbyhq.com/Acorns/7404921b-f88c-4450-9477-803e33926fb8)
+- [BusRight — Quality Assurance Engineer](https://jobs.ashbyhq.com/busright/3699ba2b-99a7-4ce9-9875-55eae0ca25ba)
+- [Bloomerang — Quality Engineer](https://job-boards.greenhouse.io/bloomerang/jobs/4563473005)
+- [Cohere Health — QA Engineer](https://job-boards.greenhouse.io/coherehealth/jobs/7656288003)
+- [Acorns — QA Engineer II](https://jobs.ashbyhq.com/Acorns/11056b58-9c26-4b20-875d-c53c4c017a7d)
+
+---
+
 ## 2026-05-10 15:04 EDT (WebSearch scan) — 8 new offers
 
 - [OneTrust — Principal Quality Engineer - SDET](https://job-boards.greenhouse.io/onetrust/jobs/7825595)
