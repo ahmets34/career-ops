@@ -1,3 +1,12 @@
+## 2026-05-11 18:11 EDT (WebSearch scan) — 4 new offers
+
+- [Fresh Prints — Senior Test Automation Engineer](https://job-boards.greenhouse.io/freshprints/jobs/5727269004)
+- [Toptal — Senior QA Automation Engineer](https://jobs.lever.co/toptal/a297b4fa-7c83-43d8-bc19-5abaf3a57fc8)
+- [Netomi — SDET III – Generative AI QA](https://jobs.lever.co/netomi/d01e3c06-2049-4e60-84cf-4e4f7f28d53d)
+- [Life360 — Sr. SDET II, Platform and Tooling](https://job-boards.greenhouse.io/life360/jobs/7933574002)
+
+---
+
 ## 2026-05-11 13:04 EDT (WebSearch scan) — 3 new offers
 
 - [BetterHelp — Software Quality Assurance Engineer III](https://job-boards.greenhouse.io/betterhelpcom/jobs/5098947008)
