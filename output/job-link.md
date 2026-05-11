@@ -1,3 +1,12 @@
+## 2026-05-11 08:08 EDT (WebSearch scan) — 4 new offers
+
+- [3Pillar — Senior QA Automation Engineer - Python](https://jobs.lever.co/3pillarglobal/b8b3d2b1-5d39-403f-9e81-f9dc8d2603b2)
+- [Inductive Automation — Senior Quality Assurance Engineer I (Performance)](https://jobs.ashbyhq.com/inductive-automation-llc/95232d38-3555-4f1c-9db3-c969c1ea32d6)
+- [Emergent Labs — Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/emergentlabsinc/jobs/4074806009)
+- [Esri — Software Development Engineer in Test II (SDET)](https://job-boards.greenhouse.io/esri/jobs/4801218007)
+
+---
+
 ## 2026-05-10 18:07 EDT (WebSearch scan) — 7 new offers
 
 - [Veeva Systems — QA Engineer](https://jobs.lever.co/veeva/a9151e15-24ab-4fcd-af1e-74beea3063a9)
