@@ -1,3 +1,13 @@
+## 2026-05-11 10:08 EDT (WebSearch scan) — 5 new offers
+
+- [Enova — Senior Software Test Engineer (Remote)](https://boards.greenhouse.io/enova/jobs/3651285)
+- [Glassdoor — Senior Software Engineer in Test](https://boards.greenhouse.io/glassdoor/jobs/5710859002)
+- [StockX — Software Development Engineer in Test](https://job-boards.greenhouse.io/stockx/jobs/8521478002)
+- [Accenture Federal Services — Quality Engineer (Automation)](https://job-boards.greenhouse.io/accenturefederalservices/jobs/4675357006)
+- [Veeva Systems — Senior Software Engineer in Test](https://jobs.lever.co/veeva/2aa0f44c-e7a3-4d10-8f36-e6f2294c364c)
+
+---
+
 ## 2026-05-11 08:08 EDT (WebSearch scan) — 4 new offers
 
 - [3Pillar — Senior QA Automation Engineer - Python](https://jobs.lever.co/3pillarglobal/b8b3d2b1-5d39-403f-9e81-f9dc8d2603b2)
