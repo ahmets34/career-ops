@@ -1,3 +1,11 @@
+## 2026-05-11 13:04 EDT (WebSearch scan) — 3 new offers
+
+- [BetterHelp — Software Quality Assurance Engineer III](https://job-boards.greenhouse.io/betterhelpcom/jobs/5098947008)
+- [Rhumbix — Senior QA Engineer](https://jobs.lever.co/rhumbix/d5860bcd-29c0-4c5e-8450-65d8a0d8a3a1)
+- [3Pillar Global — Senior QA Automation Engineer](https://jobs.lever.co/3pillarglobal/38746a72-7af2-4434-adeb-e6d29af3e77e)
+
+---
+
 ## 2026-05-11 10:08 EDT (WebSearch scan) — 5 new offers
 
 - [Enova — Senior Software Test Engineer (Remote)](https://boards.greenhouse.io/enova/jobs/3651285)
