@@ -1,3 +1,14 @@
+## 2026-05-12 18:14 EDT (WebSearch scan) — 6 new offers
+
+- [Circle — Senior QA Automation Engineer](https://jobs.lever.co/circleco/04253870-dd71-49e2-b507-68b47fd3b8ad)
+- [Kong — Senior Software Engineer in Test](https://jobs.lever.co/kong/f089d8eb-b25a-4ab4-8923-93404de85d17)
+- [Keeper Security — Senior SDET](https://apply.workable.com/keepersecurity/j/9417D3D0D3)
+- [Jobgether — Sr. Software Development Engineer in Test (Remote - US)](https://apply.workable.com/jobgether/j/C5380F6F28)
+- [Air — SDET](https://apply.workable.com/air/j/2EC7ECC5B5)
+- [Wokelo AI — SDET-1](https://jobs.ashbyhq.com/wokelo-ai/5de80b37-af44-4f30-83b5-2b1c3202b3cc)
+
+---
+
 ## 2026-05-12 15:03 EDT (WebSearch scan) — 3 new offers
 
 - [Anduril Industries — Senior Test Automation Engineer](https://job-boards.greenhouse.io/andurilindustries/jobs/5133681007)
