@@ -1,3 +1,12 @@
+## 2026-05-12 10:11 EDT (WebSearch scan) — 4 new offers
+
+- [Workstate — Senior QA Automation Engineer](https://apply.workable.com/workstate/j/BF78D7CC9C)
+- [Renew Home — Senior Software Engineer, Test and Automation (Remote, US)](https://apply.workable.com/renewhome/j/C160BD678A/)
+- [PingWind — Quality Assurance Engineer](https://jobs.lever.co/pingwind/9dab84c2-f30d-4636-a8e5-d4adf0c5516c)
+- [Intus Care — Software Development Engineer in Test (SDET) - Data Engineering](https://jobs.ashbyhq.com/intus/3131614e-7424-4afe-a4d4-b236d987484b)
+
+---
+
 ## 2026-05-12 08:03 EDT (WebSearch scan) — 9 new offers
 
 - [Corelight — Software Development Engineer in Test (SDET)](https://boards.greenhouse.io/corelight/jobs/6608612)
