@@ -1,3 +1,17 @@
+## 2026-05-12 08:03 EDT (WebSearch scan) — 9 new offers
+
+- [Corelight — Software Development Engineer in Test (SDET)](https://boards.greenhouse.io/corelight/jobs/6608612)
+- [RegScale — Software Development Engineer in Test](https://boards.greenhouse.io/regscale/jobs/4658067007)
+- [Elite Technical — Sr. QA Test Automation Engineer (Fully Remote)](https://www.dice.com/job-detail/371bd2c7-e071-410a-8125-5c7cefa60eaa)
+- [College Board — Senior QA Automation Engineer](https://www.dice.com/job-detail/4014135b-e9e5-4b75-8586-46550d739a5b)
+- [SmartAsset — Senior Software Engineer, QA](https://boards.greenhouse.io/smartasset/jobs/7929714002)
+- [ConsultNet — SDET](https://www.dice.com/job-detail/9cb3117c-ff20-4068-9b9c-9b0ac0baa893)
+- [Lumenalta — Senior QA Automation Engineer](https://www.linkedin.com/jobs/view/senior-qa-automation-engineer-selenium-java-at-lumenalta-4340380559)
+- [FairCom — Software Development Engineer in Test (SDET)](https://apply.workable.com/faircom/j/1F1A909520)
+- [Zeta Global — Lead Software QA Engineer, AI Automation](https://job-boards.greenhouse.io/zetaglobal/jobs/5985686004)
+
+---
+
 ## 2026-05-11 18:11 EDT (WebSearch scan) — 4 new offers
 
 - [Fresh Prints — Senior Test Automation Engineer](https://job-boards.greenhouse.io/freshprints/jobs/5727269004)
