@@ -1,3 +1,10 @@
+## 2026-05-12 13:06 EDT (WebSearch scan) — 2 new offers
+
+- [Forge Global — Staff Quality Engineer II](https://job-boards.greenhouse.io/forgeglobal/jobs/5971263004)
+- [Lazarus Enterprises — Quality Assurance (QA) Engineer](https://boards.greenhouse.io/lazarusenterprises/jobs/4371125007)
+
+---
+
 ## 2026-05-12 10:11 EDT (WebSearch scan) — 4 new offers
 
 - [Workstate — Senior QA Automation Engineer](https://apply.workable.com/workstate/j/BF78D7CC9C)
