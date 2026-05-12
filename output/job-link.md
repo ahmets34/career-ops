@@ -1,3 +1,11 @@
+## 2026-05-12 15:03 EDT (WebSearch scan) — 3 new offers
+
+- [Anduril Industries — Senior Test Automation Engineer](https://job-boards.greenhouse.io/andurilindustries/jobs/5133681007)
+- [Mill — Software Development Engineer, Test](https://job-boards.greenhouse.io/mill/jobs/4666993005)
+- [PDQ — Software Engineer in Test](https://ats.rippling.com/pdq/jobs/88960cbc-f040-4e00-a529-b03c074ce0b3)
+
+---
+
 ## 2026-05-12 13:06 EDT (WebSearch scan) — 2 new offers
 
 - [Forge Global — Staff Quality Engineer II](https://job-boards.greenhouse.io/forgeglobal/jobs/5971263004)
