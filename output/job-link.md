@@ -1,3 +1,11 @@
+## 2026-05-13 18:03 EDT (WebSearch scan) — 3 new offers
+
+- [Reddit — Senior SDET, Android, Quality Engineering](https://builtin.com/job/engineer/senior-sdet-android-quality-engineering/1067717)
+- [Esri — Sr. SDET (Network Diagrams)](https://boards.greenhouse.io/esri/jobs/5085804007)
+- [Aras Corporation — Senior QA Engineer (Automation)](https://remotive.com/remote/jobs/qa/senior-qa-engineer-automation-4280401)
+
+---
+
 ## 2026-05-13 15:07 EDT (WebSearch scan) — 3 new offers
 
 - [Cotiviti — SDET](https://weworkremotely.com/remote-jobs/cotiviti-sdet-1)
