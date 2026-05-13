@@ -1,3 +1,11 @@
+## 2026-05-13 15:07 EDT (WebSearch scan) — 3 new offers
+
+- [Cotiviti — SDET](https://weworkremotely.com/remote-jobs/cotiviti-sdet-1)
+- [Zencoder — Senior QA Automation Engineer](https://builtin.com/job/senior-qa-automation-engineer/3798023)
+- [Upgrade — Senior QA Automation Engineer](https://wellfound.com/jobs/1175222-senior-qa-automation-engineer-remote)
+
+---
+
 ## 2026-05-13 13:06 EDT (WebSearch scan) — 5 new offers
 
 - [Autodesk — Senior SDET Developer](https://himalayas.app/companies/autodesk/jobs/senior-sdet-developer)
