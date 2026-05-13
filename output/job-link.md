@@ -1,3 +1,11 @@
+## 2026-05-13 08:04 EDT (WebSearch scan) — 3 new offers
+
+- [Maximus Health — Senior QA Engineer (Remote)](https://jobs.ashbyhq.com/maximustribe/09b686e4-4f38-4758-a4a0-6da7569104bf/application)
+- [Provision IAM — Senior SDET (Remote)](https://provisioniam.recruitee.com/o/senior-sdet-software-development-engineer-in-test-remote)
+- [Apollo.io — Senior QA Engineer](https://boards.greenhouse.io/apolloio/jobs/5015417004)
+
+---
+
 ## 2026-05-12 18:14 EDT (WebSearch scan) — 6 new offers
 
 - [Circle — Senior QA Automation Engineer](https://jobs.lever.co/circleco/04253870-dd71-49e2-b507-68b47fd3b8ad)
