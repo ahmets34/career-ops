@@ -1,3 +1,13 @@
+## 2026-05-13 13:06 EDT (WebSearch scan) — 5 new offers
+
+- [Autodesk — Senior SDET Developer](https://himalayas.app/companies/autodesk/jobs/senior-sdet-developer)
+- [Vonage — VOIP QA Automation Engineer](https://himalayas.app/companies/vonage/jobs/voip-qa-automation-engineer)
+- [RingCentral — Senior QA Engineer (Playwright/TypeScript)](https://builtin.com/job/senior-qa-engineerplaywright-typescript/4098227)
+- [Gather — Senior WebRTC QA & Automation Engineer](https://builtin.com/job/senior-webrtc-qa-automation-engineer/3549053)
+- [Aperia — Senior QA Analyst (Automation)](https://builtin.com/job/senior-qa-analyst-automation/3382919)
+
+---
+
 ## 2026-05-13 10:12 EDT (WebSearch scan) — 1 new offer
 
 - [Arion Koder — Senior Mobile QA Engineer (Remote, US Based)](https://job-boards.greenhouse.io/arionkoder/jobs/4913853008)
