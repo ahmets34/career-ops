@@ -1,3 +1,9 @@
+## 2026-05-14 18:12 EDT (WebSearch scan) — 1 new offer
+
+- [Netomi — SDET II](https://jobs.lever.co/netomi/8723fb67-36c9-495d-ba19-05b0e36f22e3)
+
+---
+
 ## 2026-05-14 15:07 EDT (WebSearch scan) — 0 new offers
 
 _(no new offers this run — all previously seen)_
