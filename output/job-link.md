@@ -1,3 +1,11 @@
+## 2026-05-14 08:01 EDT (WebSearch scan) — 3 new offers
+
+- [Toptal — QA Automation Engineer](https://weworkremotely.com/remote-jobs/toptal-qa-automation-engineer-1)
+- [ClickUp — Senior Quality Engineer](https://jobs.ashbyhq.com/clickup/60a9f8cb-7f01-49b1-a2ac-4fd4b652280c)
+- [Worldly — Senior Quality Engineer (Cypress)](https://jobs.ashbyhq.com/worldly/1829d615-49bd-4614-8df8-19b541521df4)
+
+---
+
 ## 2026-05-13 18:03 EDT (WebSearch scan) — 3 new offers
 
 - [Reddit — Senior SDET, Android, Quality Engineering](https://builtin.com/job/engineer/senior-sdet-android-quality-engineering/1067717)
