@@ -1,3 +1,14 @@
+## 2026-05-14 13:06 EDT (WebSearch scan) — 6 new offers
+
+- [Arine — Lead Test Automation Engineer](https://job-boards.greenhouse.io/arine/jobs/5736148004)
+- [Buyers Edge Platform — QA Automation Analyst](https://job-boards.greenhouse.io/buyersedgeplatformrecruiting/jobs/4636062005)
+- [Canopy — QA Automation Engineer](https://job-boards.greenhouse.io/canopytax/jobs/4028487009)
+- [ClickHouse — QA Engineer - Core Database](https://job-boards.greenhouse.io/clickhouse/jobs/5654025004)
+- [Incode Technologies — QA Automation Engineer](https://job-boards.greenhouse.io/incode/jobs/5802714004)
+- [InfoTrust — Lead Quality Engineer - Automation](https://job-boards.greenhouse.io/infotrust/jobs/7638318003)
+
+---
+
 ## 2026-05-14 10:11 EDT (WebSearch scan) — 1 new offer
 
 - [OneTrust — Senior Quality Engineer - SDET](https://job-boards.greenhouse.io/onetrust/jobs/7656979)
