@@ -1,3 +1,12 @@
+## 2026-05-15 18:08 EDT (WebSearch scan) — 4 new offers
+
+- [ONE — QA Automation Engineer](https://jobs.ashbyhq.com/oneapp/ea1f7d7f-d479-441d-a540-fda262271492)
+- [Re:Build Manufacturing — Senior Software Automation Testing Engineer](https://builtin.com/job/senior-qa-tester/3242285)
+- [Synthflow AI — Senior Software Engineer in Test](https://jobs.ashbyhq.com/synthflow/c9f479c8-e5ee-487d-b157-ea83684eef0c)
+- [HugeInc — Freelance Senior QA Analyst](https://job-boards.greenhouse.io/hugeinc/jobs/7902154)
+
+---
+
 ## 2026-05-15 15:10 EDT (WebSearch scan) — 9 new offers
 
 - [Jobgether — Senior QA Analyst (Remote-US)](https://himalayas.app/companies/jobgether/jobs/senior-qa-analyst-remote-us)
