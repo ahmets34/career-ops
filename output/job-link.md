@@ -1,3 +1,14 @@
+## 2026-05-15 13:02 EDT (WebSearch scan) — 6 new offers
+
+- [Jobgether — Senior QA Automation Analyst](https://jobs.lever.co/jobgether/1c438a76-2a2a-4c4d-88ba-0709fcaf722f)
+- [Forge Group LLC — Senior Test Automation Engineer](https://remotive.com/remote/jobs/qa/senior-test-automation-engineer-4103061)
+- [IntusCare — Tech Lead, SDET](https://jobs.ashbyhq.com/intus/3ab4bac4-4a16-4510-a05d-c726f3e407a4)
+- [Lumimeds — Senior AI-First QA Engineer (SQA)](https://job-boards.greenhouse.io/lumimeds/jobs/4184230009)
+- [Alpaca — Senior Engineer in Test](https://job-boards.greenhouse.io/alpaca/jobs/5766635004)
+- [Goods & Services — Staff SDET](https://job-boards.greenhouse.io/goodsservices/jobs/7502822003)
+
+---
+
 ## 2026-05-15 10:12 EDT (WebSearch scan) — 2 new offers
 
 - [PixieBrix — Software Quality Assurance Analyst, Low-Code AI Platform](https://job-boards.greenhouse.io/pixiebrix/jobs/5576354004)
