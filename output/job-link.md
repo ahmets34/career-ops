@@ -1,3 +1,10 @@
+## 2026-05-15 10:12 EDT (WebSearch scan) — 2 new offers
+
+- [PixieBrix — Software Quality Assurance Analyst, Low-Code AI Platform](https://job-boards.greenhouse.io/pixiebrix/jobs/5576354004)
+- [Kiwi Financial — Senior QA Automation Engineer](https://jobs.ashbyhq.com/kiwi/7a90455a-62f1-4c35-8a86-78d78af9be9f)
+
+---
+
 ## 2026-05-15 08:17 EDT (WebSearch scan) — 3 new offers
 
 - [Carta — Senior QA Automation Engineer II](https://job-boards.greenhouse.io/carta/jobs/7449833003)
