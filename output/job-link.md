@@ -1,3 +1,11 @@
+## 2026-05-15 08:17 EDT (WebSearch scan) — 3 new offers
+
+- [Carta — Senior QA Automation Engineer II](https://job-boards.greenhouse.io/carta/jobs/7449833003)
+- [Ascent Technologies — Software Development Engineer in Test (SDET) Lead](https://boards.greenhouse.io/ascenttechnologies/jobs/4534866003)
+- [Vonage — SDET/QA Engineer](https://boards.greenhouse.io/vonage/jobs/5952103002)
+
+---
+
 ## 2026-05-14 18:12 EDT (WebSearch scan) — 1 new offer
 
 - [Netomi — SDET II](https://jobs.lever.co/netomi/8723fb67-36c9-495d-ba19-05b0e36f22e3)
