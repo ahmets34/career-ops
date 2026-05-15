@@ -1,3 +1,17 @@
+## 2026-05-15 15:10 EDT (WebSearch scan) — 9 new offers
+
+- [Jobgether — Senior QA Analyst (Remote-US)](https://himalayas.app/companies/jobgether/jobs/senior-qa-analyst-remote-us)
+- [Dataiku — Software Engineer in Test - QA](https://job-boards.greenhouse.io/dataikujobs/jobs/5278066004)
+- [Onbe — Lead QA Engineer](https://job-boards.greenhouse.io/onbe/jobs/4679169006)
+- [Sony Interactive Entertainment — SDET Contractor](https://job-boards.greenhouse.io/sonyinteractiveentertainmentglobal/jobs/5993055004)
+- [Jobgether — Senior QA Tester (Remote)](https://jobs.lever.co/jobgether/f23c6190-f070-4f42-87c8-0d287b1bfb1d)
+- [Nextech — Quality Assurance Engineer (Remote)](https://jobs.lever.co/nextech/a1e1c6cb-a738-4a90-bea7-0954bbc7958a)
+- [Veeva Systems — QA Engineer](https://jobs.lever.co/veeva/19259651-ab8e-4ff4-a7d9-580f2cd2f755)
+- [Veeva Systems — QA Engineer for Mobile (Remote)](https://jobs.lever.co/veeva/4d708ace-365e-4125-9958-894bce6a29dc)
+- [Veeva Systems — Associate Quality Engineer](https://jobs.lever.co/veeva/aca8cd98-e800-45b9-94bc-cb2c3077b49d)
+
+---
+
 ## 2026-05-15 13:02 EDT (WebSearch scan) — 6 new offers
 
 - [Jobgether — Senior QA Automation Analyst](https://jobs.lever.co/jobgether/1c438a76-2a2a-4c4d-88ba-0709fcaf722f)
