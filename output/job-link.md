@@ -1,3 +1,11 @@
+## 2026-05-16 15:08 EDT (WebSearch scan) — 3 new offers
+
+- [Carta — Senior QA Automation Engineer](https://job-boards.greenhouse.io/carta/jobs/6651501003)
+- [Coursedog — Senior QA Engineer, Data Integrations](https://remotive.com/remote/jobs/qa/senior-qa-engineer-data-integrations-4408630)
+- [Boku — Software Development Engineer in Test II](https://builtin.com/job/qa-engineer-sdet-us/4456100)
+
+---
+
 ## 2026-05-16 13:05 EDT (WebSearch scan) — 4 new offers
 
 - [Dialpad — Senior Software Engineer in Test (SDET)](https://boards.greenhouse.io/dialpad/jobs/5180971002)
