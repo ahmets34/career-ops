@@ -1,3 +1,12 @@
+## 2026-05-16 13:05 EDT (WebSearch scan) — 4 new offers
+
+- [Dialpad — Senior Software Engineer in Test (SDET)](https://boards.greenhouse.io/dialpad/jobs/5180971002)
+- [Boku — QA Engineer (SDET) - US](https://boards.greenhouse.io/boku/jobs/5462657004)
+- [Jobgether — Software Engineer in Test III (Automation, Virtualization)](https://jobs.lever.co/jobgether/382a9fb4-7d53-445f-b330-3a5c20a07452)
+- [Platform Science — Senior SDET (Web & Mobile)](https://boards.greenhouse.io/platformscience/jobs/4406763003)
+
+---
+
 ## 2026-05-16 10:09 EDT (WebSearch scan) — 3 new offers
 
 - [Litify — Senior QA Automation Engineer](https://job-boards.greenhouse.io/litify/jobs/7931370)
