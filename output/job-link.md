@@ -1,3 +1,13 @@
+## 2026-05-16 18:07 EDT (WebSearch scan) — 5 new offers
+
+- [Applied Intuition — Senior Test Automation Engineer](https://boards.greenhouse.io/appliedintuition/jobs/4417826005)
+- [Bezos Academy — Senior Test Automation Engineer](https://job-boards.greenhouse.io/day1academies/jobs/8489509002)
+- [Tango — SDET](https://job-boards.greenhouse.io/tangoio/jobs/4875602004)
+- [Shift5 — Software Test Engineer (US Remote/VA)](https://job-boards.greenhouse.io/shift5/jobs/5632560004)
+- [Sonatus — Senior System Test Automation Engineer](https://job-boards.greenhouse.io/sonatus/jobs/4787214007)
+
+---
+
 ## 2026-05-16 15:08 EDT (WebSearch scan) — 3 new offers
 
 - [Carta — Senior QA Automation Engineer](https://job-boards.greenhouse.io/carta/jobs/6651501003)
