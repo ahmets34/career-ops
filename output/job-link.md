@@ -1,3 +1,11 @@
+## 2026-05-16 10:09 EDT (WebSearch scan) — 3 new offers
+
+- [Litify — Senior QA Automation Engineer](https://job-boards.greenhouse.io/litify/jobs/7931370)
+- [Jobgether — Senior QA Analyst](https://jobs.lever.co/jobgether/cb1414ef-2b23-4b55-bf28-41271cf4b015)
+- [Hometap — Senior QA Engineer](https://job-boards.greenhouse.io/hometap/jobs/4803516007)
+
+---
+
 ## 2026-05-16 08:03 EDT (WebSearch scan) — 3 new offers
 
 - [Fundraise Up — Senior QA Engineer](https://remotive.com/remote/jobs/qa/senior-qa-engineer-4295607)
