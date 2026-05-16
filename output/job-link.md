@@ -1,3 +1,11 @@
+## 2026-05-16 08:03 EDT (WebSearch scan) — 3 new offers
+
+- [Fundraise Up — Senior QA Engineer](https://remotive.com/remote/jobs/qa/senior-qa-engineer-4295607)
+- [Group 1001 — Senior QA Automation Engineer](https://remotive.com/remote/jobs/qa/senior-qa-automation-engineer-4168010)
+- [Schoox LLC — QA Automation Engineer](https://remotive.com/remote/jobs/qa/qa-automation-engineer-4100462)
+
+---
+
 ## 2026-05-15 18:08 EDT (WebSearch scan) — 4 new offers
 
 - [ONE — QA Automation Engineer](https://jobs.ashbyhq.com/oneapp/ea1f7d7f-d479-441d-a540-fda262271492)
