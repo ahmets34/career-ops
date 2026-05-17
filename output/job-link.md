@@ -1,3 +1,16 @@
+## 2026-05-17 13:05 EDT (WebSearch scan) — 8 new offers
+
+- [Business Wire — Senior Quality Assurance Automation Engineer](https://himalayas.app/companies/business-wire/jobs/senior-quality-assurance-automation-engineer)
+- [Common App — Software Quality Assurance Engineer](https://builtin.com/job/software-quality-assurance-engineer/3225390)
+- [Esri — Software Development Engineer in Test (SDET) II – Survey123](https://job-boards.greenhouse.io/esri/jobs/5099160007)
+- [CBC Companies — QA Engineer](https://remotive.com/remote/jobs/qa/qa-engineer-4401565)
+- [Milliman — QA Automation Engineer](https://remotive.com/remote/jobs/qa/qa-automation-engineer-4512424)
+- [Hyper Solutions — QA Automation Engineer](https://remotive.com/remote/jobs/qa/qa-automation-engineer-3955926)
+- [Peraton — Automated Testing QA Engineer](https://remotive.com/remote/jobs/qa/automated-testing-qa-engineer-4293303)
+- [Upland Software — QA Automation Engineer](https://remotive.com/remote/jobs/qa/qa-automation-engineer-4135119)
+
+---
+
 ## 2026-05-17 10:04 EDT (WebSearch scan) — 5 new offers
 
 - [Matterport — Senior Staff Software Engineer in Test](https://jobs.lever.co/matterport/9558e0fb-f881-4b48-a0ad-6d1c45b993fb)
