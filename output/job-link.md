@@ -1,3 +1,10 @@
+## 2026-05-17 08:04 EDT (WebSearch scan) — 2 new offers
+
+- [Tala — Senior SDET](https://jobs.lever.co/tala/87cbeaac-c5f8-4327-ad4c-aac5bc9abed3)
+- [Valtech — Senior QA Automation Engineer](https://job-boards.greenhouse.io/valtech/jobs/4854941101)
+
+---
+
 ## 2026-05-16 18:07 EDT (WebSearch scan) — 5 new offers
 
 - [Applied Intuition — Senior Test Automation Engineer](https://boards.greenhouse.io/appliedintuition/jobs/4417826005)
