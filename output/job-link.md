@@ -1,3 +1,9 @@
+## 2026-05-17 18:07 EDT (WebSearch scan) — 1 new offer
+
+- [HighLevel — Software Development Engineer in Test II (Mobile)](https://jobs.lever.co/gohighlevel/4310ebae-86cd-426c-b253-83fc3ba4b2b1)
+
+---
+
 ## 2026-05-17 15:08 EDT (WebSearch scan) — 4 new offers
 
 - [Crunchyroll — Senior SDET](https://boards.greenhouse.io/crunchyroll/jobs/6016429)
