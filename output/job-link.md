@@ -1,3 +1,13 @@
+## 2026-05-17 10:04 EDT (WebSearch scan) — 5 new offers
+
+- [Matterport — Senior Staff Software Engineer in Test](https://jobs.lever.co/matterport/9558e0fb-f881-4b48-a0ad-6d1c45b993fb)
+- [Greenlight Financial Technology — Senior SDET](https://jobs.lever.co/greenlight/5ecf398c-e849-460c-825c-cb7a67dbf687)
+- [PointClickCare — (US) Senior Software Engineer In Test](https://jobs.lever.co/pointclickcare/31147f7f-9c80-4360-bd96-8cbad098bb62)
+- [LOD Technologies — Senior QA Automation Engineer (SDET)](https://apply.workable.com/lod-technologies-inc/j/AD84D35C31)
+- [Veza Technologies — Software Developer in Test](https://job-boards.greenhouse.io/veza/jobs/5664118004)
+
+---
+
 ## 2026-05-17 08:04 EDT (WebSearch scan) — 2 new offers
 
 - [Tala — Senior SDET](https://jobs.lever.co/tala/87cbeaac-c5f8-4327-ad4c-aac5bc9abed3)
