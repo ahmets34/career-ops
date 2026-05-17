@@ -1,3 +1,12 @@
+## 2026-05-17 15:08 EDT (WebSearch scan) — 4 new offers
+
+- [Crunchyroll — Senior SDET](https://boards.greenhouse.io/crunchyroll/jobs/6016429)
+- [Beyond Finance — Senior Manager, SDET](https://boards.greenhouse.io/beyondfinance/jobs/6068402)
+- [Esri — Sr. Software Development Engineer in Test (SDET) – Apps](https://boards.greenhouse.io/esri/jobs/5076375007)
+- [Twilio — Senior Software Development Engineer in Test (SDET)](https://boards.greenhouse.io/twilio/jobs/3198528)
+
+---
+
 ## 2026-05-17 13:05 EDT (WebSearch scan) — 8 new offers
 
 - [Business Wire — Senior Quality Assurance Automation Engineer](https://himalayas.app/companies/business-wire/jobs/senior-quality-assurance-automation-engineer)
