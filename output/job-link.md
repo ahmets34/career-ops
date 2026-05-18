@@ -1,3 +1,12 @@
+## 2026-05-18 13:07 EDT (WebSearch scan) — 4 new offers
+
+- [Greenlight — Senior SDET](https://jobs.lever.co/greenlight/890344ce-5b7c-42b1-8cca-9bcbc4d44452)
+- [Tatari — Sr Data Quality Engineer (SDET)](https://job-boards.greenhouse.io/tatari/jobs/8471586002)
+- [Tatari — Sr Data Quality Engineer (SDET) v2](https://job-boards.greenhouse.io/tatari/jobs/8471645002)
+- [OneTrust — Quality Engineer (SDET)](https://job-boards.greenhouse.io/onetrust/jobs/7650220)
+
+---
+
 ## 2026-05-18 10:07 EDT (WebSearch scan) — 1 new offer
 
 - [Roadie — Software Development Engineer in Test](https://job-boards.greenhouse.io/roadie/jobs/8129337002)
