@@ -1,3 +1,9 @@
+## 2026-05-18 10:07 EDT (WebSearch scan) — 1 new offer
+
+- [Roadie — Software Development Engineer in Test](https://job-boards.greenhouse.io/roadie/jobs/8129337002)
+
+---
+
 ## 2026-05-18 08:19 EDT (WebSearch scan) — 0 new offers
 
 _(no new offers this run — all previously seen)_
