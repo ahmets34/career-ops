@@ -1,3 +1,12 @@
+## 2026-05-18 18:04 EDT (WebSearch scan) — 4 new offers
+
+- [Renew Home — Senior Engineer, Test and Automation (Remote, US)](https://apply.workable.com/renewhome/j/63F167E6BD)
+- [Side — Senior Test Automation Engineer (Remote)](https://apply.workable.com/sideinc/j/185AB8965A)
+- [LighthouseAI — Senior QA Automation Engineer](https://ats.rippling.com/lighthouseai-careers/jobs/ecd1663d-f28a-4bcf-bde5-d334c29eb5a1)
+- [Acceldata — Senior SDET](https://jobs.lever.co/acceldata/1f658cf4-9ea7-4d1c-bf3c-b78d132f78bb)
+
+---
+
 ## 2026-05-18 15:03 EDT (WebSearch scan) — 2 new offers
 
 - [OpenX — Senior Test Automation Engineer IV (JS)](https://jobs.lever.co/openx/68d8b4af-edcd-4ad7-8821-a4d76c3e53c9)
