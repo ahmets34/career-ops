@@ -1,3 +1,10 @@
+## 2026-05-18 15:03 EDT (WebSearch scan) — 2 new offers
+
+- [OpenX — Senior Test Automation Engineer IV (JS)](https://jobs.lever.co/openx/68d8b4af-edcd-4ad7-8821-a4d76c3e53c9)
+- [OpenX — Senior Test Automation Engineer IV (Java/TS)](https://jobs.lever.co/openx/96585a4f-073c-4259-8672-e387608b995c)
+
+---
+
 ## 2026-05-18 13:07 EDT (WebSearch scan) — 4 new offers
 
 - [Greenlight — Senior SDET](https://jobs.lever.co/greenlight/890344ce-5b7c-42b1-8cca-9bcbc4d44452)
