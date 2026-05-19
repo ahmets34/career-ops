@@ -1,3 +1,9 @@
+## 2026-05-19 10:08 EDT (WebSearch scan) — 0 new offers
+
+_(no new offers this run — all previously seen)_
+
+---
+
 ## 2026-05-19 08:06 EDT (WebSearch scan) — 4 new offers
 
 - [Flash — Lead Software Engineer in Test (SDET)](https://job-boards.greenhouse.io/flash/jobs/5221240008)
