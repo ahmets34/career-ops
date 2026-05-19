@@ -1,3 +1,20 @@
+## 2026-05-19 13:08 EDT (WebSearch scan) — 12 new offers
+
+- [Autodesk — Senior QA Engineer](https://remotive.com/remote/jobs/qa/senior-qa-engineer-4471064)
+- [Kraken — Senior SDET - Growth](https://jobs.ashbyhq.com/kraken.com/5d4ffe63-a069-444a-a6ee-8056f7d9cce2)
+- [GitLab — Senior Software Engineer in Test](https://boards.greenhouse.io/gitlab/jobs/6765200002)
+- [GitLab — Software Engineer in Test (Ruby)](https://boards.greenhouse.io/gitlab/jobs/5548474002)
+- [GitLab — Software Engineer in Test / Senior SET (Ruby)](https://boards.greenhouse.io/gitlab/jobs/5351998002)
+- [GitLab — Software Engineer in Test, Runner](https://boards.greenhouse.io/gitlab/jobs/5983543002)
+- [GitLab — Software Engineer in Test, Editor or Code Review](https://boards.greenhouse.io/gitlab/jobs/5989772002)
+- [GitLab — Software Engineer in Test, Dedicated](https://boards.greenhouse.io/gitlab/jobs/6562982002)
+- [GitLab — Software Engineer in Test, Growth: Product Intelligence](https://boards.greenhouse.io/gitlab/jobs/5548486002)
+- [GitLab — Software Engineer in Test / Senior SET](https://boards.greenhouse.io/gitlab/jobs/6179388002)
+- [KUBRA — Senior QA Engineer (Cypress Automation)](https://jobs.lever.co/kubra/925ad904-8f88-4640-a8aa-0a5c4c61f35f)
+- [Inductive Automation — Senior Quality Assurance Engineer I (Microservices)](https://jobs.lever.co/inductiveautomation/42edd9a4-6dbc-42bd-a818-86705efa30f2)
+
+---
+
 ## 2026-05-19 10:08 EDT (WebSearch scan) — 0 new offers
 
 _(no new offers this run — all previously seen)_
