@@ -1,3 +1,14 @@
+## 2026-05-19 18:03 EDT (WebSearch scan) — 6 new offers
+
+- [Hazelcast — Senior Software Engineer in Test (SDET)](https://himalayas.app/companies/hazelcast/jobs/senior-software-engineer-in-test-sdet)
+- [Close — Senior QA Engineer (100% Remote)](https://weworkremotely.com/remote-jobs/close-senior-qa-engineer-100-remote)
+- [Cerebras Systems — Senior SDET (AI Cluster)](https://job-boards.greenhouse.io/cerebrassystems/jobs/7611862003)
+- [Tandems — Software Development Engineer in Test (SDET)](https://jobs.lever.co/tandems/0d4255d1-21e1-4159-b30f-9afb1d66b631)
+- [Jobgether — SDET (Software Development Engineer in Test)](https://jobs.lever.co/jobgether/514c1010-372d-4849-91af-dfa351461c25)
+- [Esri — Sr. Software Development Engineer in Test (SDET) - Apps](https://boards.greenhouse.io/esri/jobs/5076361007)
+
+---
+
 ## 2026-05-19 15:13 EDT (WebSearch scan) — 2 new offers
 
 - [HighLevel — Software Development Engineer in Test III - Lead Gen](https://jobs.lever.co/gohighlevel/3fd62090-5bd9-489d-a9ca-682b08cf55fd)
