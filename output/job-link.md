@@ -1,3 +1,12 @@
+## 2026-05-19 08:06 EDT (WebSearch scan) — 4 new offers
+
+- [Flash — Lead Software Engineer in Test (SDET)](https://job-boards.greenhouse.io/flash/jobs/5221240008)
+- [SPECTRIO LLC — Software Development Engineer in Test](https://remotive.com/remote/jobs/qa/software-development-engineer-in-test-4676626)
+- [ClickHouse — QA Engineer - Core Database (Remote)](https://job-boards.greenhouse.io/clickhouse/jobs/5670526004)
+- [Machina Labs — Software Engineer in Test (SET)](https://jobs.lever.co/MachinaLabs/8658cfcf-5fcc-411d-82d1-7187cbd38633)
+
+---
+
 ## 2026-05-18 18:04 EDT (WebSearch scan) — 4 new offers
 
 - [Renew Home — Senior Engineer, Test and Automation (Remote, US)](https://apply.workable.com/renewhome/j/63F167E6BD)
