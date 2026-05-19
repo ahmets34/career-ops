@@ -1,3 +1,10 @@
+## 2026-05-19 15:13 EDT (WebSearch scan) — 2 new offers
+
+- [HighLevel — Software Development Engineer in Test III - Lead Gen](https://jobs.lever.co/gohighlevel/3fd62090-5bd9-489d-a9ca-682b08cf55fd)
+- [HighLevel — Software Development Engineer in Test II - Revex](https://jobs.lever.co/gohighlevel/cd291a91-28dd-4ac7-8da1-7c75bf27cfca)
+
+---
+
 ## 2026-05-19 13:08 EDT (WebSearch scan) — 12 new offers
 
 - [Autodesk — Senior QA Engineer](https://remotive.com/remote/jobs/qa/senior-qa-engineer-4471064)
