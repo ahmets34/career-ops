@@ -1,3 +1,9 @@
+## 2026-05-20 10:09 EDT (WebSearch scan) — 1 new offer
+
+- [Dragos — Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/dragos/jobs/5022514008)
+
+---
+
 ## 2026-05-20 08:11 EDT (WebSearch scan) — 6 new offers
 
 - [Medsien — Mobile QA Engineer / Software Test Engineer](https://job-boards.greenhouse.io/medsien/jobs/5066174007)
