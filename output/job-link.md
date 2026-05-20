@@ -1,3 +1,14 @@
+## 2026-05-20 08:11 EDT (WebSearch scan) — 6 new offers
+
+- [Medsien — Mobile QA Engineer / Software Test Engineer](https://job-boards.greenhouse.io/medsien/jobs/5066174007)
+- [Accela — Software Test Engineer](https://job-boards.greenhouse.io/accela/jobs/7733535)
+- [StackAdapt — Lead Quality Engineer](https://job-boards.greenhouse.io/stackadapt/jobs/4108564009)
+- [StackAdapt — Quality Engineer (All Levels)](https://job-boards.greenhouse.io/stackadapt/jobs/4048145009)
+- [StackAdapt — Senior Quality Engineer](https://job-boards.greenhouse.io/stackadapt/jobs/4019376009)
+- [Effectual — Quality Assurance Engineer](https://job-boards.greenhouse.io/effectual/jobs/7644204003)
+
+---
+
 ## 2026-05-19 18:03 EDT (WebSearch scan) — 6 new offers
 
 - [Hazelcast — Senior Software Engineer in Test (SDET)](https://himalayas.app/companies/hazelcast/jobs/senior-software-engineer-in-test-sdet)
