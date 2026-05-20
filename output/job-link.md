@@ -1,3 +1,10 @@
+## 2026-05-20 18:09 EDT (WebSearch scan) — 2 new offers
+
+- [VSP Vision Care — Test Software Engineer](https://remotive.com/remote/jobs/qa/test-software-engineer-4204135)
+- [eHealth — Software Development Engineer in Test (SDET)](https://builtin.com/job/software-development-engineer-test-sdet/7187226)
+
+---
+
 ## 2026-05-20 15:01 EDT (WebSearch scan) — 2 new offers
 
 - [airSlate — Senior General QA Engineer](https://jobs.lever.co/airslate/a56c739e-7cc2-447f-92bd-9f5416d9e9bd)
