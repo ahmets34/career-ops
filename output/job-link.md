@@ -1,3 +1,11 @@
+## 2026-05-20 13:06 EDT (WebSearch scan) — 3 new offers
+
+- [Jobgether — Senior Systems Automation Engineer (Remote US)](https://himalayas.app/companies/jobgether/jobs/senior-systems-automation-engineer-remote-us)
+- [SageSure — Software Development Engineer in Test](https://remotive.com/remote/jobs/software-dev/software-development-engineer-in-test-1628514)
+- [LVT — Senior Software Development Engineer in Test](https://builtin.com/job/senior-software-development-engineer-test/4762803)
+
+---
+
 ## 2026-05-20 10:09 EDT (WebSearch scan) — 1 new offer
 
 - [Dragos — Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/dragos/jobs/5022514008)
