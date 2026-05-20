@@ -1,3 +1,10 @@
+## 2026-05-20 15:01 EDT (WebSearch scan) — 2 new offers
+
+- [airSlate — Senior General QA Engineer](https://jobs.lever.co/airslate/a56c739e-7cc2-447f-92bd-9f5416d9e9bd)
+- [BlackCloak — Software Development Engineer in Test](https://remotive.com/remote/jobs/software-development/software-development-engineer-in-test-3791558)
+
+---
+
 ## 2026-05-20 13:06 EDT (WebSearch scan) — 3 new offers
 
 - [Jobgether — Senior Systems Automation Engineer (Remote US)](https://himalayas.app/companies/jobgether/jobs/senior-systems-automation-engineer-remote-us)
