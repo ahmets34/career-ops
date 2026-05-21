@@ -1,3 +1,11 @@
+## 2026-05-21 15:01 EDT (WebSearch scan) — 3 new offers
+
+- [Owner — Staff Quality Engineer](https://jobs.lever.co/owner/edc89ab3-38dc-4f9d-8fff-653cd147a4fa)
+- [FloQast — Software Development Engineer in Test II](https://jobs.lever.co/floqast/0335005b-bdf6-479b-891c-7cb7b64297af)
+- [Coupa Software — Senior Software Engineer in Test](https://jobs.lever.co/coupa/39fcc54d-3c1d-4e64-a0b6-d63b12169f4f)
+
+---
+
 ## 2026-05-21 13:05 EDT (WebSearch scan) — 3 new offers
 
 - [Sphere Laboratories — Mid-Senior Software Engineer (SDET)](https://jobs.lever.co/sphere-laboratories/05776feb-ea93-4868-8210-c497f0594b04)
