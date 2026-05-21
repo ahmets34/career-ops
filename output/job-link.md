@@ -1,3 +1,12 @@
+## 2026-05-21 10:04 EDT (WebSearch scan) — 4 new offers
+
+- [Jobgether — Manual QA Tester - Mobile](https://jobs.lever.co/jobgether/c88222cc-6045-49e0-9f63-aa4b4780b7f1)
+- [Jobgether — Analytics QA Tester](https://jobs.lever.co/jobgether/5129cc48-07a7-4651-b442-d4291f564ec1)
+- [Jobgether — Senior QA Analyst](https://jobs.lever.co/jobgether/334582fe-9524-4191-b495-d5ae65f5168e)
+- [EarnIn — Senior QA Engineer (Automated; Front-end)](https://job-boards.greenhouse.io/earnin/jobs/7267639)
+
+---
+
 ## 2026-05-21 08:10 EDT (WebSearch scan) — 7 new offers
 
 - [Wagmo — SDET / QA Automation Engineer](https://jobs.ashbyhq.com/wagmo/f508c7b8-d33c-4c7a-9461-0f268bbd4875/application)
