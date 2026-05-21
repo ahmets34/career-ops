@@ -1,3 +1,11 @@
+## 2026-05-21 13:05 EDT (WebSearch scan) — 3 new offers
+
+- [Sphere Laboratories — Mid-Senior Software Engineer (SDET)](https://jobs.lever.co/sphere-laboratories/05776feb-ea93-4868-8210-c497f0594b04)
+- [ThirstySprout — QA Automation Engineer](https://jobs.ashbyhq.com/thirstysprout/a11e1724-f230-4b3f-a217-f596a133e34c)
+- [Natera — Software Quality Engineer](https://job-boards.greenhouse.io/natera/jobs/5397841004)
+
+---
+
 ## 2026-05-21 10:04 EDT (WebSearch scan) — 4 new offers
 
 - [Jobgether — Manual QA Tester - Mobile](https://jobs.lever.co/jobgether/c88222cc-6045-49e0-9f63-aa4b4780b7f1)
