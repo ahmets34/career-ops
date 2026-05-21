@@ -1,3 +1,15 @@
+## 2026-05-21 08:10 EDT (WebSearch scan) — 7 new offers
+
+- [Wagmo — SDET / QA Automation Engineer](https://jobs.ashbyhq.com/wagmo/f508c7b8-d33c-4c7a-9461-0f268bbd4875/application)
+- [Juniper Square — Senior QA Automation Engineer](https://jobs.ashbyhq.com/junipersquare/c6e6f78c-c206-4ee5-8737-78a329c1f7ac/application)
+- [Tekion — Senior QA Engineer](https://job-boards.greenhouse.io/tekion/jobs/7650937003)
+- [Tekion — Senior Automation QA Engineer](https://job-boards.greenhouse.io/tekion/jobs/6322079003)
+- [Netomi — Software Engineer in Test II](https://jobs.lever.co/netomi/195c0809-4646-4b87-a4f6-c633e38e7768)
+- [Netomi — SDET (Contract)](https://jobs.lever.co/netomi/e8e06696-ff86-43ab-b0e2-a161354d4c4e)
+- [Divvy (BILL) — Software Engineer in Test](https://jobs.lever.co/divvypay/d1d6864c-ee02-4761-8135-af8b72805da2)
+
+---
+
 ## 2026-05-20 18:09 EDT (WebSearch scan) — 2 new offers
 
 - [VSP Vision Care — Test Software Engineer](https://remotive.com/remote/jobs/qa/test-software-engineer-4204135)
