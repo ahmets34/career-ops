@@ -1,3 +1,9 @@
+## 2026-05-22 18:08 EDT (WebSearch scan) — 1 new offer
+
+- [Snowflake — QA Infrastructure and Test Engineer](https://jobs.lever.co/snowflake/6c6017e8-396a-4972-aec7-73a698a643f9)
+
+---
+
 ## 2026-05-22 15:03 EDT (WebSearch scan) — 2 new offers
 
 - [Resilient Co — Senior QA Automation](https://jobs.lever.co/resilientco/336e3f51-4ad8-46e5-b3a5-c38fe15c3adb)
