@@ -1,3 +1,10 @@
+## 2026-05-22 15:03 EDT (WebSearch scan) — 2 new offers
+
+- [Resilient Co — Senior QA Automation](https://jobs.lever.co/resilientco/336e3f51-4ad8-46e5-b3a5-c38fe15c3adb)
+- [Banyan Software — Software QA Lead (The Lake Companies)](https://job-boards.greenhouse.io/banyansoftware/jobs/5122705007)
+
+---
+
 ## 2026-05-22 13:02 EDT (WebSearch scan) — 2 new offers
 
 - [Litify — AI QA Engineer](https://job-boards.greenhouse.io/litify/jobs/7944212)
