@@ -1,3 +1,10 @@
+## 2026-05-22 13:02 EDT (WebSearch scan) — 2 new offers
+
+- [Litify — AI QA Engineer](https://job-boards.greenhouse.io/litify/jobs/7944212)
+- [Versapay — QA Engineer - NetSuite](https://jobs.lever.co/versapay/c8924529-858f-494c-9efa-95a6a075dd50)
+
+---
+
 ## 2026-05-22 10:08 EDT (WebSearch scan) — 1 new offer
 
 - [Vonage — SDET III (Playwright & Java)](https://job-boards.greenhouse.io/vonage/jobs/8522934002)
