@@ -1,3 +1,9 @@
+## 2026-05-22 10:08 EDT (WebSearch scan) — 1 new offer
+
+- [Vonage — SDET III (Playwright & Java)](https://job-boards.greenhouse.io/vonage/jobs/8522934002)
+
+---
+
 ## 2026-05-22 08:25 EDT (WebSearch scan) — 0 new offers
 
 _(no new offers this run — all previously seen)_
