@@ -1,3 +1,11 @@
+## 2026-05-23 13:03 EDT (WebSearch scan) — 3 new offers
+
+- [Recurly — Senior Software Developer in Test (SDET)](https://jobs.lever.co/recurly/b341d346-7f8b-4846-a925-f625357a323d)
+- [Okta — Senior Software Engineer in Test](https://job-boards.greenhouse.io/okta/jobs/7840415)
+- [Samsara — Senior Software Engineer - Automation](https://boards.greenhouse.io/samsara/jobs/7185127)
+
+---
+
 ## 2026-05-23 10:05 EDT (WebSearch scan) — 1 new offer
 
 - [Unqork — Lead QA Engineer](https://job-boards.greenhouse.io/unqork/jobs/8018539002)
