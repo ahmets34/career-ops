@@ -1,3 +1,10 @@
+## 2026-05-23 18:05 EDT (WebSearch scan) — 2 new offers
+
+- [Blackthorn.io — Sr. QA Engineer](https://job-boards.greenhouse.io/blackthorn/jobs/5848843004)
+- [Quisitive — Senior QA Engineer (Playwright & Test Automation)](https://job-boards.greenhouse.io/quisitivejobs/jobs/7773653)
+
+---
+
 ## 2026-05-23 15:03 EDT (WebSearch scan) — 1 new offer
 
 - [Cloudflare — Test Automation Engineer (Zero Trust Desktop Clients)](https://boards.greenhouse.io/cloudflare/jobs/5540075)
