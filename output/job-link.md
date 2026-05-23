@@ -1,3 +1,9 @@
+## 2026-05-23 15:03 EDT (WebSearch scan) — 1 new offer
+
+- [Cloudflare — Test Automation Engineer (Zero Trust Desktop Clients)](https://boards.greenhouse.io/cloudflare/jobs/5540075)
+
+---
+
 ## 2026-05-23 13:03 EDT (WebSearch scan) — 3 new offers
 
 - [Recurly — Senior Software Developer in Test (SDET)](https://jobs.lever.co/recurly/b341d346-7f8b-4846-a925-f625357a323d)
