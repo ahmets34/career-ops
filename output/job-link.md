@@ -1,3 +1,14 @@
+## 2026-05-24 13:02 EDT (WebSearch scan) — 5 new offers
+
+- [Beyond Finance — Software Development Engineer in Test](https://job-boards.greenhouse.io/beyondfinance/jobs/6921226)
+- [Gradient AI — Senior QA Engineer](https://job-boards.greenhouse.io/gradientai/jobs/7621082003)
+- [Gallup — Senior Quality Engineer](https://job-boards.greenhouse.io/gallup/jobs/4194072009)
+- [Aechelon Technology — Senior QA Engineer](https://job-boards.greenhouse.io/aechelontechnology/jobs/5200777008)
+- [SkyGrid — Senior Software Development Engineer in Test (SDET)](https://jobs.lever.co/skygrid/d6c50590-f910-4ecf-bcb2-6cc2066e41a1)
+
+---
+
+
 ## 2026-05-24 08:05 EDT (WebSearch scan) — 3 new offers
 
 - [Tomorrow.io — Software QA Engineer](https://job-boards.greenhouse.io/tomorrow/jobs/7743150003)
