@@ -1,3 +1,42 @@
+## 2026-05-24 18:03 EDT (WebSearch scan) — 34 new offers
+
+- [Flex — Senior SDET](https://job-boards.greenhouse.io/flex/jobs/4655636005)
+- [Flex — Senior SDET (II)](https://job-boards.greenhouse.io/flex/jobs/4684410005)
+- [Quanata — Senior SDET, Data QA [Remote-US]](https://job-boards.greenhouse.io/quanata/jobs/5647318004)
+- [Dragos — Senior SDET](https://job-boards.greenhouse.io/dragos/jobs/5039765008)
+- [RapidFort — SR SDET / Sr QA Automation Engineer](https://job-boards.greenhouse.io/rapidfortinc/jobs/4193607009)
+- [Faeth Therapeutics — Staff SDET](https://job-boards.greenhouse.io/faeththerapeutics/jobs/4226312009)
+- [QGenda — SDET](https://job-boards.greenhouse.io/qgenda/jobs/4103637008)
+- [Cayuse — SDET](https://job-boards.greenhouse.io/cayuse/jobs/8512811002)
+- [TurbineOne — SDET](https://job-boards.greenhouse.io/turbineone/jobs/5130733008)
+- [Mattermost — SDET (Deployment Engineering)](https://job-boards.greenhouse.io/mattermost/jobs/4889100008)
+- [Litify — Senior QA Automation Engineer](https://job-boards.greenhouse.io/litify/jobs/7931370)
+- [Litify — AI QA Engineer](https://job-boards.greenhouse.io/litify/jobs/7944212)
+- [Upgrade — Senior QA Automation Engineer](https://job-boards.greenhouse.io/upgrade/jobs/4497438005)
+- [Carta — Senior QA Automation Engineer](https://job-boards.greenhouse.io/carta/jobs/6651499003)
+- [Tailscale — QA Engineer](https://job-boards.greenhouse.io/tailscale/jobs/4571327005)
+- [Bluesight — Senior SDET](https://jobs.lever.co/bluesight/5668e24b-3143-4882-89fd-918bb24b3a20)
+- [Bluesight — SDET](https://jobs.lever.co/bluesight/3ad25798-f14c-47c0-927e-dcc8be57aab5)
+- [accesso — Software Engineer in Test (SDET - Mobile)](https://jobs.lever.co/accesso/6db6fe64-3df4-4f0b-ac55-726caf068744)
+- [Nextech — Lead Software Engineer in Test - Performance (Remote US)](https://jobs.lever.co/nextech/40bdf6aa-f3ab-4038-869e-011425ce1a1d)
+- [Jobgether — Software Engineer in Test I (Remote)](https://jobs.lever.co/jobgether/3ee326b4-9714-405b-b8df-4f433272bfc9)
+- [Jobgether — Sr Software Development Test Engineer, Level 3 (Remote US)](https://jobs.lever.co/jobgether/9f02dd8a-b05f-49b5-baf3-8f332004973b)
+- [Veeva Systems — Software Engineer in Test](https://jobs.lever.co/veeva/34c41864-e8c4-4bcc-8374-7cc4190f6fdb)
+- [Softrams — QA Engineer (Automated Testing)](https://jobs.lever.co/softrams/ef0f6e8e-07b1-4076-a937-4498e8516ef0)
+- [Jobgether — QA Automation Engineer (Data)](https://jobs.lever.co/jobgether/9c1ba583-8940-44de-abc0-65ca457efd6d)
+- [Jobgether — Senior QA Automation Analyst](https://jobs.lever.co/jobgether/1c438a76-2a2a-4c4d-88ba-0709fcaf722f)
+- [Jobgether — Senior Test Automation Engineer (Remote - CA)](https://jobs.lever.co/jobgether/d1d77512-cf25-40d9-9e16-f712d7ca77ad)
+- [Jobgether — Senior Test Automation Engineer (Remote - GA)](https://jobs.lever.co/jobgether/26915045-5a7c-4f1f-bcd0-ca838e468025)
+- [Jobgether — Senior Test Automation Engineer (Remote - IL)](https://jobs.lever.co/jobgether/992ba916-3a24-46ac-ae15-390db17fb15e)
+- [AnswersNow — Senior QA Automation Engineer](https://jobs.ashbyhq.com/answersnow/8aa58694-b647-4044-9ddd-181069640e0b)
+- [Machinify — Senior QA Automation Engineer](https://jobs.ashbyhq.com/machinify/2f6dd716-42c9-4490-9ded-fee3b2631d7f)
+- [Close — QA Engineer (USA Only - 100% Remote)](https://weworkremotely.com/remote-jobs/close-qa-engineer-usa-only-100-remote)
+- [Wealthbox CRM — QA Analyst](https://weworkremotely.com/remote-jobs/wealthbox-crm-qa-analyst)
+- [RealPage — QA Engineer III (Selenium/Playwright)](https://weworkremotely.com/remote-jobs/realpage-qa-engineer-iii-selenium-playwright)
+- [Wherefour — QA Engineer](https://weworkremotely.com/remote-jobs/wherefour-qa-engineer)
+
+---
+
 ## 2026-05-24 15:03 EDT (WebSearch scan) — 1 new offer
 
 - [OnePay — QA Automation Engineer](https://jobs.ashbyhq.com/oneapp/6cd8a1b1-eab4-419b-b885-b9486df7fa16)
