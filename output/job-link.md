@@ -1,3 +1,11 @@
+## 2026-05-24 08:05 EDT (WebSearch scan) — 3 new offers
+
+- [Tomorrow.io — Software QA Engineer](https://job-boards.greenhouse.io/tomorrow/jobs/7743150003)
+- [AlphaSense — SDET (QA Automation - Search Lane)](https://builtin.com/job/software-development-engineer-test-qa-automation-search-lane/3215789)
+- [Tradeweb — Software Development Engineer in Test (SDET)](https://builtin.com/job/software-development-engineer-test-sdet/9118170)
+
+---
+
 ## 2026-05-23 18:05 EDT (WebSearch scan) — 2 new offers
 
 - [Blackthorn.io — Sr. QA Engineer](https://job-boards.greenhouse.io/blackthorn/jobs/5848843004)
