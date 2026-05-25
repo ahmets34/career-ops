@@ -1,3 +1,10 @@
+## 2026-05-25 18:07 EDT (WebSearch scan) — 2 new offers
+
+- [Lyft — Software Engineer in Test](https://himalayas.app/companies/lyft/jobs/software-engineer-in-test)
+- [Swoop Technologies — Software Engineer in Test](https://jobs.ashbyhq.com/Swoop/eb121f4d-6f30-4d22-bc02-d58cb07d0852)
+
+---
+
 ## 2026-05-25 15:05 EDT (WebSearch scan) — 3 new offers
 
 - [Jobgether — QA Automation Test Engineer II (Remote, US)](https://apply.workable.com/jobgether/j/7ADE2EFED1)
