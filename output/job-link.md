@@ -1,3 +1,12 @@
+## 2026-05-25 10:03 EDT (WebSearch scan) — 4 new offers
+
+- [Bayesian Health — Software Development Engineer in Test](https://jobs.ashbyhq.com/bayesianhealth/d853e6b1-3e3b-4520-a78d-b59471b5cd4c/application)
+- [Corelight — Sr SDET, Network Security](https://job-boards.greenhouse.io/corelight/jobs/7586421)
+- [Insider One — Software Quality Assurance Engineer](https://jobs.lever.co/insiderone/8e2f016b-d696-4c33-af8b-d139b7ac54f9)
+- [LastPass — Software Engineer, SDET](https://boards.greenhouse.io/lastpass/jobs/4419633005)
+
+---
+
 ## 2026-05-25 08:06 EDT (WebSearch scan) — 7 new offers
 
 - [Emergent Software — Senior SDET - Contract](https://jobs.emergentsoftware.net/o/sdetcontract)
