@@ -1,3 +1,11 @@
+## 2026-05-25 15:05 EDT (WebSearch scan) — 3 new offers
+
+- [Jobgether — QA Automation Test Engineer II (Remote, US)](https://apply.workable.com/jobgether/j/7ADE2EFED1)
+- [NVIDIA — Software Development Engineer in Test (SDET)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Software-Development-Engineer-in-Test---SDET_JR2010699)
+- [NVIDIA — Senior Software Development Engineer in Test (SDET)](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/Senior-Software-Development-Engineer-in-Test---SDET_JR2015655)
+
+---
+
 ## 2026-05-25 13:03 EDT (WebSearch scan) — 4 new offers
 
 - [The Rawlings Group — Senior QA Automation Engineer](https://himalayas.app/companies/the-rawlings-group/jobs/senior-qa-automation-engineer-remote-unlimited-pto)
