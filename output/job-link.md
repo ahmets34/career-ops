@@ -1,3 +1,12 @@
+## 2026-05-25 13:03 EDT (WebSearch scan) — 4 new offers
+
+- [The Rawlings Group — Senior QA Automation Engineer](https://himalayas.app/companies/the-rawlings-group/jobs/senior-qa-automation-engineer-remote-unlimited-pto)
+- [Formstack — Senior QA Automation Engineer (Forms for Salesforce)](https://builtin.com/job/senior-qa-automation-engineer-forms-salesforce/2511276)
+- [Lumilens — Senior Software Test Engineer, Automation](https://jobs.ashbyhq.com/lumilens/be4f9015-4442-495c-a8d0-1dc895fd84eb)
+- [Jobgether — Sr. Quality Assurance Tester (Remote)](https://jobs.lever.co/jobgether/4c54d757-6a22-4784-9dee-a377a0bccf66)
+
+---
+
 ## 2026-05-25 10:03 EDT (WebSearch scan) — 4 new offers
 
 - [Bayesian Health — Software Development Engineer in Test](https://jobs.ashbyhq.com/bayesianhealth/d853e6b1-3e3b-4520-a78d-b59471b5cd4c/application)
