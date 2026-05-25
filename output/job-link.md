@@ -1,3 +1,15 @@
+## 2026-05-25 08:06 EDT (WebSearch scan) — 7 new offers
+
+- [Emergent Software — Senior SDET - Contract](https://jobs.emergentsoftware.net/o/sdetcontract)
+- [Okta — QA Automation Engineer, SDET (Digital Engineering)](https://www.okta.com/company/careers/marketing/qa-automation-engineer-sdet-6898090/)
+- [Okta — Software Development Engineer in Test, SDET](https://www.okta.com/company/careers/engineering/software-development-engineer-in-test-sdet-7702282/)
+- [Okta — Software Engineer in Test II, Data Platform](https://www.okta.com/company/careers/engineering/software-engineer-in-test-ii-data-platform-6716858/)
+- [Okta — Software Engineer in Test](https://www.okta.com/company/careers/engineering/software-engineer-in-test-6899256/)
+- [Okta — Staff Software Engineer in Test](https://www.okta.com/company/careers/engineering/staff-software-engineer-in-test-7426479/)
+- [Okta — Senior Software Engineer in Test](https://www.okta.com/company/careers/engineering/senior-software-engineer-in-test-7840415/)
+
+---
+
 ## 2026-05-24 18:03 EDT (WebSearch scan) — 34 new offers
 
 - [Flex — Senior SDET](https://job-boards.greenhouse.io/flex/jobs/4655636005)
