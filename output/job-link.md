@@ -1,3 +1,9 @@
+## 2026-05-26 18:08 EDT (WebSearch scan) — 0 new offers
+
+_(no new offers this run — all previously seen)_
+
+---
+
 ## 2026-05-26 15:02 EDT (WebSearch scan) — 31 new offers
 
 - [Swap — Senior SDET](https://jobs.ashbyhq.com/swap/edfe8478-2236-4d50-ba4b-b5d624fab58d)
