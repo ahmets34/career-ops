@@ -1,3 +1,11 @@
+## 2026-05-26 10:03 EDT (WebSearch scan) — 3 new offers
+
+- [IDT — Senior QA Automation Engineer](https://jobs.lever.co/idt/996cf377-5153-4ed5-9921-8b665c81b291)
+- [Jobgether — Lead Software Tester (remote)](https://jobs.lever.co/jobgether/45a8c673-a01a-4c78-b7cc-5f92c822bb29)
+- [Telgorithm — Senior QA Lead](https://job-boards.greenhouse.io/telgorithm/jobs/4517700005)
+
+---
+
 ## 2026-05-26 08:01 EDT (WebSearch scan) — 9 new offers
 
 - [Jobgether — Sr Quality Assurance Analyst (SDET - .Net)](https://jobs.lever.co/jobgether/2ecb14b0-617f-4d56-ace4-902e232d1e75)
