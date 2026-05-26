@@ -1,3 +1,17 @@
+## 2026-05-26 08:01 EDT (WebSearch scan) — 9 new offers
+
+- [Jobgether — Sr Quality Assurance Analyst (SDET - .Net)](https://jobs.lever.co/jobgether/2ecb14b0-617f-4d56-ace4-902e232d1e75)
+- [Galaxy Digital — QA Software Developer Engineer in Test (SDET) Associate](https://job-boards.greenhouse.io/galaxydigitalservices/jobs/5281403004)
+- [AgelessRx — Senior Quality Engineer](https://ats.rippling.com/agelessrx/jobs/f74c4515-f697-41f0-bed3-cedcebdc80da)
+- [Tixr — QA Engineer](https://ats.rippling.com/tixr/jobs/0f03c33f-2fbb-43a1-8be9-c4d408da5f96)
+- [Advisor360 — Senior QA Automation Engineer](https://ats.rippling.com/en-US/advisor360-llc/jobs/f1433b09-bd09-47d7-83a0-8a914c263a67)
+- [Mission Underwriting Managers — QA Automation Engineer](https://ats.rippling.com/mission-underwriting-services/jobs/94c4721d-1d85-493e-9141-c56868579058)
+- [Get Covered Insurance — Quality Engineer (Automation + Manual)](https://ats.rippling.com/en-US/get-covered-insurance/jobs/aea74425-946d-45ba-8046-05c637f1cf36)
+- [Quavo — Quality Engineer](https://ats.rippling.com/quavo-inc/jobs/0cade76e-314a-41cd-876d-004fc8c4591e)
+- [ServiceUp — Lead QA Engineer](https://ats.rippling.com/serviceupcareers/jobs/61afd85b-3d7e-4497-994f-20180565cfb0)
+
+---
+
 ## 2026-05-25 18:07 EDT (WebSearch scan) — 2 new offers
 
 - [Lyft — Software Engineer in Test](https://himalayas.app/companies/lyft/jobs/software-engineer-in-test)
