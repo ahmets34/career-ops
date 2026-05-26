@@ -1,3 +1,39 @@
+## 2026-05-26 15:02 EDT (WebSearch scan) — 31 new offers
+
+- [Swap — Senior SDET](https://jobs.ashbyhq.com/swap/edfe8478-2236-4d50-ba4b-b5d624fab58d)
+- [RAPP — Senior SDET](https://job-boards.greenhouse.io/rapp/jobs/7797791)
+- [Smart Working Solutions — QA Automation Engineer](https://jobs.lever.co/smart-working-solutions/bdcdd311-40f8-433c-85ce-19f9e7af4523)
+- [3Pillar Global — Senior QA Automation Engineer (Python)](https://jobs.lever.co/3pillarglobal/b8b3d2b1-5d39-403f-9e81-f9dc8d2603b2)
+- [ClickHouse — QA Engineer - Core Database](https://job-boards.greenhouse.io/clickhouse/jobs/5654026004)
+- [Quanata — SDET Back-End (Remote US)](https://himalayas.app/companies/quanata-llc/jobs/sdet-back-end-remote-us)
+- [Bright Vision Technologies — Software Development Engineer in Test (SDET)](https://himalayas.app/companies/bright-vision-technologies/jobs/software-development-engineer-in-test-sdet-3732180007)
+- [ECP — Senior SDET](https://himalayas.app/companies/ecp/jobs/senior-software-development-engineer-in-test-sdet)
+- [Cotiviti — SDET](https://weworkremotely.com/remote-jobs/cotiviti-sdet-1)
+- [DATAMAXIS — SDET with Salesforce](https://himalayas.app/companies/datamaxis/jobs/software-development-engineer-in-test-sdet-with-salesforce)
+- [Anduril Industries — Senior Test Automation Engineer](https://job-boards.greenhouse.io/andurilindustries/jobs/5133681007)
+- [Blueprint Technologies — Senior Test Automation Engineer](https://job-boards.greenhouse.io/bpcs/jobs/7904677)
+- [Okta — Software Engineer in Test II](https://job-boards.greenhouse.io/okta/jobs/7190724)
+- [Jobgether — Senior Test Automation Engineer](https://jobs.lever.co/jobgether/9996b96b-afc7-4d04-bc7c-e3d703bae2d6)
+- [Network Optix — Senior Test Automation Engineer (Python)](https://job-boards.greenhouse.io/networkoptix/jobs/5068088007)
+- [Veeva Systems — Senior Integrations Software Engineer in Test](https://jobs.lever.co/veeva/04b1a2d4-b4db-4966-80c8-af3b43e0d493)
+- [Anduril Industries — Test Automation Engineer](https://job-boards.greenhouse.io/andurilindustries/jobs/5133682007)
+- [Jobgether — Remote QA Engineer](https://jobs.lever.co/jobgether/c751355b-9426-4092-ac14-e38190984c2a)
+- [Jobgether — Senior Quality Assurance Automation Engineer](https://jobs.lever.co/jobgether/193d8c64-ec73-45e7-aa34-db55d192c8d9)
+- [Jobgether — QA Engineer (Remote)](https://jobs.lever.co/jobgether/a49e19eb-e929-452a-be54-fdfb5326d80a)
+- [InsiderOne — Senior Software Quality Assurance Engineer](https://jobs.lever.co/insiderone/7af7b270-7de3-4da2-8f21-14f605b30a93)
+- [Clearer.io — Senior QA Automation Engineer](https://jobs.lever.co/Clearer/21e0a71d-09a1-4f76-aafc-1739f17bba53)
+- [Jobgether — QA Automation Engineer (Remote)](https://jobs.lever.co/jobgether/90300e18-c389-43f0-8d84-bda667fbf5ab)
+- [CData Software — Senior QA Automation Engineer (Frontend)](https://weworkremotely.com/remote-jobs/data-virtuality-a-cdata-software-company-senior-qa-automation-engineer-frontend)
+- [Jobgether — Senior SDET](https://himalayas.app/companies/jobgether/jobs/senior-software-development-engineer-in-test-sdet)
+- [Luxury Presence — Senior SDET](https://himalayas.app/companies/luxury-presence/jobs/senior-software-development-engineer-in-test-senior-sdet-remote)
+- [Aerostrat — Software Engineer - QA Senior (US)](https://himalayas.app/companies/aerostrat/jobs/software-engineer-qa-senior-us)
+- [Reach Financial — Senior SDET](https://job-boards.greenhouse.io/reach/jobs/8169924002)
+- [Green Dot — Senior QA Backend Automation Engineer](https://builtin.com/job/remote-senior-qa-backend-automation-engineer/3025601)
+- [Real (onereal.com) — Senior QA Automation Engineer Tech Lead](https://builtin.com/job/senior-qa-automation-engineer-tech-lead/7664456)
+- [Technology Navigators — Senior QA Automation Engineer SDET (Salesforce)](https://www.ziprecruiter.com/c/Technology-Navigators/Job/REMOTE-Senior-QA-Automation-Engineer-SDET-Scripting,-Salesforce-CRM/-in-Houston,TX?jid=11c845ef9cec3365)
+
+---
+
 ## 2026-05-26 10:03 EDT (WebSearch scan) — 3 new offers
 
 - [IDT — Senior QA Automation Engineer](https://jobs.lever.co/idt/996cf377-5153-4ed5-9921-8b665c81b291)
