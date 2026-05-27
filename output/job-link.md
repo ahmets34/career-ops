@@ -1,3 +1,14 @@
+## 2026-05-27 10:03 EDT (WebSearch scan) — 6 new offers
+
+- [Outliant — QA Automation Engineer II](https://jobs.ashbyhq.com/outliant/1ee4637c-0a20-4058-861c-0f172e1dd203)
+- [Backblaze — QA Automation Engineer](https://job-boards.greenhouse.io/backblaze/jobs/5204291008)
+- [OpenX — Senior Test Automation Engineer IV](https://jobs.lever.co/openx/a852ec19-0d83-47b5-b1fb-8236c700347f)
+- [VideaHealth — Test Automation Engineer](https://jobs.ashbyhq.com/videa.ai/b383b797-13f1-4c7c-8fc3-60adfd758148)
+- [3Pillar Global — Senior Automation Testing (Golden Master)](https://jobs.lever.co/3pillarglobal/3b5f9f54-579e-462f-bee1-139f2c903825)
+- [3Pillar Global — QA Technical Lead (UiPath)](https://jobs.lever.co/3pillarglobal/3cb8f163-afee-4c41-bed2-7516e0c61ecf)
+
+---
+
 ## 2026-05-27 08:05 EDT (WebSearch scan) — 2 new offers
 
 - [Valce Talent Solutions — SDET Team Lead](https://himalayas.app/companies/valce-talent-solutions/jobs/sdet-team-lead)
