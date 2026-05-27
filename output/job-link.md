@@ -1,3 +1,11 @@
+## 2026-05-27 15:02 EDT (WebSearch scan) — 3 new offers
+
+- [Samsara — Quality Engineer (Safety Firmware)](https://boards.greenhouse.io/samsara/jobs/7892028)
+- [Kaseya — QA Automation Engineer (Python)](https://boards.greenhouse.io/kaseya/jobs/5922706004)
+- [JetBridge — Test Automation Engineer](https://jobs.lever.co/JetBridge/76db8e26-ddfe-4ee0-b5ab-8009e2b50e7c)
+
+---
+
 ## 2026-05-27 13:02 EDT (WebSearch scan) — 4 new offers
 
 - [Aspora — SDET Backend](https://jobs.ashbyhq.com/Aspora/2ecd447d-e772-45ed-b31d-dd4d57e737d5)
