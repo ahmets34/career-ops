@@ -1,3 +1,10 @@
+## 2026-05-27 18:02 EDT (WebSearch scan) — 2 new offers
+
+- [New Classrooms — Senior QA Engineer / SDET](https://www.edtech.com/jobs/senior-qa-engineer-sdet-5251)
+- [ExpressVPN — Senior Quality Assurance Engineer – Automation](https://job-boards.greenhouse.io/expressvpn/jobs/8391957002)
+
+---
+
 ## 2026-05-27 15:02 EDT (WebSearch scan) — 3 new offers
 
 - [Samsara — Quality Engineer (Safety Firmware)](https://boards.greenhouse.io/samsara/jobs/7892028)
