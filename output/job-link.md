@@ -1,3 +1,12 @@
+## 2026-05-27 13:02 EDT (WebSearch scan) — 4 new offers
+
+- [Aspora — SDET Backend](https://jobs.ashbyhq.com/Aspora/2ecd447d-e772-45ed-b31d-dd4d57e737d5)
+- [Humana — Senior Automation Engineer](https://himalayas.app/companies/humana/jobs/senior-automation-engineer)
+- [Ontic — Senior QA Engineer](https://jobs.ashbyhq.com/Ontic/0a5d63ff-0e29-4b85-81ad-8dc892c5afad)
+- [webAI — Senior QA Automation Engineer](https://jobs.ashbyhq.com/webAI/8d8cb5b6-e62b-4fd9-b9ae-49101f418581)
+
+---
+
 ## 2026-05-27 10:03 EDT (WebSearch scan) — 6 new offers
 
 - [Outliant — QA Automation Engineer II](https://jobs.ashbyhq.com/outliant/1ee4637c-0a20-4058-861c-0f172e1dd203)
