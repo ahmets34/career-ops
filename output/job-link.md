@@ -1,3 +1,10 @@
+## 2026-05-27 08:05 EDT (WebSearch scan) — 2 new offers
+
+- [Valce Talent Solutions — SDET Team Lead](https://himalayas.app/companies/valce-talent-solutions/jobs/sdet-team-lead)
+- [Cambium Networks — Test Automation Engineer (Python)](https://jobs.lever.co/cambiumnetworks/a4b77f0f-3b09-433d-9e53-e9045575b324)
+
+---
+
 ## 2026-05-26 18:08 EDT (WebSearch scan) — 0 new offers
 
 _(no new offers this run — all previously seen)_
