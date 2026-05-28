@@ -1,3 +1,10 @@
+## 2026-05-28 08:03 EDT (WebSearch scan) — 2 new offers
+
+- [Nacelle — SDET](https://builtin.com/job/engineer/sdet-remote/1751519)
+- [ICS Global Soft — Senior QA Tester (Security Clearance, Remote)](https://weworkremotely.com/remote-jobs/ics-global-soft-inc-senior-qa-tester-remote-with-security-clearance)
+
+---
+
 ## 2026-05-27 18:02 EDT (WebSearch scan) — 2 new offers
 
 - [New Classrooms — Senior QA Engineer / SDET](https://www.edtech.com/jobs/senior-qa-engineer-sdet-5251)
