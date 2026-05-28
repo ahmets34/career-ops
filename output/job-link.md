@@ -1,3 +1,11 @@
+## 2026-05-28 10:03 EDT (WebSearch scan) — 3 new offers
+
+- [Dragos — Senior SDET](https://job-boards.greenhouse.io/dragos/jobs/5039760008)
+- [Hudl — Senior Quality Assurance Engineer](https://job-boards.greenhouse.io/hudl/jobs/6624068)
+- [Mediacurrent — QA Engineer](https://job-boards.greenhouse.io/mediacurrent/jobs/8196450002)
+
+---
+
 ## 2026-05-28 08:03 EDT (WebSearch scan) — 2 new offers
 
 - [Nacelle — SDET](https://builtin.com/job/engineer/sdet-remote/1751519)
