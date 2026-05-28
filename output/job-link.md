@@ -1,3 +1,12 @@
+## 2026-05-28 13:02 EDT (WebSearch scan) — 4 new offers
+
+- [Fullsteam — Senior Software QA Engineer (Remote US)](https://fullsteam.wd1.myworkdayjobs.com/External/job/Remote---US/Senior-Software-Quality-Assurance-Engineer_JR101561)
+- [Shyft6 — Sr Quality Engineer (Remote)](https://himalayas.app/companies/shyft6/jobs/sr-quality-engineer)
+- [ClickHouse — QA Engineer - Core Database (Remote)](https://job-boards.greenhouse.io/clickhouse/jobs/5654023004)
+- [QGenda — Senior QA Engineer](https://job-boards.greenhouse.io/qgenda/jobs/4548669008)
+
+---
+
 ## 2026-05-28 10:03 EDT (WebSearch scan) — 3 new offers
 
 - [Dragos — Senior SDET](https://job-boards.greenhouse.io/dragos/jobs/5039760008)
