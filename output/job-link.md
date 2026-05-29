@@ -1,3 +1,9 @@
+## 2026-05-29 10:08 EDT (WebSearch scan) — 0 new offers
+
+_(no new offers this run — all previously seen)_
+
+---
+
 ## 2026-05-29 08:03 EDT (WebSearch scan) — 4 new offers
 
 - [Keeper Security — Senior SDET, Privileged Access & Identity Systems](https://job-boards.greenhouse.io/keepersecurity/jobs/4090676009)
