@@ -1,3 +1,12 @@
+## 2026-05-29 18:03 EDT (WebSearch scan) — 4 new offers
+
+- [Keeper Security — Senior SDET, Secrets Management Platform](https://job-boards.greenhouse.io/keepersecurity/jobs/4090682009)
+- [AssemblyAI — Software Engineer in Test](https://apply.workable.com/assemblyai/j/73C9BA6EB4)
+- [Axon — Senior Software QA Engineer](https://boards.greenhouse.io/axon/jobs/6091424003)
+- [Digit — Senior QA Engineer](https://boards.greenhouse.io/digit/jobs/3647874)
+
+---
+
 ## 2026-05-29 15:02 EDT (WebSearch scan) — 5 new offers
 
 - [bswift — Software Development Engineer in Test](https://job-boards.greenhouse.io/bswift/jobs/4584110006)
