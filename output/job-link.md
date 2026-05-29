@@ -1,3 +1,12 @@
+## 2026-05-29 08:03 EDT (WebSearch scan) — 4 new offers
+
+- [Keeper Security — Senior SDET, Privileged Access & Identity Systems](https://job-boards.greenhouse.io/keepersecurity/jobs/4090676009)
+- [Keeper Security — Senior SDET, Endpoint & OS Automation](https://job-boards.greenhouse.io/keepersecurity/jobs/4090672009)
+- [Jobgether — QA Automation Engineer - iOS](https://jobs.lever.co/jobgether/5f031507-8f28-4c60-b85b-834adc83af1c)
+- [Luma AI — Software Engineer, Test Automation & QA](https://jobs.ashbyhq.com/luma-ai/ae04e9d0-bd2c-4e1a-8ddd-8527a656e1b3)
+
+---
+
 ## 2026-05-28 18:02 EDT (WebSearch scan) — 0 new offers
 
 _(no new offers this run — all previously seen)_
