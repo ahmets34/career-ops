@@ -1,3 +1,13 @@
+## 2026-05-29 15:02 EDT (WebSearch scan) — 5 new offers
+
+- [bswift — Software Development Engineer in Test](https://job-boards.greenhouse.io/bswift/jobs/4584110006)
+- [bswift — Senior Software Development Engineer in Test](https://job-boards.greenhouse.io/bswift/jobs/4584869006)
+- [ItsaCheckmate — Ruby on Rails QA Automation Engineer](https://startup.jobs/ruby-on-rails-qa-automation-engineer-itsacheckmate-4605599)
+- [Sand Technologies — Senior Test Automation Engineer](https://job-boards.greenhouse.io/sandtechholdingslimited/jobs/4855710101)
+- [HeartFlow — Software Quality Assurance Engineer](https://job-boards.greenhouse.io/heartflowinc/jobs/5466583004)
+
+---
+
 ## 2026-05-29 13:03 EDT (WebSearch scan) — 0 new offers
 
 _(no new offers this run — all previously seen)_
