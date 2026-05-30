@@ -1,3 +1,10 @@
+## 2026-05-30 10:02 EDT (WebSearch scan) — 2 new offers
+
+- [Distro — Senior QA Automation Engineer](https://jobs.lever.co/distro/2efc4825-de54-49eb-b903-461508f40c1a)
+- [Cognition — QA Engineer](https://jobs.ashbyhq.com/cognition/e6f55fdf-151d-4282-a600-b92e4124732f)
+
+---
+
 ## 2026-05-30 08:08 EDT (WebSearch scan) — 2 new offers
 
 - [Sidecar Health — Senior Software Development Engineer in Test](https://job-boards.greenhouse.io/sidecarhealth/jobs/6007228004)
