@@ -1,3 +1,11 @@
+## 2026-05-30 13:03 EDT (WebSearch scan) — 3 new offers
+
+- [YugabyteDB — Staff SDET](https://job-boards.greenhouse.io/yugabyte/jobs/4656739006)
+- [Accumulus Synergy — Senior Engineer, Test Automation](https://job-boards.greenhouse.io/accumulussynergyinc/jobs/4473551007)
+- [Automox — Senior SDET](https://job-boards.greenhouse.io/automox/jobs/4428399008)
+
+---
+
 ## 2026-05-30 10:02 EDT (WebSearch scan) — 2 new offers
 
 - [Distro — Senior QA Automation Engineer](https://jobs.lever.co/distro/2efc4825-de54-49eb-b903-461508f40c1a)
