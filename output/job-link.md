@@ -1,3 +1,10 @@
+## 2026-05-30 08:08 EDT (WebSearch scan) — 2 new offers
+
+- [Sidecar Health — Senior Software Development Engineer in Test](https://job-boards.greenhouse.io/sidecarhealth/jobs/6007228004)
+- [Anduril Industries — Senior Software QA Engineer](https://job-boards.greenhouse.io/andurilindustries/jobs/5147483007)
+
+---
+
 ## 2026-05-29 18:03 EDT (WebSearch scan) — 4 new offers
 
 - [Keeper Security — Senior SDET, Secrets Management Platform](https://job-boards.greenhouse.io/keepersecurity/jobs/4090682009)
