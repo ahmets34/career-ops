@@ -1,3 +1,12 @@
+## 2026-05-30 15:02 EDT (WebSearch scan) — 4 new offers
+
+- [Sprinto — SDET I (Remote)](https://jobs.lever.co/Sprinto/cd494dfa-1307-45ae-9881-1383028f01bf)
+- [Twilio — Senior SDET (Remote-US)](https://boards.greenhouse.io/twilio/jobs/3199133)
+- [Veeva Systems — Associate Software Engineer in Test](https://jobs.lever.co/veeva/8d86a229-0d65-46a4-838f-3e4da21960f9)
+- [Extreme Networks — Staff QA Automation Engineer](https://jobs.lever.co/extremenetworks/02855334-7959-42f0-8829-fc3a4f407214)
+
+---
+
 ## 2026-05-30 13:03 EDT (WebSearch scan) — 3 new offers
 
 - [YugabyteDB — Staff SDET](https://job-boards.greenhouse.io/yugabyte/jobs/4656739006)
