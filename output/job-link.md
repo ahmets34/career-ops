@@ -1,3 +1,12 @@
+## 2026-05-31 08:02 EDT (WebSearch scan) — 4 new offers
+
+- [Accela — Software Test Lead Engineer (SDET)](https://job-boards.greenhouse.io/accela/jobs/7371907)
+- [AKKO — Software Developer in Test (SDET)](https://job-boards.greenhouse.io/akko/jobs/4619629005)
+- [HighLevel — Lead SDET, CRM Core Modules](https://jobs.lever.co/gohighlevel/4e72eacb-43c0-4f15-b09e-305ca2bbd963)
+- [HighLevel — Engineering Manager SDET, AI](https://jobs.lever.co/gohighlevel/7bceeef8-745b-4575-a611-ed7026cfe9d3)
+
+---
+
 ## 2026-05-30 15:02 EDT (WebSearch scan) — 4 new offers
 
 - [Sprinto — SDET I (Remote)](https://jobs.lever.co/Sprinto/cd494dfa-1307-45ae-9881-1383028f01bf)
