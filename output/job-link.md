@@ -1,3 +1,9 @@
+## 2026-05-31 13:02 EDT (WebSearch scan) — 1 new offer
+
+- [Super.com — Staff Software Development Engineer in Test (SDET)](https://jobs.ashbyhq.com/super.com/63ff7409-45e5-4a01-841d-a3dd4f6bbe85)
+
+---
+
 ## 2026-05-31 10:03 EDT (WebSearch scan) — 3 new offers
 
 - [BlastPoint — Sr. Automation QA Engineer / SDET](https://job-boards.greenhouse.io/blastpoint/jobs/5150588007)
