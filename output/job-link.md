@@ -1,3 +1,11 @@
+## 2026-05-31 10:03 EDT (WebSearch scan) — 3 new offers
+
+- [BlastPoint — Sr. Automation QA Engineer / SDET](https://job-boards.greenhouse.io/blastpoint/jobs/5150588007)
+- [Appcues — Sr. QA Engineer](https://jobs.lever.co/appcues-2/cc3ba34b-7180-4976-bead-5e74acb80f2d)
+- [BetterHelp — Senior SDET](https://himalayas.app/companies/betterhelp/jobs/senior-sdet)
+
+---
+
 ## 2026-05-31 08:02 EDT (WebSearch scan) — 4 new offers
 
 - [Accela — Software Test Lead Engineer (SDET)](https://job-boards.greenhouse.io/accela/jobs/7371907)
