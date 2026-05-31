@@ -1,3 +1,15 @@
+## 2026-05-31 15:02 EDT (WebSearch scan) — 6 new offers
+
+- [AppViewX — Senior SDET Engineer I](https://job-boards.greenhouse.io/appviewx/jobs/5799955004)
+- [Heartflow — Staff Test Engineer](https://job-boards.greenhouse.io/heartflowinc/jobs/5991202004)
+- [Hudl — Lead Quality Assurance Engineer, Frontends](https://job-boards.greenhouse.io/hudl/jobs/7183239)
+- [HighLevel — Lead Software Development Engineer in Test](https://jobs.lever.co/gohighlevel/ca4ef37c-f259-4b6b-8d28-c034feed8874)
+- [Powdevs — QA Lead](https://jobs.lever.co/powdevs/8b02ba30-d621-4bf4-9926-1dc756d085f5)
+- [Turning Point Global Solutions — Quality Assurance Manager/Lead Test Engineer](https://jobs.lever.co/tpgsi/bba944cb-2cae-47a2-85bf-b8737ddce5e7)
+
+---
+
+
 ## 2026-05-31 13:02 EDT (WebSearch scan) — 1 new offer
 
 - [Super.com — Staff Software Development Engineer in Test (SDET)](https://jobs.ashbyhq.com/super.com/63ff7409-45e5-4a01-841d-a3dd4f6bbe85)
