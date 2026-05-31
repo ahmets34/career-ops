@@ -1,3 +1,13 @@
+## 2026-05-31 18:02 EDT (WebSearch scan) — 5 new offers
+
+- [Maximus Health — Lead QA Engineer (Remote)](https://jobs.ashbyhq.com/maximustribe/deb08006-110e-4ed9-901d-f9623a459ea6)
+- [AlphaSense — Senior SDET](https://job-boards.greenhouse.io/alphasense/jobs/8104371002)
+- [Loop — Senior Automation Engineer](https://jobs.lever.co/loopreturns/501e3bad-2653-4402-bebd-0f4f96afa314)
+- [Jobgether — Security Test Engineer (Remote from US)](https://jobs.lever.co/jobgether/2c5c93c1-c023-48c5-a6bb-b3e502689a39)
+- [Kraken — Sr. QA Automation Engineer - Pro](https://jobs.ashbyhq.com/kraken.com/355a8c6d-97da-464f-bcf4-91f01aaf7b40)
+
+---
+
 ## 2026-05-31 15:02 EDT (WebSearch scan) — 6 new offers
 
 - [AppViewX — Senior SDET Engineer I](https://job-boards.greenhouse.io/appviewx/jobs/5799955004)
