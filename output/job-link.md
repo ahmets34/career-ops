@@ -1,3 +1,14 @@
+## 2026-06-01 10:03 EDT (WebSearch scan) — 6 new offers
+
+- [Lyric — Platform Engineer - Quality/SDET](https://jobs.ashbyhq.com/lyric/9a64e45b-e79d-4ad7-8e9f-8fcb94959798)
+- [LG Ad Solutions — Senior Manager, Quality Assurance](https://jobs.ashbyhq.com/lgads/48f922a2-ea39-4b33-8100-255c63b9aec2)
+- [Sully.ai — Senior Software Engineer in Test (SDET)](https://wellfound.com/jobs/3747476-senior-software-engineer-in-test-sdet)
+- [Glide — Software Development Engineer in Test (SDET)](https://wellfound.com/jobs/3314330-software-development-engineer-in-test-sdet)
+- [Allstate — SDET / Senior Automation Engineer](https://www.allstate.jobs/job/21532286/sdet-senior-automation-engineer/)
+- [HighLevel — Engineering Manager - SDET](https://himalayas.app/companies/highlevel/jobs/engineering-manager-sdet)
+
+---
+
 ## 2026-06-01 08:03 EDT (WebSearch scan) — 5 new offers
 
 - [FormAssembly — Lead QA Programmer & Automation Engineer (QAE/SDET)](https://startup.jobs/lead-quality-assurance-programmer-and-automation-engineer-qae-sdet-formassembly-282888)
