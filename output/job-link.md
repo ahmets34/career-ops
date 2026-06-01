@@ -1,3 +1,13 @@
+## 2026-06-01 08:03 EDT (WebSearch scan) — 5 new offers
+
+- [FormAssembly — Lead QA Programmer & Automation Engineer (QAE/SDET)](https://startup.jobs/lead-quality-assurance-programmer-and-automation-engineer-qae-sdet-formassembly-282888)
+- [Capital Insurance Group — QA Automation Engineer / SDET](https://startup.jobs/qa-automation-engineer-sdet-ciginsurance-32666)
+- [Gigster — SDET/QA Engineer](https://himalayas.app/companies/gigster/jobs/sdet-qa-engineer)
+- [Gigster — QA Automation Engineer](https://himalayas.app/companies/gigster/jobs/qa-automation-engineer)
+- [Ornate Technologies — SDET Engineer (Remote)](https://www.dice.com/job-detail/50da20f8-8623-4729-82b7-e75eaa0c99a7)
+
+---
+
 ## 2026-05-31 18:02 EDT (WebSearch scan) — 5 new offers
 
 - [Maximus Health — Lead QA Engineer (Remote)](https://jobs.ashbyhq.com/maximustribe/deb08006-110e-4ed9-901d-f9623a459ea6)
