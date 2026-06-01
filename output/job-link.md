@@ -1,3 +1,15 @@
+## 2026-06-01 13:02 EDT (WebSearch scan) — 7 new offers
+
+- [Jobgether — Senior Automation Engineer](https://jobs.lever.co/jobgether/918aa457-3706-4896-a94e-a32dd010272f)
+- [Encora — Senior QA Engineer](https://job-boards.greenhouse.io/encora10/jobs/5140812007)
+- [Encora — Senior SDET – Data Quality Engineering](https://job-boards.greenhouse.io/encora10/jobs/5150794007)
+- [Encora — Senior QA Engineer](https://job-boards.greenhouse.io/encora10/jobs/5140807007)
+- [Encora — Senior SDET – Data & Analytics](https://job-boards.greenhouse.io/encora10/jobs/5113474007)
+- [Encora — Sr QA Engineer](https://job-boards.greenhouse.io/encora10/jobs/5143635007)
+- [Encora — SDET (Software Developer in Test)](https://job-boards.greenhouse.io/encora10/jobs/5117458007)
+
+---
+
 ## 2026-06-01 10:03 EDT (WebSearch scan) — 6 new offers
 
 - [Lyric — Platform Engineer - Quality/SDET](https://jobs.ashbyhq.com/lyric/9a64e45b-e79d-4ad7-8e9f-8fcb94959798)
