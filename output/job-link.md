@@ -1,3 +1,11 @@
+## 2026-06-01 18:02 EDT (WebSearch scan) — 3 new offers
+
+- [Flex — Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/flex/jobs/4591628005)
+- [Inductive Automation — Senior Quality Assurance Engineer I (Historian)](https://jobs.ashbyhq.com/inductive-automation-llc/2bfd844f-37a8-47cd-925b-697f7dacfcbc/application)
+- [ConnectWise — Senior Software Test Engineer I](https://job-boards.greenhouse.io/connectwise/jobs/4654051005)
+
+---
+
 ## 2026-06-01 15:02 EDT (WebSearch scan) — 7 new offers
 
 - [Tebra — AI Automation Engineer](https://job-boards.greenhouse.io/tebra/jobs/4694698005)
