@@ -1,3 +1,15 @@
+## 2026-06-01 15:02 EDT (WebSearch scan) — 7 new offers
+
+- [Tebra — AI Automation Engineer](https://job-boards.greenhouse.io/tebra/jobs/4694698005)
+- [9th Way Insignia — Senior Automation Tester](https://job-boards.greenhouse.io/9thwayinsignia/jobs/5165813008)
+- [GovWorx — QA Engineer - US](https://jobs.ashbyhq.com/govworx/5f291457-5a81-42b3-adff-37b696118d5b)
+- [Infiterra — Senior Software Automation Test Engineer](https://himalayas.app/companies/infiterra/jobs/senior-software-automation-test-engineer-861405242)
+- [Wild Alaskan Company — Quality Assurance Analyst II](https://job-boards.greenhouse.io/wildalaskancompany/jobs/5784666004)
+- [Allata — Software Engineer in Test Manager](https://jobs.lever.co/Allata/69ad0114-efe4-466b-a3c8-61cbf1bcb6c0)
+- [OpenX — Senior Software Engineer in Test IV (Python)](https://jobs.lever.co/openx/65ebe9aa-112b-4a58-8384-6e310f1e6b95)
+
+---
+
 ## 2026-06-01 13:02 EDT (WebSearch scan) — 7 new offers
 
 - [Jobgether — Senior Automation Engineer](https://jobs.lever.co/jobgether/918aa457-3706-4896-a94e-a32dd010272f)
