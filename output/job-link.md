@@ -1,3 +1,11 @@
+## 2026-06-02 18:02 EDT (WebSearch scan) — 3 new offers
+
+- [Valce Talent Solutions — SDET SR](https://himalayas.app/companies/valce-talent-solutions/jobs/sdet-sr)
+- [SpecterOps — Testing Automation Engineer](https://remotive.com/remote/jobs/qa/testing-automation-engineer-4482422)
+- [ASD, Inc. — Senior Test Engineer, Cloud (Security Clearance)](https://weworkremotely.com/remote-jobs/asd-inc-senior-test-engineer-cloud-remote-with-security-clearance)
+
+---
+
 ## 2026-06-02 15:02 EDT (WebSearch scan) — 4 new offers
 
 - [Point Wild — QA Automation Engineer (Antivirus SDK Testing)](https://job-boards.greenhouse.io/pointwild/jobs/4754799008)
