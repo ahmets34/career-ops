@@ -1,3 +1,12 @@
+## 2026-06-02 15:02 EDT (WebSearch scan) — 4 new offers
+
+- [Point Wild — QA Automation Engineer (Antivirus SDK Testing)](https://job-boards.greenhouse.io/pointwild/jobs/4754799008)
+- [Tatari — Sr QA Engineer - SDET](https://job-boards.greenhouse.io/tatari/jobs/8570748002)
+- [Collectors — Senior QA Automation Engineer](https://himalayas.app/companies/collectors/jobs/senior-qa-automation-engineer)
+- [ONE — QA Automation Engineer](https://jobs.ashbyhq.com/oneapp/ea1f7d7f-d479-441d-a540-fda262271492/application)
+
+---
+
 ## 2026-06-02 13:02 EDT (WebSearch scan) — 3 new offers
 
 - [OPSWAT — QA Automation Engineer](https://boards.greenhouse.io/opswat/jobs/4552970005)
