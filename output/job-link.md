@@ -1,3 +1,11 @@
+## 2026-06-02 13:02 EDT (WebSearch scan) — 3 new offers
+
+- [OPSWAT — QA Automation Engineer](https://boards.greenhouse.io/opswat/jobs/4552970005)
+- [Alkami Technology — Staff SDET](https://remotive.com/remote/jobs/qa/staff-sdet-1566863)
+- [Veeva Systems — Senior Software Engineer in Test](https://jobs.lever.co/veeva/dc11be34-bfa9-410a-9f6d-f5fe84b6c4cc)
+
+---
+
 ## 2026-06-02 10:03 EDT (WebSearch scan) — 6 new offers
 
 - [Chainlink Labs — Senior Software Engineer in Test (North America)](https://jobs.lever.co/chainlink/0d7e99b5-b98d-4a10-938e-c7e134eb0585)
