@@ -1,3 +1,14 @@
+## 2026-06-02 10:03 EDT (WebSearch scan) — 6 new offers
+
+- [Chainlink Labs — Senior Software Engineer in Test (North America)](https://jobs.lever.co/chainlink/0d7e99b5-b98d-4a10-938e-c7e134eb0585)
+- [Veeva Systems — Senior Software Engineer in Test](https://jobs.lever.co/veeva/bee518a4-07b0-4f0d-b1e3-5e5573490287)
+- [Resilient Co — SDET](https://jobs.lever.co/resilientco/dc92963b-4977-4f0f-a281-c84605f2df80)
+- [Corelight — Senior Software Quality Engineer, Release Testing](https://job-boards.greenhouse.io/corelight/jobs/7926926)
+- [Duetto Research — Quality Engineer](https://job-boards.greenhouse.io/duettoresearch/jobs/7920633)
+- [Phreesia — Sr. SDET](https://himalayas.app/companies/phreesia/jobs/sr-sdet)
+
+---
+
 ## 2026-06-01 18:02 EDT (WebSearch scan) — 3 new offers
 
 - [Flex — Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/flex/jobs/4591628005)
