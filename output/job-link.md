@@ -1,3 +1,13 @@
+## 2026-06-03 18:03 EDT (WebSearch scan) — 4 new offers
+
+- [ClassWallet — QA Automation Engineer](https://himalayas.app/companies/classwallet/jobs/qa-automation-engineer)
+- [Loop — Senior Automation Engineer](https://himalayas.app/companies/loopreturns/jobs/senior-automation-engineer)
+- [SmartRent — Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/smartrent/jobs/5982663004)
+- [DMI — Senior Software Quality Assurance Engineer](https://remotive.com/remote/jobs/qa/senior-software-quality-assurance-engineer-and-tester-4273519)
+
+---
+
+
 ## 2026-06-03 15:02 EDT (WebSearch scan) — 3 new offers
 
 - [United States Golf Association — Senior QA Lead](https://boards.greenhouse.io/unitedstatesgolfassociation/jobs/6141510002)
