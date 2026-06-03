@@ -1,3 +1,11 @@
+## 2026-06-03 08:03 EDT (WebSearch scan) — 3 new offers
+
+- [NinjaTrader — Sr. Software Test Engineer, Web](https://job-boards.greenhouse.io/ninjatrader/jobs/4667276006)
+- [NinjaTrader — Sr. Software Test Engineer, Backend-FCM](https://job-boards.greenhouse.io/ninjatrader/jobs/4667281006)
+- [NinjaTrader — Sr. Software Test Engineer, Mobile](https://job-boards.greenhouse.io/ninjatrader/jobs/4667291006)
+
+---
+
 ## 2026-06-02 18:02 EDT (WebSearch scan) — 3 new offers
 
 - [Valce Talent Solutions — SDET SR](https://himalayas.app/companies/valce-talent-solutions/jobs/sdet-sr)
