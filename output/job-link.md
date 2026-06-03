@@ -1,3 +1,11 @@
+## 2026-06-03 15:02 EDT (WebSearch scan) — 3 new offers
+
+- [United States Golf Association — Senior QA Lead](https://boards.greenhouse.io/unitedstatesgolfassociation/jobs/6141510002)
+- [INUIX Consulting — SDET, USA Remote](https://www.dice.com/job-detail/13889a4e-8d42-4be7-9f00-9a591444ecdb)
+- [Samsara — Senior Automation Engineer I, Mobile and Web](https://www.samsara.com/company/careers/roles/7009110)
+
+---
+
 ## 2026-06-03 13:02 EDT (WebSearch scan) — 4 new offers
 
 - [Renew Home — Senior Engineer, Test and Automation](https://jobs.workable.com/view/3vM1KCW6vZRZZGDGvBDS6x/senior-engineer%2C-test-and-automation-(remote%2C-us)-in-united-states-at-renew-home)
