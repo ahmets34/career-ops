@@ -1,3 +1,12 @@
+## 2026-06-03 13:02 EDT (WebSearch scan) — 4 new offers
+
+- [Renew Home — Senior Engineer, Test and Automation](https://jobs.workable.com/view/3vM1KCW6vZRZZGDGvBDS6x/senior-engineer%2C-test-and-automation-(remote%2C-us)-in-united-states-at-renew-home)
+- [GenLogs — Senior QA Engineer](https://remotive.com/remote/jobs/qa/senior-qa-engineer-4511791)
+- [Posit — Senior QA Engineer](https://remotive.com/remote-jobs/qa/senior-qa-engineer-1983505)
+- [Tatari — Sr QA Engineer - SDET (CM)](https://job-boards.greenhouse.io/tatari/jobs/8570749002)
+
+---
+
 ## 2026-06-03 08:03 EDT (WebSearch scan) — 3 new offers
 
 - [NinjaTrader — Sr. Software Test Engineer, Web](https://job-boards.greenhouse.io/ninjatrader/jobs/4667276006)
