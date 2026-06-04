@@ -1,3 +1,9 @@
+## 2026-06-04 18:09 EDT (WebSearch scan) — 1 new offer
+
+- [Greenlight Financial Technology — Senior SDET](https://jobs.lever.co/greenlight/934f168a-012d-4992-8a04-d4dc972b057f)
+
+---
+
 ## 2026-06-04 15:02 EDT (WebSearch scan) — 0 new offers
 
 _(no new offers this run — all previously seen)_
