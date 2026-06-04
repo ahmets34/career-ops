@@ -1,3 +1,11 @@
+## 2026-06-04 10:03 EDT (WebSearch scan) — 3 new offers
+
+- [Embroker — Senior Test Automation Engineer](https://boards.greenhouse.io/embroker/jobs/5421864002)
+- [OpenTable — Sr. Test Automation Engineer](https://boards.greenhouse.io/opentable/jobs/4352203002)
+- [Businesswire — Senior Quality Assurance Automation Engineer](https://remotive.com/remote/jobs/qa/senior-quality-assurance-automation-engineer-2970085)
+
+---
+
 ## 2026-06-04 08:03 EDT (WebSearch scan) — 1 new offer
 
 - [Whisk — Staff Software Engineer in Test](https://jobs.ashbyhq.com/whisk/bbd4aaa9-120a-4db6-8d38-5292bf1f9ed5)
