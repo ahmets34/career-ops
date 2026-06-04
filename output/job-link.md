@@ -1,3 +1,9 @@
+## 2026-06-04 15:02 EDT (WebSearch scan) — 0 new offers
+
+_(no new offers this run — all previously seen)_
+
+---
+
 ## 2026-06-04 10:03 EDT (WebSearch scan) — 3 new offers
 
 - [Embroker — Senior Test Automation Engineer](https://boards.greenhouse.io/embroker/jobs/5421864002)
