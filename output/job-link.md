@@ -1,3 +1,16 @@
+## 2026-06-05 13:03 EDT (WebSearch scan) — 8 new offers
+
+- [CrowdStrike — Sr. SDET - Auth (Remote)](https://builtin.com/job/sr-sdet-auth-remote/3255155)
+- [Teramind — QA Lead - Release and Automation](https://jobs.lever.co/teramind/bfb41341-ed03-4a4d-b087-341436b93621)
+- [Resilient Co — Senior QA Automation Engineer](https://jobs.lever.co/resilientco/984192f5-0c45-43b8-8b3d-74fd9bd1edaa)
+- [CrowdStrike — Sr. Sensor SDET (Remote)](https://builtin.com/job/sr-sensor-sdet-remote/6585799)
+- [CrowdStrike — Sr. SDET II - NG-SIEM (Remote, East Coast)](https://builtin.com/job/sr-sdet-ii-ng-siem-remote-east-coast/3670322)
+- [CrowdStrike — Sr. SDET - Cloud, EPP Product (Remote)](https://builtin.com/job/sr-sdet-cloud-epp-product-remote/4252137)
+- [CrowdStrike — Sr. Test Software Engineer - SDET Sensor (Remote)](https://builtin.com/job/sr-test-software-engineer-sdet-sensor-remote/6692171)
+- [CrowdStrike — Sr. Engineer - Cloud SDET, Endpoint (Remote)](https://builtin.com/job/sr-engineer-cloud-sdet-endpoint-remote/6934422)
+
+---
+
 ## 2026-06-05 10:03 EDT (WebSearch scan) — 2 new offers
 
 - [doola — QA Engineer](https://jobs.lever.co/doola/5c038b83-23a0-4189-9a47-75fe5effe6dc)
