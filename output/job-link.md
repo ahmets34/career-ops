@@ -1,3 +1,11 @@
+## 2026-06-05 15:03 EDT (WebSearch scan) — 3 new offers
+
+- [Enterra Solutions — Functional Testing Manager](https://job-boards.greenhouse.io/enterrasolutions/jobs/5155734007)
+- [Testlio — Sr Software Quality Engineer (SDET)](https://boards.greenhouse.io/testlio/jobs/5818195)
+- [SingleStore — SDET](https://boards.greenhouse.io/singlestore/jobs/6304131)
+
+---
+
 ## 2026-06-05 13:03 EDT (WebSearch scan) — 8 new offers
 
 - [CrowdStrike — Sr. SDET - Auth (Remote)](https://builtin.com/job/sr-sdet-auth-remote/3255155)
