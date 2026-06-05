@@ -1,3 +1,10 @@
+## 2026-06-05 10:03 EDT (WebSearch scan) — 2 new offers
+
+- [doola — QA Engineer](https://jobs.lever.co/doola/5c038b83-23a0-4189-9a47-75fe5effe6dc)
+- [RainFocus — Quality Assurance Engineer](https://jobs.lever.co/rainfocus/fefde4fd-d228-48bb-94e1-082704f9a164)
+
+---
+
 ## 2026-06-05 08:03 EDT (WebSearch scan) — 0 new offers
 
 _(no new offers this run — all previously seen)_
