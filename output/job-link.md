@@ -1,3 +1,9 @@
+## 2026-06-05 18:03 EDT (WebSearch scan) — 1 new offer
+
+- [Jobgether — Senior QA Engineer for AI (Remote)](https://jobs.lever.co/jobgether/aafb4415-4d30-4147-a3bf-a29e2448777e)
+
+---
+
 ## 2026-06-05 15:03 EDT (WebSearch scan) — 3 new offers
 
 - [Enterra Solutions — Functional Testing Manager](https://job-boards.greenhouse.io/enterrasolutions/jobs/5155734007)
