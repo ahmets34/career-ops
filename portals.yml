@@ -162,14 +162,36 @@ title_filter:
 #   - Its location/metadata contains 0 negative terms
 # The scanner checks title, URL, snippet, and any location field returned by the API/WebSearch.
 location_filter:
-  # Accept: US locations, remote without explicit non-US location
+  # Accept: US locations only. "Remote" must be paired with a US qualifier.
+  # Bare "Remote" / "Anywhere" / "Worldwide" / "Global" are NOT accepted —
+  # they too often hide non-US-eligible roles. User is US-only (Green Card, FL).
   positive:
     - "United States"
-    - "US"
+    - "US Remote"
+    - "Remote - US"
+    - "Remote, US"
+    - "Remote (US)"
+    - "Remote — US"
+    - "Remote US"
     - "USA"
-    - "Remote"
-    - "Anywhere"
-    - "Worldwide"
+    - "U.S."
+    - "U.S.A."
+    - "Remote (United States)"
+    - "Remote, United States"
+    - "Remote - United States"
+    - "Remote — United States"
+    - "Remote in the US"
+    - "Remote in US"
+    - "Remote within the US"
+    - "Remote North America"
+    - "US-based"
+    - "US-only"
+    - "Anywhere in the US"
+    - "Anywhere in the United States"
+    - "US Nationwide"
+    - "Nationwide - US"
+    - "Nationwide — US"
+    - "Remote - Anywhere in US"
     - "Florida"
     - "New York"
     - "California"
@@ -197,7 +219,34 @@ location_filter:
     - "LA"
     - "Los Angeles"
   # Reject: non-US locations explicitly mentioned
+  # Also reject bare "Remote"/"Anywhere"/"Worldwide"/"Global" without US qualifier —
+  # too often hides non-US-eligible roles.
   negative:
+    - "Remote - EMEA"
+    - "Remote - EU"
+    - "Remote - LATAM"
+    - "Remote - APAC"
+    - "Remote - Canada"
+    - "Remote — EMEA"
+    - "Remote — EU"
+    - "Remote — LATAM"
+    - "Remote — APAC"
+    - "Remote — Canada"
+    - "Remote (EMEA)"
+    - "Remote (EU)"
+    - "Remote (LATAM)"
+    - "Remote (APAC)"
+    - "Remote (Canada)"
+    - "Remote EMEA"
+    - "Remote EU"
+    - "Remote LATAM"
+    - "Remote APAC"
+    - "Worldwide except US"
+    - "Worldwide excluding US"
+    - "Global excluding US"
+    - "Remote excluding US"
+    - "Remote outside US"
+    - "Non-US"
     - "India"
     - "Bangalore"
     - "Bengaluru"
@@ -1372,6 +1421,366 @@ tracked_companies:
   - name: Gong
     careers_url: https://job-boards.greenhouse.io/gongio
     api: https://boards-api.greenhouse.io/v1/boards/gongio/jobs
+    enabled: true
+
+# --- Healthcare (extended) ---
+  - name: McKesson
+    careers_url: https://www.mckesson.com/Careers/
+    scan_method: websearch
+    scan_query: 'site:mckesson.com/careers "QA" OR "SDET" OR "Automation Engineer"'
+    enabled: true
+
+  - name: Cardinal Health
+    careers_url: https://careers.cardinalhealth.com/
+    scan_method: websearch
+    scan_query: 'site:cardinalhealth.com/careers "QA" OR "Automation Engineer"'
+    enabled: true
+
+  - name: Elevance Health
+    careers_url: https://careers.elevancehealth.com/
+    scan_method: websearch
+    scan_query: 'site:elevancehealth.com/careers "QA" OR "SDET" OR "Automation"'
+    enabled: true
+
+  - name: Humana
+    careers_url: https://careers.humana.com/
+    scan_method: websearch
+    scan_query: 'site:humana.com/careers "QA" OR "Automation"'
+    enabled: true
+
+  - name: Kaiser Permanente
+    careers_url: https://www.kaiserpermanentejobs.org/
+    scan_method: websearch
+    scan_query: 'site:kaiserpermanentejobs.org "QA" OR "SDET"'
+    enabled: true
+
+  - name: Cigna
+    careers_url: https://jobs.thecignagroup.com/
+    scan_method: websearch
+    scan_query: 'site:thecignagroup.com/jobs "QA" OR "Automation Engineer"'
+    enabled: true
+
+  - name: Walgreens
+    careers_url: https://jobs.walgreens.com/
+    scan_method: websearch
+    scan_query: 'site:jobs.walgreens.com "QA" OR "SDET"'
+    enabled: true
+
+  - name: Change Healthcare
+    careers_url: https://careers.changehealthcare.com/
+    scan_method: websearch
+    scan_query: 'site:changehealthcare.com/careers "QA" OR "Automation"'
+    enabled: true
+
+  - name: Veeva Systems
+    careers_url: https://careers.veeva.com/
+    scan_method: websearch
+    scan_query: 'site:veeva.com/careers "QA" OR "SDET" OR "Automation Engineer"'
+    enabled: true
+
+# --- Fintech / Banking ---
+  - name: Capital One
+    careers_url: https://www.capitalonecareers.com/
+    scan_method: websearch
+    scan_query: 'site:capitalonecareers.com "SDET" OR "QA Engineer" OR "Automation Engineer"'
+    enabled: true
+
+  - name: JPMorgan Chase
+    careers_url: https://careers.jpmorgan.com/
+    scan_method: websearch
+    scan_query: 'site:jpmorgan.com/careers "QA" OR "SDET" OR "Automation"'
+    enabled: true
+
+  - name: Goldman Sachs
+    careers_url: https://www.goldmansachs.com/careers/
+    scan_method: websearch
+    scan_query: 'site:goldmansachs.com/careers "QA" OR "SDET"'
+    enabled: true
+
+  - name: Morgan Stanley
+    careers_url: https://www.morganstanley.com/people/careers
+    scan_method: websearch
+    scan_query: 'site:morganstanley.com/careers "QA" OR "Automation Engineer"'
+    enabled: true
+
+  - name: Bank of America
+    careers_url: https://careers.bankofamerica.com/
+    scan_method: websearch
+    scan_query: 'site:bankofamerica.com/careers "QA" OR "SDET"'
+    enabled: true
+
+  - name: Wells Fargo
+    careers_url: https://www.wellsfargojobs.com/
+    scan_method: websearch
+    scan_query: 'site:wellsfargojobs.com "QA" OR "SDET" OR "Automation"'
+    enabled: true
+
+  - name: American Express
+    careers_url: https://careers.americanexpress.com/
+    scan_method: websearch
+    scan_query: 'site:americanexpress.com/careers "QA" OR "SDET"'
+    enabled: true
+
+  - name: Visa
+    careers_url: https://corporate.visa.com/en/careers.html
+    scan_method: websearch
+    scan_query: 'site:visa.com/careers "QA" OR "SDET" OR "Automation Engineer"'
+    enabled: true
+
+  - name: Mastercard
+    careers_url: https://careers.mastercard.com/
+    scan_method: websearch
+    scan_query: 'site:mastercard.com/careers "QA" OR "SDET"'
+    enabled: true
+
+  - name: PayPal
+    careers_url: https://careers.pypl.com/
+    scan_method: websearch
+    scan_query: 'site:pypl.com/careers "QA" OR "SDET"'
+    enabled: true
+
+  - name: Fidelity Investments
+    careers_url: https://jobs.fidelity.com/
+    scan_method: websearch
+    scan_query: 'site:jobs.fidelity.com "QA" OR "SDET"'
+    enabled: true
+
+  - name: Charles Schwab
+    careers_url: https://www.schwabjobs.com/
+    scan_method: websearch
+    scan_query: 'site:schwabjobs.com "QA" OR "Automation Engineer"'
+    enabled: true
+
+# --- Big Tech / Enterprise ---
+  - name: IBM
+    careers_url: https://www.ibm.com/careers/
+    scan_method: websearch
+    scan_query: 'site:ibm.com/careers "QA" OR "SDET" OR "Automation Engineer"'
+    enabled: true
+
+  - name: Intel
+    careers_url: https://jobs.intel.com/
+    scan_method: websearch
+    scan_query: 'site:jobs.intel.com "SDET" OR "Automation Engineer"'
+    enabled: true
+
+  - name: NVIDIA
+    careers_url: https://www.nvidia.com/en-us/about-nvidia/careers/
+    scan_method: websearch
+    scan_query: 'site:nvidia.com/careers "QA" OR "SDET"'
+    enabled: true
+
+  - name: Cisco
+    careers_url: https://jobs.cisco.com/
+    scan_method: websearch
+    scan_query: 'site:jobs.cisco.com "QA" OR "SDET" OR "Automation"'
+    enabled: true
+
+  - name: Adobe
+    careers_url: https://www.adobe.com/careers.html
+    scan_method: websearch
+    scan_query: 'site:adobe.com/careers "QA" OR "SDET"'
+    enabled: true
+
+  - name: Autodesk
+    careers_url: https://www.autodesk.com/careers
+    scan_method: websearch
+    scan_query: 'site:autodesk.com/careers "QA" OR "Automation Engineer"'
+    enabled: true
+
+  - name: Intuit
+    careers_url: https://www.intuit.com/careers/
+    scan_method: websearch
+    scan_query: 'site:intuit.com/careers "QA" OR "SDET"'
+    enabled: true
+
+  - name: SAP
+    careers_url: https://jobs.sap.com/
+    scan_method: websearch
+    scan_query: 'site:jobs.sap.com "QA" OR "Automation Engineer" "United States"'
+    enabled: true
+
+  - name: VMware
+    careers_url: https://careers.vmware.com/
+    scan_method: websearch
+    scan_query: 'site:careers.vmware.com "QA" OR "SDET"'
+    enabled: true
+
+  - name: Dell Technologies
+    careers_url: https://jobs.dell.com/
+    scan_method: websearch
+    scan_query: 'site:jobs.dell.com "QA" OR "SDET" OR "Automation"'
+    enabled: true
+
+  - name: HP
+    careers_url: https://jobs.hp.com/
+    scan_method: websearch
+    scan_query: 'site:jobs.hp.com "QA" OR "SDET"'
+    enabled: true
+
+  - name: Qualcomm
+    careers_url: https://www.qualcomm.com/company/careers
+    scan_method: websearch
+    scan_query: 'site:qualcomm.com/careers "QA" OR "Automation Engineer"'
+    enabled: true
+
+# --- Consulting / Defense ---
+  - name: Booz Allen Hamilton
+    careers_url: https://careers.boozallen.com/
+    scan_method: websearch
+    scan_query: 'site:careers.boozallen.com "QA" OR "SDET" OR "Automation Engineer"'
+    enabled: true
+
+  - name: Leidos
+    careers_url: https://careers.leidos.com/
+    scan_method: websearch
+    scan_query: 'site:careers.leidos.com "QA" OR "Automation Engineer"'
+    enabled: true
+
+  - name: CACI
+    careers_url: https://careers.caci.com/
+    scan_method: websearch
+    scan_query: 'site:careers.caci.com "QA" OR "SDET" OR "Automation"'
+    enabled: true
+
+  - name: SAIC
+    careers_url: https://jobs.saic.com/
+    scan_method: websearch
+    scan_query: 'site:jobs.saic.com "QA" OR "SDET" OR "Automation"'
+    enabled: true
+
+  - name: General Dynamics IT
+    careers_url: https://www.gdit.com/careers/
+    scan_method: websearch
+    scan_query: 'site:gdit.com/careers "QA" OR "Automation Engineer"'
+    enabled: true
+
+  - name: Northrop Grumman
+    careers_url: https://www.northropgrumman.com/careers/
+    scan_method: websearch
+    scan_query: 'site:northropgrumman.com/careers "QA" OR "SDET"'
+    enabled: true
+
+  - name: Lockheed Martin
+    careers_url: https://www.lockheedmartinjobs.com/
+    scan_method: websearch
+    scan_query: 'site:lockheedmartinjobs.com "QA" OR "SDET" OR "Automation"'
+    enabled: true
+
+  - name: Raytheon (RTX)
+    careers_url: https://careers.rtx.com/
+    scan_method: websearch
+    scan_query: 'site:rtx.com/careers "QA" OR "Automation Engineer"'
+    enabled: true
+
+  - name: KPMG
+    careers_url: https://home.kpmg/xx/en/home/careers.html
+    scan_method: websearch
+    scan_query: 'site:kpmg.com/careers "QA" OR "SDET" "United States"'
+    enabled: true
+
+  - name: PwC
+    careers_url: https://jobs.us.pwc.com/
+    scan_method: websearch
+    scan_query: 'site:pwc.com/careers "QA" OR "Automation Engineer" "United States"'
+    enabled: true
+
+  - name: EY
+    careers_url: https://www.ey.com/en_us/careers
+    scan_method: websearch
+    scan_query: 'site:ey.com/careers "QA" OR "Automation Engineer" "United States"'
+    enabled: true
+
+# --- Media / Retail ---
+  - name: Disney
+    careers_url: https://www.disneycareers.com/
+    scan_method: websearch
+    scan_query: 'site:disneycareers.com "QA" OR "SDET" OR "Automation Engineer"'
+    enabled: true
+
+  - name: Warner Bros Discovery
+    careers_url: https://careers.wbd.com/
+    scan_method: websearch
+    scan_query: 'site:careers.wbd.com "QA" OR "SDET"'
+    enabled: true
+
+  - name: NBCUniversal
+    careers_url: https://www.nbcunicareers.com/
+    scan_method: websearch
+    scan_query: 'site:nbcunicareers.com "QA" OR "Automation"'
+    enabled: true
+
+  - name: Paramount
+    careers_url: https://www.paramount.com/careers
+    scan_method: websearch
+    scan_query: 'site:paramount.com/careers "QA" OR "SDET"'
+    enabled: true
+
+  - name: Target
+    careers_url: https://corporate.target.com/careers
+    scan_method: websearch
+    scan_query: 'site:target.com/careers "QA" OR "SDET" OR "Automation Engineer"'
+    enabled: true
+
+  - name: Walmart
+    careers_url: https://careers.walmart.com/
+    scan_method: websearch
+    scan_query: 'site:careers.walmart.com "QA" OR "SDET"'
+    enabled: true
+
+  - name: Best Buy
+    careers_url: https://corporate.bestbuy.com/careers/
+    scan_method: websearch
+    scan_query: 'site:bestbuy.com/careers "QA" OR "Automation Engineer"'
+    enabled: true
+
+  - name: Home Depot
+    careers_url: https://careers.homedepot.com/
+    scan_method: websearch
+    scan_query: 'site:careers.homedepot.com "QA" OR "SDET"'
+    enabled: true
+
+  - name: Lowes
+    careers_url: https://talent.lowes.com/
+    scan_method: websearch
+    scan_query: 'site:lowes.com/careers "QA" OR "Automation Engineer"'
+    enabled: true
+
+# --- Airlines / Travel ---
+  - name: United Airlines
+    careers_url: https://careers.united.com/
+    scan_method: websearch
+    scan_query: 'site:careers.united.com "QA" OR "SDET" OR "Automation"'
+    enabled: true
+
+  - name: Delta Air Lines
+    careers_url: https://careers.delta.com/
+    scan_method: websearch
+    scan_query: 'site:careers.delta.com "QA" OR "SDET"'
+    enabled: true
+
+  - name: American Airlines
+    careers_url: https://jobs.aa.com/
+    scan_method: websearch
+    scan_query: 'site:jobs.aa.com "QA" OR "Automation Engineer"'
+    enabled: true
+
+  - name: Southwest Airlines
+    careers_url: https://careers.southwestair.com/
+    scan_method: websearch
+    scan_query: 'site:careers.southwestair.com "QA" OR "SDET"'
+    enabled: true
+
+  - name: Expedia Group
+    careers_url: https://careers.expediagroup.com/
+    scan_method: websearch
+    scan_query: 'site:expediagroup.com/careers "QA" OR "SDET" OR "Automation"'
+    enabled: true
+
+  - name: Booking Holdings
+    careers_url: https://careers.bookingholdings.com/
+    scan_method: websearch
+    scan_query: 'site:bookingholdings.com/careers "QA" OR "SDET"'
     enabled: true
 
 # -- Search APIs (keyword-based, broad discovery across all companies) --

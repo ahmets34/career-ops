@@ -6,6 +6,7 @@
 
 ## Pendientes
 
+- [ ] https://jobs.lever.co/skywarditsolutions/f920a694-5695-4f9c-87a5-ca13b4b0acac | Skyward IT Solutions | Software Engineer - Test Automation
 - [ ] https://jobs.lever.co/xsolla/98156612-0720-4b0e-8eb1-069748cb5608 | Xsolla | Senior QA Automation Engineer
 - [ ] https://wellfound.com/jobs/3021602-software-engineer-qa | QA Wolf | Software Engineer QA
 - [ ] https://jobs.ashbyhq.com/tempo/ee7c084e-d0cb-4b7a-adde-064e8a23207d | Tempo | QA Specialist - Agent+
@@ -198,6 +199,488 @@
 - [ ] https://jobs.ashbyhq.com/quora/b0ef4655-20b0-4c4f-93d2-037556c6c9e5 | Quora | AI Automation Engineer
 - [ ] https://job-boards.greenhouse.io/connexure/jobs/4015509009 | Connexure | Software Development Engineer in Test (SDET)
 - [ ] https://jobs.lever.co/jobgether/9478615f-d2aa-4c9d-9efb-f0ab6c51286a | Jobgether | QA Lead (Remote - Worldwide)
+
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7490108 | DoorDash | Manufacturing Quality Engineer
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7757556 | DoorDash | Quality Assurance Supervisor
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7831489 | DoorDash | Senior Associate, Project Management, Asset Protection and Safety
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7586758 | DoorDash | UAS Flight Test Lead
+- [ ] https://jobs.ashbyhq.com/snowflake/58c7ce9a-6c1b-42b4-8c32-865be9dec337 | Snowflake | Account Executive - Wealth & Asset Management
+- [ ] https://jobs.ashbyhq.com/zapier/6948a0e6-a580-4e9d-b109-20652d9a1507 | Zapier | Software Engineer — Release Engineering
+- [ ] https://jobs.ashbyhq.com/cohere/d42f5fd4-1ffc-45b9-957c-f09862db6af6 | Cohere | Member of Technical Staff, Training Performance Engineer
+- [ ] https://job-boards.greenhouse.io/workato/jobs/8516229002 | Workato | Staff Automation Engineer
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7544014?gh_jid=7544014 | Cloudflare | Partner Account Manager, Turkey & Qatar
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/7408199?gh_jid=7408199 | Cloudflare | Senior Named Account Executive, Qatar
+- [ ] https://jobs.elastic.co/jobs?gh_jid=7656931&gh_jid=7656931 | Elastic | Salesforce Automation QA Analyst
+- [ ] https://job-boards.greenhouse.io/marqeta/jobs/7641877 | Marqeta | Manager, Information Technology Asset Management
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4785639101 | Bitpanda | Senior Manual QA Engineer, B2C
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4592742101 | Bitpanda | Senior Software Engineer, Python (Asset Pricing & Hedging)
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4390515101 | Bitpanda | Software Engineer, Java (Digital Asset Systems)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8459908002 | Databricks | Network Automation Engineer 
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8459035002 | Databricks | RVP, Insurance, Wealth & Asset Management
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8493002002 | Databricks | Senior Staff Software Engineer - Lakeflow Pipelines Datasets
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8480646002 | Databricks | Sr. Solutions Architect - Financial Services (Wealth and Asset Management)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8174261002 | Databricks | Sr. Solutions Architect - Financial Services (Wealth & Asset Management)
+- [ ] https://jobs.ashbyhq.com/perplexity/3b349a2f-360e-44e6-a57d-6a87bc3016a7 | Perplexity | Member of Technical Staff (Search Quality Analyst)
+- [ ] https://boards.greenhouse.io/flexport/jobs/7698283?gh_jid=7698283 | Flexport | Area Manager (ICQA)
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/7353505 | Webflow | Senior Backend Engineer, Assets
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/7813157 | Webflow | Senior Staff Machine Learning Scientist, Assets
+- [ ] https://job-boards.greenhouse.io/webflow/jobs/7788111 | Webflow | Staff Software Engineer, Assets
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5654023004 | ClickHouse | QA Engineer - Core Database (remote)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5813444004 | ClickHouse | Release Engineer - Data Plane
+- [ ] https://jobs.lever.co/whoop/09da71be-0d4f-4ce2-bc1a-314914b0a156 | Whoop | Retail Associate, WHOOP Qatar
+- [ ] https://jobs.lever.co/whoop/7c2e6e77-8f20-4404-92a5-a8edc682c9da | Whoop | Retail Lead, WHOOP Qatar
+- [ ] https://jobs.lever.co/zoox/6dd6ee62-8023-4984-96db-6929b4d811c2 | Zoox | Logistics Operations Asset Manager
+- [ ] https://jobs.lever.co/zoox/e0d46302-6fa2-45a7-927d-cd11ccf1843e | Zoox | Manufacturing Test Engineer
+- [ ] https://jobs.lever.co/zoox/d3e43085-86b6-4cfb-8348-d9fd8ca8dfb2 | Zoox | Part-Time Student Worker - Test Engineering
+- [ ] https://jobs.lever.co/zoox/82346558-eca6-4da3-8b5f-079a097abf78 | Zoox | Quality Engineer, Receiving and Vehicle Quality
+- [ ] https://jobs.lever.co/zoox/4d118dfa-798a-4ab5-9bd3-8c4caf470edf | Zoox | Senior Autonomy System Test Engineer
+- [ ] https://jobs.lever.co/zoox/e1c1b82a-db3f-451e-840d-383d87b4515c | Zoox | Senior Software Development Engineer in Test - Verifiation And Validation
+- [ ] https://jobs.lever.co/zoox/d1ad9d6f-3ef2-415b-b921-6b5147ee15d3 | Zoox | Senior/Staff Manufacturing Quality Engineer
+- [ ] https://jobs.lever.co/zoox/2c925b5f-9d0c-4d12-b375-69e332832fc6 | Zoox | Senior/Staff System Integration and Test Engineer
+- [ ] https://jobs.lever.co/zoox/8914da26-af12-40ce-8819-bfc9fbf98cf2 | Zoox | Software Development Engineer in Test, Platform Safety Assurance
+- [ ] https://jobs.lever.co/zoox/ec1de483-ebd5-4b87-96b7-d749f077aefb | Zoox | System Test Engineer
+- [ ] https://jobs.lever.co/zoox/ac6a0c1a-74fe-459d-87ad-de219458b6b5 | Zoox | Technical Program Manager - Software QA
+- [ ] https://jobs.lever.co/zoox/60de3179-3ebf-48d1-8cf0-f3ce6722db52 | Zoox | Vehicle Dynamics Simulation Test Engineer
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/5974448004 | Alpaca | Brokerage Operations Associate I - Clearing & Settlement
+- [ ] https://job-boards.greenhouse.io/komodohealth/jobs/8521862002 | KomodoHealth | Senior Data Quality Analyst
+- [ ] https://job-boards.greenhouse.io/mesh/jobs/5199190008 | Mesh | Senior QA Automation Engineer
+- [ ] https://ripple.com/careers/all-jobs/job/7604397?gh_jid=7604397 | Ripple | Staff Security Engineer, Secure Digital Asset Operations
+- [ ] https://www.opendoor.com/careers/open-positions?gh_jid=4639044006 | Opendoor | Finance Automation Lead
+- [ ] https://job-boards.greenhouse.io/goatgroup/jobs/4684581005 | GOAT Group | Asset Protection Associate
+- [ ] http://block.xyz/careers/jobs/5094668008?gh_jid=5094668008 | Block | Senior Manufacturing Test Engineer
+- [ ] http://block.xyz/careers/jobs/5160250008?gh_jid=5160250008 | Block | Territory Account Executive, Somerset 
+- [ ] https://careers.hellofresh.com/global/en/job/7825400?gh_jid=7825400 | HelloFresh | Asset Protection Specialist 
+- [ ] https://careers.hellofresh.com/global/en/job/7722066?gh_jid=7722066 | HelloFresh | Automation Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/7471008?gh_jid=7471008 | HelloFresh | Food Safety Quality Assurance Manager - Downstream
+- [ ] https://careers.hellofresh.com/global/en/job/7454609?gh_jid=7454609 | HelloFresh | Freelance Senior Technical Project Manager - FSQA Processes & Systems (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7768210?gh_jid=7768210 | HelloFresh | FSQA Manager
+- [ ] https://careers.hellofresh.com/global/en/job/7741140?gh_jid=7741140 | HelloFresh | FSQA Manager (M/F/X)
+- [ ] https://careers.hellofresh.com/global/en/job/7493238?gh_jid=7493238 | HelloFresh | FSQA Specialist
+- [ ] https://careers.hellofresh.com/global/en/job/7818355?gh_jid=7818355 | HelloFresh | FSQA Supervisor
+- [ ] https://careers.hellofresh.com/global/en/job/7809227?gh_jid=7809227 | HelloFresh | FSQA Technician
+- [ ] https://careers.hellofresh.com/global/en/job/7681488?gh_jid=7681488 | HelloFresh | [HELLOCONNECT] FSQA Specialist - Project Based
+- [ ] https://careers.hellofresh.com/global/en/job/7455019?gh_jid=7455019 | HelloFresh | Manager, Food Safety & Quality Assurance
+- [ ] https://careers.hellofresh.com/global/en/job/7720825?gh_jid=7720825 | HelloFresh | Site QA/QC Specialist (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/7722089?gh_jid=7722089 | HelloFresh | [US-HQ] Senior Director, FSQA
+
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4518804101 | Bitpanda | Senior Software Engineer, Python (Asset Pricing & Hedging)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5670526004 | ClickHouse | QA Engineer - Core Database (remote)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5813433004 | ClickHouse | Release Engineer - Data Plane
+- [ ] https://ripple.com/careers/all-jobs/job/7836928?gh_jid=7836928 | Ripple | Staff Security Engineer, Secure Digital Asset Operations
+
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4675230101 | Bitpanda | Senior Software Engineer, Python (Asset Pricing & Hedging)
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/5654025004 | ClickHouse | QA Engineer - Core Database (remote)
+
+- [ ] https://ripple.com/careers/all-jobs/job/7861823?gh_jid=7861823 | Ripple | Staff Security Engineer, Secure Digital Asset Operations
+
+- [ ] https://www.okta.com/company/careers/opportunity/7840415?gh_jid=7840415 | Okta | Senior Software Engineer in Test
+
+- [ ] https://careers.hellofresh.com/global/en/job/7515898?gh_jid=7515898 | HelloFresh | Manager Int'l FSQA Quality Surveillance (all genders)
+
+- [ ] https://careers.hellofresh.com/global/en/job/7866227?gh_jid=7866227 | HelloFresh | Asset Protection Specialist 
+
+- [ ] https://job-boards.greenhouse.io/zocdoc/jobs/7821433 | Zocdoc | Staff Quality Assurance Engineer
+
+- [ ] https://careers.airbnb.com/positions/7863467?gh_jid=7863467 | Airbnb | Senior Automation Engineer, Quality Platform
+
+- [ ] https://ripple.com/careers/all-jobs/job/7866617?gh_jid=7866617 | Ripple | Financial Controller - Digital Assets
+- [ ] https://careers.hellofresh.com/global/en/job/7852664?gh_jid=7852664 | HelloFresh | [US DC] Manager, Asset Protection
+
+- [ ] https://sofi.com/careers/job/7719882003?gh_jid=7719882003 | SoFi | Fraud Quality Assurance Specialist
+- [ ] https://ripple.com/careers/all-jobs/job/7866596?gh_jid=7866596 | Ripple | Financial Controller - Digital Assets
+- [ ] https://job-boards.greenhouse.io/goatgroup/jobs/4690529005 | GOAT Group | Asset Protection Associate
+
+- [ ] https://careers.hellofresh.com/global/en/job/7866849?gh_jid=7866849 | HelloFresh | FSQA Technician
+
+- [ ] https://job-boards.greenhouse.io/stockx/jobs/8521478002 | StockX | Software Development Engineer in Test
+
+- [ ] https://careers.hellofresh.com/global/en/job/7651743?gh_jid=7651743 | HelloFresh | Associate Quality Manager
+
+- [ ] https://jobs.ashbyhq.com/openai/1ac47cd0-b12a-4345-aecf-406f9e554b6c | OpenAI | Manufacturing Quality Engineer, Datacenter Infrastructure - Stargate
+
+- [ ] https://jobs.lever.co/zoox/f4746da4-8eb8-43e2-b7ce-bf3c7cf9640d | Zoox | Autonomy System Test Engineer
+
+- [ ] https://ripple.com/careers/all-jobs/job/7851613?gh_jid=7851613 | Ripple | Lead Product Manager, Settlement & Billing
+
+- [ ] https://www.samsara.com/company/careers/roles/7610376?gh_jid=7610376 | Samsara | Senior Automation Engineer (HIL)
+
+- [ ] https://jobs.ashbyhq.com/snowflake/aef2336b-1975-430f-a518-20892a87fb25 | Snowflake | Principal Solution Engineer - Wealth & Asset Management
+
+- [ ] https://careers.hellofresh.com/global/en/job/7869765?gh_jid=7869765 | HelloFresh | Automation Engineer (all genders)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8535812002 | Databricks | Sr. Manager, Field Engineering Qatar&Africa
+- [ ] https://sofi.com/careers/job/7721836003?gh_jid=7721836003 | SoFi | Quality Assurance Analyst
+
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/7909448 | Box | AI Business Automation Engineer
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7713577003 | Affirm | Quality Assurance Specialist II
+- [ ] https://job-boards.greenhouse.io/runpod/jobs/5173089008 | RunPod | Technical Content QA Contractor, Programmatic SEO and AEO
+- [ ] https://jobs.lever.co/zoox/7fee7a09-2090-47d7-a3ad-c6ddbc319695 | Zoox | Supplier Quality Engineer
+- [ ] https://jobs.lever.co/zoox/62adaf80-43a9-4210-a908-7b714bfea84b | Zoox | Validation Test Engineer, Test Set Curation
+
+- [ ] https://job-boards.greenhouse.io/affirm/jobs/7713575003 | Affirm | Quality Assurance Specialist II
+
+- [ ] https://jobs.lever.co/zoox/25e3889e-1dfa-4f8c-ab27-f6e17604164f | Zoox | Software Development Engineer in Test, Product Software
+- [ ] https://careers.hellofresh.com/global/en/job/7920838?gh_jid=7920838 | HelloFresh | Food Safety and Quality Specialist
+- [ ] https://careers.hellofresh.com/global/en/job/7916857?gh_jid=7916857 | HelloFresh | FSQA Technologist
+- [ ] https://careers.hellofresh.com/global/en/job/6963655?gh_jid=6963655 | HelloFresh | ISQA Stock Controller - Days
+- [ ] https://careers.hellofresh.com/global/en/job/7920836?gh_jid=7920836 | HelloFresh | QA Technologist 
+
+- [ ] http://block.xyz/careers/jobs/5215553008?gh_jid=5215553008 | Block | Product Compliance Manager, Bitcoin & Digital Assets
+
+- [ ] https://job-boards.greenhouse.io/komodohealth/jobs/8549756002 | KomodoHealth | Senior Data Quality Analyst
+
+- [ ] https://careers.hellofresh.com/global/en/job/7927153?gh_jid=7927153 | HelloFresh | Asset Protection Specialist 
+
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4591201101 | Bitpanda | Software Engineer, Python (Asset Pricing & Hedging)
+
+- [ ] https://job-boards.greenhouse.io/checkr/jobs/7921301 | Checkr | Quality Assurance Specialist, Truework
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4868054101 | Bitpanda | Software Engineer, Python (Asset Pricing & Hedging)
+
+- [ ] https://jobs.ashbyhq.com/cursor/c2d508cc-921f-4cd9-9d1b-19018fbc68e3 | Cursor | Product Quality Engineer
+
+- [ ] https://www.okta.com/company/careers/opportunity/7926062?gh_jid=7926062 | Okta | Data Quality Analyst II
+
+- [ ] https://jobs.lever.co/outreach/217c54ab-1f63-46df-adb1-eb125a2f259f | Outreach | Staff Test Engineer - AI
+
+- [ ] https://www.fireblocks.com/careers/position/4682157006?gh_jid=4682157006 | Fireblocks | Senior QA Automation Engineer (Financial Apps)
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8544165002 | Databricks | Senior Solutions Engineer - Qatar & S.Africa Fly-in
+
+- [ ] https://jobs.lever.co/zoox/38dd64ad-bbaf-41b2-a6a0-91b25920284f | Zoox | Software Development Engineer in Test, Operational Tools
+
+- [ ] https://www.okta.com/company/careers/opportunity/7708688?gh_jid=7708688 | Okta | Staff Software Engineer in Test
+- [ ] https://job-boards.greenhouse.io/postman/jobs/7728893003 | Postman | IT Procurement & Asset Management Specialist
+
+- [ ] https://www.pinterestcareers.com/jobs/?gh_jid=7943697 | Pinterest | Sr. SDET, tvScientific
+- [ ] https://jobs.lever.co/zoox/ffb6c8ea-a939-4440-819c-c737737ae6de | Zoox | Senior Platform System Vehicle Test Engineer
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5224564008 | Anthropic | Performance Engineer, Inference Systems
+
+- [ ] https://www.workato.com/careers?gh_jid=8516229002#open-roles | Workato | Staff Automation Engineer
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6002070004 | Alpaca | Lead Product Manager, Money Movement & Settlements  
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6002073004 | Alpaca | Product Manager, Money Movement & Settlements  
+
+- [ ] https://www.okta.com/company/careers/opportunity/7708684?gh_jid=7708684 | Okta | Staff Software Engineer in Test
+
+- [ ] https://jobs.lever.co/outreach/2f722a41-5f1a-4bf1-9689-197386344ae7 | Outreach | Senior QA Engineer
+
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6002074004 | Alpaca | Product Manager, New Assets  
+
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4873549101 | Bitpanda | Specialist, Securities Platform, Corporate Actions & Asset Servicing
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4873545101 | Bitpanda | Specialist, Securities Platform, Settlements & Reconciliations
+
+- [ ] https://jobs.ashbyhq.com/snowflake/c7726fbb-9557-4d6d-b7d2-e1d0ed9509c2 | Snowflake | Principal Solution Engineer - Wealth & Asset Management
+
+- [ ] https://www.cockroachlabs.com/careers/job/?gh_jid=7774966 | CockroachLabs | Member of Technical Staff (Test Engineering)
+- [ ] https://boards.greenhouse.io/faire/jobs/8564497002?gh_jid=8564497002 | Faire | IT Operations Automation Engineer
+
+- [ ] https://jobs.lever.co/zoox/51ebb71f-d156-4506-96ec-52d7c3af4ae6 | Zoox | Senior Enterprise QA Engineer
+
+- [ ] http://block.xyz/careers/jobs/5219924008?gh_jid=5219924008 | Block | Product Compliance Manager, Bitcoin & Digital Assets
+
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6001525004 | Grafana Labs | Senior Product Manager, Performance Testing | Canada | Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6005891004 | Grafana Labs | Senior Product Manager, Performance Testing | Germany | Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6005888004 | Grafana Labs | Senior Product Manager, Performance Testing | Ireland | Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6005889004 | Grafana Labs | Senior Product Manager, Performance Testing | Spain | Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6005893004 | Grafana Labs | Senior Product Manager, Performance Testing | Sweden | Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6005892004 | Grafana Labs | Senior Product Manager, Performance Testing | UK | Remote
+- [ ] https://job-boards.greenhouse.io/grafanalabs/jobs/6001524004 | Grafana Labs | Senior Product Manager, Performance Testing | US | Remote
+
+- [ ] https://job-boards.greenhouse.io/stockx/jobs/8521479002 | StockX | Software Development Engineer in Test
+
+- [ ] https://www.cockroachlabs.com/careers/job/?gh_jid=7950669 | CockroachLabs | Member of Technical Staff (Performance Engineering)
+
+- [ ] https://instacart.careers/job/?gh_jid=7964681 | Instacart | Senior Program Manager, Quality Assurance
+
+- [ ] https://instacart.careers/job/?gh_jid=7964683 | Instacart | Senior Program Manager, Quality Assurance
+
+- [ ] https://jobs.ashbyhq.com/writer/74a6d06e-3f38-44d0-9cb3-ee64fa857d12 | Writer | Software quality engineer (US)
+- [ ] https://jobs.ashbyhq.com/writer/b69a7c74-861f-4265-a5fa-8bc27f47d0c0 | Writer | Software quality engineer (UK)
+
+- [ ] https://careers.hellofresh.com/global/en/job/7423946?gh_jid=7423946 | HelloFresh | Market Automation Engineer (f/m/x)
+
+- [ ] https://jobs.ashbyhq.com/cohere/74856e86-8eeb-46ea-bf60-b4b4ad3352ae | Cohere | Senior Search Applications Performance Engineer
+
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7827723 | Toast | QA Engineer II
+
+- [ ] https://jobs.lever.co/zoox/89410e34-6554-4d41-89e3-35f403d72fe8 | Zoox | Release Engineer
+
+- [ ] https://careers.hellofresh.com/global/en/job/7974955?gh_jid=7974955 | HelloFresh | Asset Protection Specialist 
+
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4880524101 | Bitpanda | Software Engineer, Rust & Python (Asset Pricing & Hedging)
+- [ ] https://careers.hellofresh.com/global/en/job/7967787?gh_jid=7967787 | HelloFresh | Director, Value Stream FSQA
+- [ ] https://careers.hellofresh.com/global/en/job/7972623?gh_jid=7972623 | HelloFresh | [US HQ] Senior Expert, Value Stream FSQA
+
+- [ ] https://careers.hellofresh.com/global/en/job/7963186?gh_jid=7963186 | HelloFresh | [DACH MAG] Working Student FSQA and Quality Assurance (all genders)
+
+- [ ] https://jobs.ashbyhq.com/openai/3723ec14-404b-4b36-bf8a-d953781143a3 | OpenAI | Analytics & Automation Lead, User Safety & Risk Operations
+
+- [ ] https://careers.hellofresh.com/global/en/job/7978122?gh_jid=7978122 | HelloFresh | FSQA Team Lead ANZ - Innovation, Regulatory & Compliance
+
+- [ ] https://careers.hellofresh.com/global/en/job/7978710?gh_jid=7978710 | HelloFresh | FSQA Manager – Plant-Based Alternatives & Eggs (M/F/X)
+
+- [ ] https://careers.hellofresh.com/global/en/job/7980243?gh_jid=7980243 | HelloFresh | Food Safety & Quality Assurance Technician
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5237762008 | Anthropic | Staff Software Engineer, Infrastructure Asset Systems
+
+- [ ] https://careers.onepeloton.com/en/all-jobs/?gh_jid=7976899 | Peloton | Manufacturing Test Engineer III
+- [ ] https://www.okta.com/company/careers/opportunity/7978173?gh_jid=7978173 | Okta | Staff Software Engineer in Test
+
+- [ ] https://stripe.com/jobs/search?gh_jid=7767151 | Stripe | Senior Treasury Specialist, Digital Assets
+- [ ] http://block.xyz/careers/jobs/5012351008?gh_jid=5012351008 | Block | Silicon Product and Test Engineer
+
+- [ ] http://block.xyz/careers/jobs/5012353008?gh_jid=5012353008 | Block | Silicon Product and Test Engineer
+
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7980019 | DoorDash | Quality Assurance Auditor
+
+- [ ] https://jobs.ashbyhq.com/openai/94172ebc-2219-40b4-ae04-c10be0fd2158 | OpenAI | Manufacturing Test Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/7979048?gh_jid=7979048 | HelloFresh | Quality Assurance Supervisor
+
+- [ ] https://careers.upstart.com/jobs?gh_jid=7991223 | Upstart | Product Quality Manager
+
+- [ ] https://jobs.ashbyhq.com/openai/4cbbf0b1-7c0b-4c42-bf38-48377f847e91 | OpenAI | Technical Lead Manager - Training Runtime, Data(set) Movement
+
+- [ ] https://www.pinterestcareers.com/jobs/?gh_jid=7782544 | Pinterest | SDET II, tvScientific
+
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/5997570004 | Alpaca | Director, Digital Asset & Brokerage Operations
+
+- [ ] https://careers.airbnb.com/positions/7380262?gh_jid=7380262 | Airbnb | Senior Automation Engineer, Infrastructure
+
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8585873002 | Databricks | Senior Solutions Engineer - Qatar & S.Africa Fly-in
+
+- [ ] https://careers.hellofresh.com/global/en/job/7991098?gh_jid=7991098 | HelloFresh | [US-DC] Quality Assurance Supervisor
+
+- [ ] https://careers.hellofresh.com/global/en/job/7976578?gh_jid=7976578 | HelloFresh |  Senior FSQA Manager p (x/f/m)
+- [ ] https://careers.hellofresh.com/global/en/job/7988877?gh_jid=7988877 | HelloFresh | Team Lead FSQA (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/7996932?gh_jid=7996932 | HelloFresh | Teamleitung FSQA (all genders)
+
+- [ ] https://careers.toasttab.com/jobs?gh_jid=7988414 | Toast | Senior QA Automation Engineer
+
+- [ ] https://jobs.lever.co/whoop/36e09b84-4b35-4434-b5d0-37c5df8eed56 | Whoop | Field Quality Manager
+
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8001229 | DoorDash | IT Software Asset Management Analyst
+
+- [ ] https://www.okta.com/company/careers/opportunity/8010671?gh_jid=8010671 | Okta | Staff Software Engineer in Test, Linux 
+- [ ] https://careers.airbnb.com/positions/8022261?gh_jid=8022261 | Airbnb | Senior QE Lead, Infrastructure
+- [ ] https://careers.airbnb.com/positions/8039723?gh_jid=8039723 | Airbnb | Senior Staff Software Engineer, Host Pricing & Settings
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8017150 | DoorDash | Reliability Test Engineer
+- [ ] https://jobs.ashbyhq.com/notion/f76618cc-f961-4d49-8ead-6eadcdebd0b4 | Notion | QA Manager
+- [ ] https://job-boards.greenhouse.io/checkr/jobs/8030994 | Checkr | Income Verification QA Analyst, Truework
+- [ ] https://jobs.ashbyhq.com/snowflake/c43a1579-20bf-4811-a591-57b0d8aa8d57 | Snowflake | Infrastructure Automation Engineer - Poland
+- [ ] https://jobs.ashbyhq.com/plaid/07cde72b-a127-48a8-b01a-570de5768340 | Plaid | Staff Site Reliability Engineer, Release Engineering
+- [ ] https://www.samsara.com/company/careers/roles/7867789?gh_jid=7867789 | Samsara | Manager II - IT  Automation Engineer
+- [ ] https://www.samsara.com/company/careers/roles/7767916?gh_jid=7767916 | Samsara | Sr. Image Quality Software Engineer
+- [ ] https://jobs.ashbyhq.com/openai/3fe77c71-1f20-45b5-8291-62f0d2104989 | OpenAI | System Performance Engineer, Consumer Devices
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8556252002 | Databricks | Enterprise Account Executive - Qatar
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8605158002 | Databricks | Solutions Architect - Financial Services (Asset and Wealth Management)
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8570078002 | Databricks | Sr. Solutions Architect - Financial Services (Wealth and Asset Management)
+- [ ] https://www.pinterestcareers.com/jobs/?gh_jid=8011568 | Pinterest | SDET II, tvScientific
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/5997571004 | Alpaca | Director of Operations, Digital Assets  
+- [ ] https://sofi.com/careers/job/7784610003?gh_jid=7784610003 | SoFi | Loan Setup Analyst
+- [ ] https://job-boards.greenhouse.io/komodohealth/jobs/8603901002 | KomodoHealth | Quality Specialist
+- [ ] https://careers.onepeloton.com/en/all-jobs/?gh_jid=7657665 | Peloton | Sr. Software Development Engineer in Test
+- [ ] https://job-boards.greenhouse.io/stockx/jobs/8603944002 | StockX | Software Development Engineer in Test
+- [ ] https://job-boards.greenhouse.io/stockx/jobs/8603920002 | StockX | Software Development Engineer in Test - Buyer Experience
+- [ ] https://careers.hellofresh.com/global/en/job/7974300?gh_jid=7974300 | HelloFresh | Analyst, ICQA Operational Excellence
+- [ ] https://careers.hellofresh.com/global/en/job/7974294?gh_jid=7974294 | HelloFresh | Analyst, ICQA Operational Excellence 
+- [ ] https://careers.hellofresh.com/global/en/job/8025059?gh_jid=8025059 | HelloFresh | Associate Director, FSQA
+- [ ] https://careers.hellofresh.com/global/en/job/7846756?gh_jid=7846756 | HelloFresh | Automation Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8009998?gh_jid=8009998 | HelloFresh | FSQA Manager (x/f/m)
+- [ ] https://careers.hellofresh.com/global/en/job/8025055?gh_jid=8025055 | HelloFresh | FSQA Supervisor
+- [ ] https://careers.hellofresh.com/global/en/job/8021410?gh_jid=8021410 | HelloFresh | Lead Asset Protection Specialist 
+- [ ] https://careers.hellofresh.com/global/en/job/8025063?gh_jid=8025063 | HelloFresh | Lead Automation Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8020924?gh_jid=8020924 | HelloFresh | Site QA/QC Specialist (f/m/x)
+- [ ] https://careers.hellofresh.com/global/en/job/7989271?gh_jid=7989271 | HelloFresh | Team Lead Supplier FSQA (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8026508?gh_jid=8026508 | HelloFresh | [US HFDN] Asset Protection Senior Specialist- SOC
+- [ ] https://careers.hellofresh.com/global/en/job/7972625?gh_jid=7972625 | HelloFresh | [US HQ] Senior Expert, Value Stream FSQA
+- [ ] https://jobs.lever.co/zoox/b346616d-9891-4c68-a8ac-22bd97feac01 | Zoox | Senior Software Engineer, Test Infrastructure
+
+- [ ] https://job-boards.greenhouse.io/stockx/jobs/8602119002 | StockX | Software Development Engineer in Test
+
+- [ ] https://www.okta.com/company/careers/opportunity/7978171?gh_jid=7978171 | Okta | Staff Software Engineer in Test
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5203506008 | Anthropic | Strategic Account Executive, Asset & Wealth Management - FSI
+- [ ] https://boards.greenhouse.io/flexport/jobs/8015840?gh_jid=8015840 | Flexport | Automation Engineer I
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6105350004 | ClickHouse | Senior Security Automation Engineer
+- [ ] https://careers.upstart.com/jobs?gh_jid=8044039 | Upstart | Senior Manager, Asset Quality & Model Oversight
+- [ ] https://www.fireblocks.com/careers/4682157006?gh_jid=4682157006 | Fireblocks | Senior QA Engineer (Financial Apps)
+- [ ] https://jobs.lever.co/zoox/019b636a-23c9-4366-90fd-5a95ad9e5049 | Zoox | Part-time Student Worker – Software Development Engineer in Test
+- [ ] https://jobs.lever.co/zoox/c8924164-2a47-4700-9686-c0783fa6dc25 | Zoox | Systems Test Engineer, System Behavior Analysis
+
+- [ ] https://job-boards.greenhouse.io/clickhouse/jobs/6105352004 | ClickHouse | Senior Security Automation Engineer
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5301883008 | Anthropic | Senior Business Systems Analyst, Finance Systems (Assets & Lease Management)
+
+- [ ] https://careers.airbnb.com/positions/8053429?gh_jid=8053429 | Airbnb | Quality Analyst, Premium Support (German/English)
+
+- [ ] https://job-boards.greenhouse.io/flexport/jobs/8015840 | Flexport | Automation Engineer I
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6111625004?gh_jid=6111625004 | Figma | Technical Quality Specialist 
+- [ ] https://job-boards.greenhouse.io/cerebral/jobs/7478491003 | Cerebral | Therapy Associate - Massachusetts 
+
+- [ ] https://www.okta.com/company/careers/opportunity/8054890?gh_jid=8054890 | Okta | Staff Software Engineer in Test
+- [ ] https://careers.airbnb.com/positions/7380185?gh_jid=7380185 | Airbnb | Staff Web Automation Engineer, Quality Engineering
+- [ ] https://job-boards.greenhouse.io/discord/jobs/8637648002 | Discord | QA/DevOps Engineer
+- [ ] https://jobs.lever.co/whoop/11d5a8eb-400e-4e30-9c85-5f9f818e0de1 | Whoop | NPI Quality Engineer II, Accessories
+- [ ] https://careers.upstart.com/jobs?gh_jid=8064636 | Upstart | Asset Quality & Model Analyst
+- [ ] https://careers.hellofresh.com/global/en/job/8068575?gh_jid=8068575 | HelloFresh | Manager, Asset Protection
+- [ ] https://jobs.lever.co/zoox/eefe4c91-8a7f-46c4-9db2-ba5e8d6c913f | Zoox | Senior Program Manager, Quality Assurance
+
+- [ ] https://www.okta.com/company/careers/opportunity/8068775?gh_jid=8068775 | Okta | Staff Software Engineer in Test
+
+- [ ] https://www.okta.com/company/careers/opportunity/8069707?gh_jid=8069707 | Okta | Senior Software Engineer in Test, Federal Classified
+- [ ] https://stripe.com/jobs/search?gh_jid=8038771 | Stripe | Staff Engineer, Release Engineering
+- [ ] https://job-boards.greenhouse.io/mercury/jobs/6120010004 | Mercury | Senior Customer Support Quality Analyst
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6117147004 | Alpaca | Settlements Associate
+- [ ] https://jobs.lever.co/zoox/b5f6f5f4-1a0a-42a2-a72b-f4ed5c3be562 | Zoox | Software Development Engineer in Test, Machine Learning
+- [ ] https://job-boards.greenhouse.io/stockx/jobs/8639352002 | StockX | Assistant Asset Protection Manager (EHS Focus)
+
+- [ ] https://jobs.ashbyhq.com/n8n/5afbde12-defb-457d-a21e-584347141436 | n8n | IT Systems & Automation Engineer
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4607930005 | Scale AI | Strategist, Qatar
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6114845004 | Alpaca | Senior Software Engineer, Quality Engineering
+- [ ] https://job-boards.greenhouse.io/goatgroup/jobs/4717266005 | GOAT Group | Asset Protection Associate
+- [ ] https://careers.hellofresh.com/global/en/job/8079790?gh_jid=8079790 | HelloFresh | Quality Assurance Associate
+
+- [ ] https://careers.hellofresh.com/global/en/job/8076104?gh_jid=8076104 | HelloFresh | QA Systems Officer
+- [ ] https://jobs.lever.co/zoox/d939f359-805f-45c7-bac2-35e137d1f65b | Zoox | Senior / Staff Quality Engineer
+
+- [ ] https://jobs.ashbyhq.com/snowflake/4dc43f58-c665-4b8e-b9a9-3ca9ad76951c | Snowflake | Solution Engineer - Insurance & Asset Management
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8028658 | DoorDash | Associate, Project Management, Asset Protection and Safety
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8082005 | DoorDash | Flight Test Engineer
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8082056?t=gh_src=&gh_jid=8082056 | Robinhood | Staff Quality Engineer  
+- [ ] https://careers.hellofresh.com/global/en/job/8081523?gh_jid=8081523 | HelloFresh | FSQA Technician
+- [ ] https://careers.hellofresh.com/global/en/job/8081242?gh_jid=8081242 | HelloFresh | [HELLOCONNECT] Quality Assurance Specialist
+- [ ] https://jobs.lever.co/zoox/c794f77e-c39d-44f2-9309-8bc904e0f868 | Zoox | Part-Time Student Worker System Test Engineer
+
+- [ ] https://careers.hellofresh.com/global/en/job/8084098?gh_jid=8084098 | HelloFresh | Asset Protection Specialist 
+
+- [ ] https://jobs.ashbyhq.com/supabase/f6035bf8-4f44-4425-9944-d5509a3c8652 | Supabase | Release Engineer
+
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8648964002 | GitLab | Enterprise QA Engineer, Salesforce 
+- [ ] https://jobs.ashbyhq.com/supabase/98ef6a11-9898-4960-9931-1264285849f3 | Supabase | Performance Engineer - Performance Analysis & Tuning
+- [ ] https://jobs.ashbyhq.com/supabase/11beb619-0c25-4b11-9818-3f18e278c65b | Supabase | Performance Engineer - Benchmarking
+
+- [ ] https://www.coinbase.com/careers/positions/8054055?gh_jid=8054055 | Coinbase | Senior IT Automation Engineer
+
+- [ ] https://www.coinbase.com/careers/positions/8095207?gh_jid=8095207 | Coinbase | Senior IT Automation Engineer
+
+- [ ] https://jobs.lever.co/zoox/99113e00-d810-47e5-bb31-997eb6d9afaa | Zoox | Senior Manufacturing Test Engineer
+- [ ] https://jobs.lever.co/zoox/ec7c3f40-ec58-445e-ad01-8cc3d639680c | Zoox | Senior Quality Engineer, Advanced Hardware Manufacturing
+
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8083466 | Toast | Senior QA Engineer - Enterprise Drive-thru
+
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8077850 | Box | AI Business Automation Engineer
+
+- [ ] https://www.coinbase.com/careers/positions/8095252?gh_jid=8095252 | Coinbase | Senior Software Engineer, Backend - Platform (Tokens & Wrapped Assets)
+
+- [ ] https://www.fireblocks.com/careers/position?gh_jid=4682157006 | Fireblocks | Senior QA Engineer (Financial Apps)
+
+- [ ] https://careers.airbnb.com/positions/8015163?gh_jid=8015163 | Airbnb | Quality Specialist, Hosting
+- [ ] https://stripe.com/jobs/search?gh_jid=7742552 | Stripe | Enterprise Risk Management (ERM) Program & Automation Lead, MALPB
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8096813 | Box | GRC Controls Automation Engineer
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/7983501 | DoorDash | Manager, Quality Assurance
+- [ ] https://jobs.ashbyhq.com/snowflake/a406eda8-2314-416f-82ba-6b5d1d92b81c | Snowflake | Solution Engineer - Insurance & Asset Management
+- [ ] https://jobs.ashbyhq.com/ramp/4d3197eb-49dc-4827-a1e6-26cf0ff24b55 | Ramp | Product Operations Specialist | Customer Setup
+- [ ] https://jobs.ashbyhq.com/openai/bb759305-03a3-442c-a694-ae9ef478b1fd | OpenAI | Asset Compliance Program Lead, Hardware
+- [ ] https://jobs.ashbyhq.com/elevenlabs/5bcd3475-8e38-42f1-897a-fa010ee6f9bd | ElevenLabs | Automation Engineer - Influencers
+- [ ] https://careers.hellofresh.com/global/en/job/8111616?gh_jid=8111616 | HelloFresh | Senior Marketing Automation Engineer (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8097766?gh_jid=8097766 | HelloFresh | [US DC] Lead Automation Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8100460?gh_jid=8100460 | HelloFresh | [US HQ] FSQA Manager, Quality Systems Compliance
+- [ ] https://jobs.lever.co/zoox/89d5927e-db67-443b-9dd2-53d367c11f9b | Zoox | Release Engineer
+
+- [ ] https://www.okta.com/company/careers/opportunity/7588357?gh_jid=7588357 | Okta | Senior Software Engineer in Test — macOS
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8109677 | Box | GRC Controls Automation Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8102697?gh_jid=8102697 | HelloFresh | Senior FSQA Manager - PHF (all genders)
+
+- [ ] https://www.okta.com/company/careers/opportunity/7920042?gh_jid=7920042 | Okta | Staff Software Engineer in Test
+- [ ] https://boards.greenhouse.io/robinhood/jobs/7739588?t=gh_src=&gh_jid=7739588 | Robinhood | Quality Engineer, Mobile
+- [ ] https://job-boards.greenhouse.io/discord/jobs/8703614002 | Discord | QA/DevOps Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8097807?gh_jid=8097807 | HelloFresh | Senior Automation Engineer
+
+- [ ] https://flatiron.com/careers/open-positions/job?gh_jid=8092475 | Flatiron Health | Product Manager, Real World Evidence (Data Generation and QA Systems)
+
+- [ ] https://ripple.com/careers/all-jobs/job/8129139?gh_jid=8129139 | Ripple | Engineering Manager, Digital Assets
+
+- [ ] https://careers.hellofresh.com/global/en/job/8132289?gh_jid=8132289 | HelloFresh | FSQA Supervisor (all genders)
+
+- [ ] https://jobs.lever.co/zoox/ee3d224f-fb03-4b28-ae55-aef094ea26b2 | Zoox | Supplier Quality Engineer
+
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8142285?t=gh_src=&gh_jid=8142285 | Robinhood | Senior Quality Engineer
+- [ ] https://job-boards.eu.greenhouse.io/bitpanda/jobs/4956324101 | Bitpanda | Software Engineer, Java (Asset Systems)
+- [ ] https://careers.hellofresh.com/global/en/job/8092439?gh_jid=8092439 | HelloFresh | FSQA Manager RTE (all genders)
+- [ ] https://careers.hellofresh.com/global/en/job/8141062?gh_jid=8141062 | HelloFresh | FSQA Specialist
+- [ ] https://careers.hellofresh.com/global/en/job/6359536?gh_jid=6359536 | HelloFresh | QA Technical Auditor - Nights
+
+- [ ] https://careers.hellofresh.com/global/en/job/8142932?gh_jid=8142932 | HelloFresh | Food Safety & Quality Assurance Technician
+- [ ] https://careers.hellofresh.com/global/en/job/8132017?gh_jid=8132017 | HelloFresh | [HELLOCONNECT] QA Coach - CFO
+
+- [ ] https://careers.hellofresh.com/global/en/job/8146886?gh_jid=8146886 | HelloFresh | Asset Protection Manager
+- [ ] https://jobs.lever.co/zoox/2bea4c87-47f3-40a6-801f-acfe7de88245 | Zoox | Senior Supplier Quality Engineer - Powertrain
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5397596008 | Anthropic | Senior Manufacturing Quality Engineer, Data Center Power & Cooling
+- [ ] https://careers.hellofresh.com/global/en/job/8138742?gh_jid=8138742 | HelloFresh | Asset Protection Manager
+- [ ] http://block.xyz/careers/jobs/5012352008?gh_jid=5012352008 | Block | Silicon Product & Test Engineer
+
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8148457 | DoorDash | Quality Assurance Supervisor
+- [ ] https://jobs.ashbyhq.com/openai/3fa44620-142a-47fe-b098-92923064d2f5 | OpenAI | Electrical Engineer, Actuator test infrastructure
+
+- [ ] https://jobs.ashbyhq.com/openai/ece054ea-ac75-4b8a-bdbf-5cdf19368312 | OpenAI | Manufacturing Quality Engineer – Datacenter Infrastructure
+
+- [ ] https://www.okta.com/company/careers/opportunity/8056207?gh_jid=8056207 | Okta | QA Automation Engineer, Professional Services R&D
+
+- [ ] https://careers.airbnb.com/positions/8154749?gh_jid=8154749 | Airbnb | Automation Engineer, Quality Engineering
+
+- [ ] https://www.workato.com/careers?gh_jid=8616337002#open-roles | Workato | Automation Engineer
+
+- [ ] https://stripe.com/jobs/search?gh_jid=8153331 | Stripe | Software Quality Assurance Engineer
+
+- [ ] https://jobs.ashbyhq.com/snowflake/da9101c0-c661-4238-b9df-426fb1998bb4 | Snowflake | Solution Engineer - Insurance & Asset Management
+- [ ] https://careers.hellofresh.com/global/en/job/8100461?gh_jid=8100461 | HelloFresh | FSQA Manager, Quality Systems Compliance
+
+- [ ] https://jobs.elastic.co/jobs?gh_jid=8154997&gh_jid=8154997 | Elastic | AI QA & Evaluation Engineer
+
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8159348?gh_jid=8159348 | Cloudflare | Software Engineer, Rulesets
+
+- [ ] https://careers.hellofresh.com/global/en/job/8163357?gh_jid=8163357 | HelloFresh | Food, Safety & Quality Lead 
+
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8071735 | Box | QA Engineer II
+- [ ] https://www.coinbase.com/careers/positions/7964410?gh_jid=7964410 | Coinbase | Staff Software Engineer, Developer Infrastructure (Test Infrastructure)
+- [ ] https://jobs.ashbyhq.com/openai/393b88d7-1fbc-466a-9108-a7c1bafeb8d8 | OpenAI | Systems Test Engineer, End-to-End Validation | Consumer Devices
+- [ ] https://careers.hellofresh.com/global/en/job/8144065?gh_jid=8144065 | HelloFresh | Food Safety & Quality Assurance Supervisor
+- [ ] https://careers.hellofresh.com/global/en/job/8171178?gh_jid=8171178 | HelloFresh | FSQA Technician (12 Months Contract)
+- [ ] https://jobs.lever.co/zoox/972635b6-713a-44cf-b82f-87a504bcdf3f | Zoox | Senior Supplier Quality Engineer
+
+- [ ] https://job-boards.greenhouse.io/stockx/jobs/8755354002 | StockX | Software Development Engineer in Test
+
+- [ ] https://careers.hellofresh.com/global/en/job/8159769?gh_jid=8159769 | HelloFresh | Food Safety & Quality Assurance Supervisor
+
+- [ ] https://jobs.ashbyhq.com/snowflake/351f89c9-7502-4c5c-b600-b3a1192c45eb | Snowflake | Principal Software Engineer - Performance Engineering (Cloud Infrastructure)
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5357949008 | Anthropic | Senior Manager, Infrastructure Asset Accounting
+- [ ] https://www.samsara.com/company/careers/roles/8139255?gh_jid=8139255 | Samsara | Senior Manager, Quality Engineering
+- [ ] https://job-boards.greenhouse.io/gitlab/jobs/8730125002 | GitLab | Senior Release Engineer
+- [ ] https://jobs.ashbyhq.com/writer/59857771-c377-4815-bfea-1892169ce8e9 | Writer | Software quality engineer (UK)
+- [ ] https://careers.onepeloton.com/en/all-jobs/?gh_jid=8141576 | Peloton | Product Quality Engineer III
+- [ ] https://careers.onepeloton.com/en/all-jobs/?gh_jid=8141559 | Peloton | Sr. Product Quality Engineer
+- [ ] https://jobs.lever.co/zoox/ee4bcd02-44f2-483b-80ae-51b17abaae89 | Zoox | Plant Supplier Quality Engineer
+- [ ] https://careers.hellofresh.com/global/en/job/8164795?gh_jid=8164795 | HelloFresh | Area Manager I, FSQA
+- [ ] https://careers.hellofresh.com/global/en/job/8078149?gh_jid=8078149 | HelloFresh | Asset Protection, Senior Tech Specialist
+- [ ] https://careers.hellofresh.com/global/en/job/8186595?gh_jid=8186595 | HelloFresh | Asset Protection Specialist 
+- [ ] https://careers.hellofresh.com/global/en/job/8187208?gh_jid=8187208 | HelloFresh | FSQA Technician
+- [ ] https://careers.hellofresh.com/global/en/job/8186456?gh_jid=8186456 | HelloFresh | Quality Lead
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8779925002?gh_jid=8779925002 | Lyft | Manufacturing Test Engineer, Lyft Urban Solutions
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5418323008 | Anthropic | Performance Engineer, Inference Engine
+- [ ] https://jobs.ashbyhq.com/openai/b71906c2-51a9-4ad7-a744-2390ccdc1ad8 | OpenAI | Quality Engineer, Rack Infrastructure & Site Operations
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8045309?gh_jid=8045309 | Cloudflare | Territory Account Executive, Qatar
+- [ ] https://job-boards.greenhouse.io/komodohealth/jobs/8789344002 | KomodoHealth | Senior Data Quality Analyst
+- [ ] https://jobs.lever.co/zoox/5fad000d-791f-4a0a-96da-65ca594160a9 | Zoox | Contract Student Worker - Forward Deployed Automation Engineer (40 hrs/wk)
+
+- [ ] https://www.okta.com/company/careers/opportunity/7744555?gh_jid=7744555 | Okta |  Senior Software Engineer in Test
+
+- [ ] https://jobs.ashbyhq.com/fullstory/95f96318-76e8-46b7-8dd9-a74379582e6f | FullStory | AI Automation Engineer
+- [ ] https://app.careerpuck.com/job-board/lyft/job/8760350002?gh_jid=8760350002 | Lyft | Software Engineer in Test, LUS
+
+- [ ] https://jobs.lever.co/zoox/48125a3d-c929-49f0-a045-b2492b3e5b5b | Zoox | Senior / Staff CAD BOM Quality Engineer
 
 ## Procesadas
 

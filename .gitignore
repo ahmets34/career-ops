@@ -39,5 +39,9 @@ bun.lock
 # Claude Code local
 .claude/settings.local.json
 .claude/memory/
+.claude/scheduled_tasks.lock
 career-dashboard
 package-lock.json
+
+# Playwright MCP debug artifacts
+.playwright-mcp/
