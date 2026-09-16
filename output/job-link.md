@@ -1,3 +1,42 @@
+## 2026-09-16 18:43 ET (API + WebSearch scan) — 25 new offers
+
+**Remote (US):**
+- [Flex — Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/flex/jobs/4726266005)
+- [Tech Holding — Senior SDET - Test Automation & Performance Engineering (Contract)](https://jobB-boards.greenhouse.io/techholding/jobs/4724476005)
+- [Upgrade — Senior QA Automation Engineer (Platform)](https://job-boards.greenhouse.io/upgrade/jobs/4724383005)
+- [ParetoHealth — QA Automation Engineer](https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4705528006)
+- [Kunai — Senior SDET](https://job-boards.greenhouse.io/kunai/jobs/5190826007)
+- [Synack — Senior SDET](https://job-boards.greenhouse.io/synack/jobs/8069252)
+- [Certa — Software Development Engineer in Test - SDET](https://jobs.ashbyhq.com/certa/b11ff3f4-b175-426a-a05a-f1b687cd5eda)
+- [Filevine — Senior Software Development Engineer in Test (SDET)](https://jobs.lever.co/filevine/584d7c80-5117-4f49-8c32-49d303b5df23)
+- [TTEC Digital — Senior QA / SDET Engineer](https://jobs.lever.co/ttecdigital/9ba7b645-76c0-449c-8500-f1b8ead9e78a)
+- [TTEC Digital — QA Lead / SDET Lead](https://jobs.lever.co/ttecdigital/cbb3cef5-15b0-4d58-9746-4e836ed496c5)
+- [BlastPoint — Senior Automation QA Engineer / SDET](https://remotive.com/remote/jobs/qa/senior-automation-qa-engineer-sdet-4808874)
+- [iRhythm — Senior Test Automation (SDET) Team Lead](https://himalayas.app/companies/irhythm/jobs/senior-test-automation-sdet-team-lead-platform-services-4041598473)
+- [Satellite Innovations — Senior SDET (JS/TypeScript/Playwright)](https://jobs.lever.co/SatelliteInnovations/dac95d31-24e7-489e-9627-612ef80b6edd)
+- [Netomi — Software Development Engineer In Test - I](https://jobs.lever.co/netomi/0480114c-b702-4340-94a7-2d9ef366dc8a)
+- [Jobgether — SDET/QA Automation Lead](https://jobs.lever.co/jobgether/237629d6-5634-4bdf-b424-ab29480e7290)
+- [Jobgether — Senior SDET Engineer](https://jobs.lever.co/jobgether/6f248863-c04a-4ce6-b69f-519cc0005cfd)
+- [Jobgether — Staff Software Engineer, Quality Engineering](https://jobs.lever.co/jobgether/5e4afea4-fc16-4e8d-9aa5-ceb94c568784)
+- [Neuroscale AI — QA Engineer](https://jobs.ashbyhq.com/neuroscale/c5340132-e651-4970-b4f0-3f5741aec79f)
+- [Bright Vision Technologies — SDET Engineer](https://himalayas.app/companies/bright-vision-technologies/jobs/sdet-engineer-6347837091)
+- [One — QA Engineer](https://wellfound.com/jobs/4248644-qa-engineer)
+- [Toptal — QA Automation Engineer — UI & API](https://weworkremotely.com/remote-jobs/toptal-qa-automation-engineer-ui-api)
+
+**Location-based (US):**
+- [Goods & Services — Senior SDET](https://job-boards.greenhouse.io/goodsservices/jobs/7898737003)
+- [Canopy — Senior QA Automation Engineer](https://job-boards.greenhouse.io/canopytax/jobs/4256955009)
+- [Western Climate Initiative — Software Development Engineer in Test (SDET)](https://builtin.com/job/software-development-engineer-test-sdet/9617047) _(Sacramento, CA)_
+- [AHU Technologies — SDET — Automated QA Engineer](https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa) _(Seattle, WA)_
+
+---
+
+## 2026-09-16 14:46 (scan.mjs — API scan)
+
+_(all results filtered out: 1 non-US location [Bangalore, India])_
+
+---
+
 ## 2026-09-13 18:45 (scan.mjs — API scan)
 
 _(no new offers this run)_

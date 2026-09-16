@@ -42,6 +42,31 @@
 - [ ] https://remotive.com/remote-jobs/qa/sdet-qa-engineer-1364520 | Gigster | SDET/QA Engineer
 - [ ] https://remotive.com/remote/jobs/qa/sdet-qa-automation-lead-3778571 | Cloudlinux | SDET/QA Automation Lead
 - [ ] https://remotive.com/remote-jobs/qa/sdet-qa-engineer-1992693 | Gigster | SDET/QA Engineer
+- [ ] https://job-boards.greenhouse.io/flex/jobs/4726266005 | Flex | Senior Software Development Engineer in Test (SDET)
+- [ ] https://job-boards.greenhouse.io/techholding/jobs/4724476005 | Tech Holding | Senior SDET - Test Automation & Performance Engineering (Contract Remote US)
+- [ ] https://job-boards.greenhouse.io/upgrade/jobs/4724383005 | Upgrade | Senior QA Automation Engineer (Platform)
+- [ ] https://job-boards.greenhouse.io/paretocaptiveservicesllc/jobs/4705528006 | ParetoHealth | QA Automation Engineer
+- [ ] https://job-boards.greenhouse.io/kunai/jobs/5190826007 | Kunai | Senior SDET
+- [ ] https://job-boards.greenhouse.io/synack/jobs/8069252 | Synack | Senior SDET
+- [ ] https://jobs.ashbyhq.com/certa/b11ff3f4-b175-426a-a05a-f1b687cd5eda | Certa | Software Development Engineer in Test - SDET
+- [ ] https://jobs.lever.co/filevine/584d7c80-5117-4f49-8c32-49d303b5df23 | Filevine | Senior Software Development Engineer in Test (SDET)
+- [ ] https://jobs.lever.co/ttecdigital/9ba7b645-76c0-449c-8500-f1b8ead9e78a | TTEC Digital | Senior QA / SDET Engineer
+- [ ] https://jobs.lever.co/ttecdigital/cbb3cef5-15b0-4d58-9746-4e836ed496c5 | TTEC Digital | QA Lead / SDET Lead
+- [ ] https://remotive.com/remote/jobs/qa/senior-automation-qa-engineer-sdet-4808874 | BlastPoint | Senior Automation QA Engineer / SDET
+- [ ] https://himalayas.app/companies/irhythm/jobs/senior-test-automation-sdet-team-lead-platform-services-4041598473 | iRhythm | Senior Test Automation (SDET) Team Lead
+- [ ] https://jobs.lever.co/SatelliteInnovations/dac95d31-24e7-489e-9627-612ef80b6edd | Satellite Innovations | Senior SDET (JS/TypeScript/Playwright)
+- [ ] https://jobs.lever.co/netomi/0480114c-b702-4340-94a7-2d9ef366dc8a | Netomi | Software Development Engineer In Test - I
+- [ ] https://jobs.lever.co/jobgether/237629d6-5634-4bdf-b424-ab29480e7290 | Jobgether | SDET/QA Automation Lead
+- [ ] https://jobs.lever.co/jobgether/6f248863-c04a-4ce6-b69f-519cc0005cfd | Jobgether | Senior SDET Engineer
+- [ ] https://jobs.lever.co/jobgether/5e4afea4-fc16-4e8d-9aa5-ceb94c568784 | Jobgether | Staff Software Engineer, Quality Engineering
+- [ ] https://jobs.ashbyhq.com/neuroscale/c5340132-e651-4970-b4f0-3f5741aec79f | Neuroscale AI | QA Engineer
+- [ ] https://himalayas.app/companies/bright-vision-technologies/jobs/sdet-engineer-6347837091 | Bright Vision Technologies | SDET Engineer
+- [ ] https://wellfound.com/jobs/4248644-qa-engineer | One | QA Engineer
+- [ ] https://weworkremotely.com/remote-jobs/toptal-qa-automation-engineer-ui-api | Toptal | QA Automation Engineer — UI & API
+- [ ] https://job-boards.greenhouse.io/goodsservices/jobs/7898737003 | Goods & Services | Senior SDET
+- [ ] https://job-boards.greenhouse.io/canopytax/jobs/4256955009 | Canopy | Senior QA Automation Engineer
+- [ ] https://builtin.com/job/software-development-engineer-test-sdet/9617047 | Western Climate Initiative | Software Development Engineer in Test (SDET)
+- [ ] https://weworkremotely.com/remote-jobs/ahu-technologies-sdet-automated-qa-engineer-seattle-wa | AHU Technologies | SDET — Automated QA Engineer
 
 - [x] #076 | https://jobs.lever.co/magnetforensics/a3da8213-9f7a-4900-9ac2-8553c5919dee | Magnet Forensics | Software Development Engineer in Test | 3.8/5 | PDF ❌
 - [!] https://job-boards.greenhouse.io/bpcs/jobs/7497300 | Blueprint Technologies | SDET — SKIP: closed Sept 2025, on-site Redmond WA, C++/hardware stack (1.5/5)
@@ -681,6 +706,14 @@
 - [ ] https://app.careerpuck.com/job-board/lyft/job/8760350002?gh_jid=8760350002 | Lyft | Software Engineer in Test, LUS
 
 - [ ] https://jobs.lever.co/zoox/48125a3d-c929-49f0-a045-b2492b3e5b5b | Zoox | Senior / Staff CAD BOM Quality Engineer
+
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5423737008 | Anthropic | IT Operations Engineer, Asset Management
+- [ ] https://jobs.ashbyhq.com/openai/65b255da-4fd9-414e-98d4-0bec4eecf8ff | OpenAI | Product Manufacturing & Quality Engineer 
+- [ ] https://job-boards.greenhouse.io/alpaca/jobs/6186981004 | Alpaca | Global Settlements Associate 1 
+- [ ] https://careers.onepeloton.com/en/all-jobs/?gh_jid=8141557 | Peloton | Sr. Product Quality Engineer
+- [ ] https://job-boards.greenhouse.io/stockx/jobs/8790339002 | StockX | Software Development Engineer in Test
+
+- [ ] https://job-boards.greenhouse.io/stockx/jobs/8790338002 | StockX | Software Development Engineer in Test
 
 ## Procesadas
 
