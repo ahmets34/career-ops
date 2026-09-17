@@ -1,3 +1,29 @@
+## 2026-09-17 10:17 ET (WebSearch scan) — 16 new offers
+
+_Note: `scan.mjs` (zero-token API scan) could not reach any ATS API this run — outbound egress in this environment is allowlist-restricted and returned HTTP 403 for all 147 tracked companies (Greenhouse, Ashby, Lever, etc.). Fell back to WebSearch per the documented fallback. Playwright is also unavailable in this environment (browser binary download blocked), so Level-3 liveness verification could not be performed — treat these as **unconfirmed**; verify manually before applying. Filtered to US-based only (explicit "United States" / US city-state / US-only qualifier); ambiguous "Remote" postings with no US qualifier, and non-US locations (LATAM, EU, PK, etc.), were excluded on this pass — some may resurface if they add a clearer location signal later, or you can review `data/scan-history.tsv` status `skipped_...` rows for the full excluded list
+
+**Remote (US):**
+- [Connexure — Senior SDET](https://job-boards.greenhouse.io/connexure/jobs/4324307009) _(US work authorization required)_
+- [Care Access — Senior Engineer, Test Automation](https://job-boards.greenhouse.io/careaccess/jobs/4309006009)
+- [Alpha Financial Markets Consulting — QA Engineer (Contract)](https://job-boards.greenhouse.io/alphafmcroles/jobs/8729829002)
+- [Jobgether — Test Automation Engineer](https://jobs.lever.co/jobgether/e1d19ea0-172f-47cd-bc91-7e9e670ebd47)
+- [Jobgether — SR QA Automation](https://jobs.lever.co/jobgether/45f3aa21-0a84-4657-ba08-45fe789b1e43)
+- [Jobgether — Sr. QA Automation Test Engineer](https://jobs.lever.co/jobgether/50f14e38-12b5-4008-8baf-6edc7ec2e644)
+- [Symmetrio — Lead QA Engineer - AI & Test Automation](https://apply.workable.com/symmetrio/j/825C994BE5/)
+- [Aequilibrium — Senior SDET - Backbase & Digital Banking](https://himalayas.app/companies/aequilibrium/jobs/senior-software-development-engineer-in-test-sdet-backbase-digital-banking) _(US/Canada/LatAm)_
+- [Nextech Systems — Lead Software Engineer in Test - Agentic AI](https://himalayas.app/companies/nextech-systems/jobs/lead-software-engineer-in-test-agentic-ai-remote-us)
+
+**Location-based (US):**
+- [RobCo — (Senior) Automation Engineer](https://jobs.ashbyhq.com/robco/d2e76c6d-272b-43c8-811c-b37991b6d774) _(Austin, TX)_
+- [BlackSky — Senior Software Engineer, Design in Test (SDET)](https://job-boards.greenhouse.io/blacksky/jobs/8610972002) _(Seattle/Tukwila, WA — Hybrid)_
+- [Accenture Federal Services — QA Automation Engineer](https://job-boards.greenhouse.io/accenturefederalservices/jobs/4700143006) _(US Federal contractor)_
+- [Two95 International Inc. — QA Automation Engineer](https://apply.workable.com/two95-international-inc-3/j/1BAC7DA995/) _(Charlotte, NC)_
+- [Crunchyroll — Senior SDET](https://www.linkedin.com/jobs/view/senior-sdet-at-crunchyroll-3943232520) _(United States)_
+- [Next Gen IT, Inc — Senior SDET](https://www.linkedin.com/jobs/view/senior-sdet-at-next-gen-it-inc-4450293348) _(United States)_
+- [insightsoftware — Senior QA Automation Engineer](https://www.linkedin.com/jobs/view/senior-qa-automation-engineer-at-insightsoftware-3511100133) _(Raleigh, NC)_
+
+---
+
 ## 2026-09-16 18:43 ET (API + WebSearch scan) — 25 new offers
 
 **Remote (US):**

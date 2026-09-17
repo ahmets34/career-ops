@@ -778,3 +778,19 @@
 - [ ] https://remotive.com/remote/jobs/qa/sdet-qa-engineer-1364520 | Gigster | SDET/QA Engineer
 - [ ] https://job-boards.greenhouse.io/flex/jobs/4626696005 | Flex | Senior Software Development Engineer in Test (SDET)
 - [ ] https://www.dice.com/job-detail/057bf1fd-f540-4137-ae52-6ec4dc49c993 | Lumen Solutions Group | Sr. QA Automation Engineer (ETL/Backend)
+- [ ] https://jobs.ashbyhq.com/robco/d2e76c6d-272b-43c8-811c-b37991b6d774 | RobCo | (Senior) Automation Engineer
+- [ ] https://job-boards.greenhouse.io/connexure/jobs/4324307009 | Connexure | Senior SDET
+- [ ] https://job-boards.greenhouse.io/blacksky/jobs/8610972002 | BlackSky | Senior Software Engineer, Design in Test (SDET)
+- [ ] https://job-boards.greenhouse.io/careaccess/jobs/4309006009 | Care Access | Senior Engineer, Test Automation
+- [ ] https://job-boards.greenhouse.io/alphafmcroles/jobs/8729829002 | Alpha Financial Markets Consulting | QA Engineer (Contract)
+- [ ] https://job-boards.greenhouse.io/accenturefederalservices/jobs/4700143006 | Accenture Federal Services | QA Automation Engineer
+- [ ] https://jobs.lever.co/jobgether/e1d19ea0-172f-47cd-bc91-7e9e670ebd47 | Jobgether | Test Automation Engineer
+- [ ] https://jobs.lever.co/jobgether/45f3aa21-0a84-4657-ba08-45fe789b1e43 | Jobgether | SR QA Automation
+- [ ] https://jobs.lever.co/jobgether/50f14e38-12b5-4008-8baf-6edc7ec2e644 | Jobgether | Sr. QA Automation Test Engineer
+- [ ] https://apply.workable.com/two95-international-inc-3/j/1BAC7DA995/ | Two95 International Inc. | QA Automation Engineer
+- [ ] https://apply.workable.com/symmetrio/j/825C994BE5/ | Symmetrio | Lead QA Engineer - AI & Test Automation
+- [ ] https://www.linkedin.com/jobs/view/senior-sdet-at-crunchyroll-3943232520 | Crunchyroll | Senior SDET
+- [ ] https://www.linkedin.com/jobs/view/senior-sdet-at-next-gen-it-inc-4450293348 | Next Gen IT, Inc | Senior SDET
+- [ ] https://www.linkedin.com/jobs/view/senior-qa-automation-engineer-at-insightsoftware-3511100133 | insightsoftware | Senior QA Automation Engineer
+- [ ] https://himalayas.app/companies/aequilibrium/jobs/senior-software-development-engineer-in-test-sdet-backbase-digital-banking | Aequilibrium | Senior SDET - Backbase & Digital Banking
+- [ ] https://himalayas.app/companies/nextech-systems/jobs/lead-software-engineer-in-test-agentic-ai-remote-us | Nextech Systems | Lead Software Engineer in Test - Agentic AI
