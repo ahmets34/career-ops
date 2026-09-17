@@ -794,3 +794,14 @@
 - [ ] https://www.linkedin.com/jobs/view/senior-qa-automation-engineer-at-insightsoftware-3511100133 | insightsoftware | Senior QA Automation Engineer
 - [ ] https://himalayas.app/companies/aequilibrium/jobs/senior-software-development-engineer-in-test-sdet-backbase-digital-banking | Aequilibrium | Senior SDET - Backbase & Digital Banking
 - [ ] https://himalayas.app/companies/nextech-systems/jobs/lead-software-engineer-in-test-agentic-ai-remote-us | Nextech Systems | Lead Software Engineer in Test - Agentic AI
+- [ ] https://job-boards.greenhouse.io/btig27/jobs/8661029002 | BTIG | Technology, Software Development Engineer in Test (SDET), Vice President
+- [ ] https://job-boards.greenhouse.io/fourhands/jobs/4330589009 | Four Hands | QA Automation Engineer
+- [ ] https://job-boards.greenhouse.io/logicgate/jobs/4727022005 | LogicGate | Test Engineer (SDET)
+- [ ] https://jobs.ashbyhq.com/StandardBots/04b31525-c965-4a6f-b276-de6086e331c3 | StandardBots | SDET - Senior Software Developer Engineer in Test (SDET)
+- [ ] https://jobs.ashbyhq.com/delos-data/3fa180fd-3ddf-4073-9a5f-1f051b189030 | Delos Data | Software Development Engineer in Test - AI
+- [ ] https://jobs.ashbyhq.com/ellipsis-health/54d12757-0f74-4c3b-bfb8-ac55dd5745fe | Ellipsis Health | Senior Software Development Engineer in Test (SDET) - Applications
+- [ ] https://builtin.com/job/software-development-engineer-test-i-sdet-i/10728487 | Best Buy | Software Development Engineer in Test I (SDET I)
+- [ ] https://builtin.com/job/software-development-engineer-test-sdet-avp/4477320 | Citi | Software Development Engineer in Test (SDET) - AVP
+- [ ] https://builtin.com/job/software-development-engineer-test-sdet/6239133 | Dewpoint | Software Development Engineer in Test (SDET)
+- [ ] https://builtin.com/job/software-development-engineer-test-sdet/6876861 | Orion Innovation | Software Development Engineer in Test (SDET)
+- [ ] https://himalayas.app/companies/bright-vision-technologies/jobs/test-automation-engineer-266572347 | Bright Vision Technologies | Test Automation Engineer

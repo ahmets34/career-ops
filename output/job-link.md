@@ -1,3 +1,24 @@
+## 2026-09-17 16:13 ET (WebSearch scan) — 11 new offers
+
+_Note: `scan.mjs` (zero-token API scan) could not reach any ATS API this run — outbound egress in this environment is allowlist-restricted and returned HTTP 403 for all tracked companies (Greenhouse, Ashby, Lever, etc.), same as the 10:17 ET run earlier today. Fell back to WebSearch per the documented fallback. Playwright is also unavailable in this environment (browser binary download blocked), so Level-3 liveness verification could not be performed — treat these as **unconfirmed**; verify manually before applying. Filtered to US-based only (explicit "United States" / US city-state / US-only qualifier); ambiguous "Remote" postings with no US qualifier, and non-US locations (Ireland, UK/Ukraine, Brazil/Argentina/Mexico, Pakistan, Canada without a US qualifier), were excluded on this pass
+
+**Remote (US):**
+- [LogicGate — Test Engineer (SDET)](https://job-boards.greenhouse.io/logicgate/jobs/4727022005) _(Remote / Chicago, IL / Bellevue, WA — hybrid options)_
+- [Ellipsis Health — Senior SDET - Applications](https://jobs.ashbyhq.com/ellipsis-health/54d12757-0f74-4c3b-bfb8-ac55dd5745fe)
+- [Orion Innovation — Software Development Engineer in Test (SDET)](https://builtin.com/job/software-development-engineer-test-sdet/6876861)
+- [Bright Vision Technologies — Test Automation Engineer](https://himalayas.app/companies/bright-vision-technologies/jobs/test-automation-engineer-266572347) _(Continental US)_
+
+**Location-based (US):**
+- [BTIG — Technology, SDET, Vice President](https://job-boards.greenhouse.io/btig27/jobs/8661029002) _(New York, NY / San Francisco, CA)_
+- [Four Hands — QA Automation Engineer](https://job-boards.greenhouse.io/fourhands/jobs/4330589009) _(Austin, TX)_
+- [StandardBots — SDET, Senior Software Developer Engineer in Test](https://jobs.ashbyhq.com/StandardBots/04b31525-c965-4a6f-b276-de6086e331c3) _(Glen Cove, NY)_
+- [Delos Data — Software Development Engineer in Test - AI](https://jobs.ashbyhq.com/delos-data/3fa180fd-3ddf-4073-9a5f-1f051b189030) _(Palo Alto, CA — Hybrid)_
+- [Best Buy — Software Development Engineer in Test I (SDET I)](https://builtin.com/job/software-development-engineer-test-i-sdet-i/10728487) _(Richfield, MN)_
+- [Citi — Software Development Engineer in Test (SDET) - AVP](https://builtin.com/job/software-development-engineer-test-sdet-avp/4477320) _(US — NY/Tampa)_
+- [Dewpoint — Software Development Engineer in Test (SDET)](https://builtin.com/job/software-development-engineer-test-sdet/6239133) _(Lansing, MI — onsite, US citizenship required)_
+
+---
+
 ## 2026-09-17 10:17 ET (WebSearch scan) — 16 new offers
 
 _Note: `scan.mjs` (zero-token API scan) could not reach any ATS API this run — outbound egress in this environment is allowlist-restricted and returned HTTP 403 for all 147 tracked companies (Greenhouse, Ashby, Lever, etc.). Fell back to WebSearch per the documented fallback. Playwright is also unavailable in this environment (browser binary download blocked), so Level-3 liveness verification could not be performed — treat these as **unconfirmed**; verify manually before applying. Filtered to US-based only (explicit "United States" / US city-state / US-only qualifier); ambiguous "Remote" postings with no US qualifier, and non-US locations (LATAM, EU, PK, etc.), were excluded on this pass — some may resurface if they add a clearer location signal later, or you can review `data/scan-history.tsv` status `skipped_...` rows for the full excluded list
