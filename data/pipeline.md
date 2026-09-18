@@ -715,6 +715,34 @@
 
 - [ ] https://job-boards.greenhouse.io/stockx/jobs/8790338002 | StockX | Software Development Engineer in Test
 
+- [ ] https://www.amazon.jobs/en/jobs/10544296/icqa-lead | Amazon Italia Logistica S.R.L. | ICQA Lead | Torrazza Piemonte, Piedmont, ITA | posted: 2026-09-16
+- [ ] https://www.amazon.jobs/en/jobs/10543873/avionics-test-engineer-avionics-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Avionics Test Engineer, Avionics - Amazon Leo | Redmond, Washington, USA | posted: 2026-09-15
+- [ ] https://www.amazon.jobs/en/jobs/10551384/sr-production-quality-engineer-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Sr. Production Quality Engineer, Amazon Leo | Kirkland, Washington, USA | posted: 2026-09-16
+- [ ] https://www.amazon.jobs/en/jobs/10551383/production-quality-manager-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Production Quality Manager, Amazon Leo | Kirkland, Washington, USA | posted: 2026-09-16
+- [ ] https://www.amazon.jobs/en/jobs/10544255/senior-automation-engineer | Amazon Logistic Prague s.r.o. | Senior Automation Engineer | Kojetín, Olomoucký kraj, CZE | posted: 2026-09-16
+- [ ] https://www.amazon.jobs/en/jobs/10538637/dynamics-test-engineer-2nd-shift-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Dynamics Test Engineer - 2nd Shift, Amazon Leo | Kirkland, Washington, USA | posted: 2026-09-14
+- [ ] https://www.amazon.jobs/en/jobs/10541287/quality-engineer-construction | Amazon Data Services, Inc. | Quality Engineer- Construction | Seattle, Washington, USA | posted: 2026-09-15
+- [ ] https://www.amazon.jobs/en/jobs/10537388/network-systems-development-engineer-corporate-network-automation-engineering | ADCI - Karnataka | Network Systems Development Engineer, Corporate Network Automation Engineering | Bengaluru, Karnataka, IND | posted: 2026-09-11
+- [ ] https://www.amazon.jobs/en/jobs/10538256/quality-assurance-engineer-1 | ADCI - Karnataka | Quality Assurance Engineer-1 | Bengaluru, Karnataka, IND | posted: 2026-09-13
+- [ ] https://www.amazon.jobs/en/jobs/10533022/senior-automation-engineer | Amazon.com Services LLC | Senior Automation Engineer | Fredericksburg, Virginia, USA | posted: 2026-09-08
+- [ ] https://www.amazon.jobs/en/jobs/10537192/quality-assurance-engineer-i-amazon-payment-services | ADCI MAA 15 SEZ | Quality Assurance Engineer I, Amazon Payment Services | Chennai, Tamil Nadu, IND | posted: 2026-09-11
+- [ ] https://www.amazon.jobs/en/jobs/10534459/senior-modem-ate-test-engineer-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Senior Modem ATE Test Engineer , Amazon Leo | San Diego, California, USA | posted: 2026-09-09
+- [ ] https://www.amazon.jobs/en/jobs/10533899/software-engineer-in-test-graviton-team | Annapurna Labs Ltd. | Software Engineer in Test , Graviton Team | Tel Aviv-Yafo, Tel Aviv, ISR | posted: 2026-09-09
+- [ ] https://www.amazon.jobs/en/jobs/10536827/quality-manager-amazon-manufacturing-services | Amazon.com Services LLC - A57 | Quality Manager, Amazon Manufacturing Services | Sumner, Washington, USA | posted: 2026-09-10
+- [ ] https://www.amazon.jobs/en/jobs/10538611/product-quality-engineer-robotics-manufacturing-and-technical-operations | Amazon.com Services LLC | Product Quality Engineer, Robotics Manufacturing and Technical Operations | Westboro, Wisconsin, USA | posted: 2026-09-14
+- [ ] https://www.amazon.jobs/en/jobs/10535470/automation-engineer | Amazon.com Services LLC | Automation Engineer | Baton Rouge, Louisiana, USA | posted: 2026-09-10
+
+- [ ] https://www.amazon.jobs/en/jobs/10551446/field-quality-assurance | Amazon Japan G.K. | Field Quality Assurance | Tokyo, JPN | posted: 2026-09-17
+
+- [ ] https://careers.hellofresh.com/global/en/job/8191257?gh_jid=8191257 | HelloFresh | \[US-DC\] Senior Quality Manager | Goodyear, AZ, United States | posted: 2026-09-17
+- [ ] https://www.amazon.jobs/en/jobs/10552215/sr-3gpp-ntn-systems-integration-and-test-engineer-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Sr. 3GPP NTN Systems Integration and Test Engineer, Amazon Leo | Redmond, Washington, USA | posted: 2026-09-17
+- [ ] https://www.amazon.jobs/en/jobs/10551728/automation-engineer-brs1-rme | Amazon UK Services Ltd. | Automation Engineer, BRS1 RME | Bristol, England, GBR | posted: 2026-09-17
+- [ ] https://www.amazon.jobs/en/jobs/10552040/electrical-test-engineer-ii-hardware-test-engineering | Amazon.com Services LLC | Electrical Test Engineer II, Hardware Test Engineering | Westboro, Wisconsin, USA | posted: 2026-09-17
+- [ ] https://www.amazon.jobs/en/jobs/10552280/air-quality-engineer-aws-environmental | Amazon Data Services, Inc. | Air Quality Engineer, AWS Environmental | Columbus, Ohio, USA | posted: 2026-09-17
+- [ ] https://www.amazon.jobs/en/jobs/10552245/quality-assurance-technician-music-visual-experience-team | ADCI - Karnataka | Quality Assurance Technician, Music Visual Experience Team | Bengaluru, Karnataka, IND | posted: 2026-09-17
+- [ ] https://www.amazon.jobs/en/jobs/10552246/quality-assurance-technician-amazon-music-visual-experience-team | ADCI - Karnataka | Quality Assurance Technician, Amazon Music Visual experience team | Bengaluru, Karnataka, IND | posted: 2026-09-17
+- [ ] https://www.amazon.jobs/en/jobs/10552150/quality-assurance-engineer-community-and-fandom-music | Servicios Comerciales Amazon Mexico S. de R.L. de C.V. | Quality Assurance Engineer, Community and Fandom - Music | Mexico City, Mexico City, MEX | posted: 2026-09-17
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅

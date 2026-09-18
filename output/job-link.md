@@ -1,3 +1,9 @@
+## 2026-09-17 22:59 ET (WebSearch scan)
+
+_(no new offers this run)_
+
+---
+
 ## 2026-09-17 16:13 ET (WebSearch scan) — 11 new offers
 
 _Note: `scan.mjs` (zero-token API scan) could not reach any ATS API this run — outbound egress in this environment is allowlist-restricted and returned HTTP 403 for all tracked companies (Greenhouse, Ashby, Lever, etc.), same as the 10:17 ET run earlier today. Fell back to WebSearch per the documented fallback. Playwright is also unavailable in this environment (browser binary download blocked), so Level-3 liveness verification could not be performed — treat these as **unconfirmed**; verify manually before applying. Filtered to US-based only (explicit "United States" / US city-state / US-only qualifier); ambiguous "Remote" postings with no US qualifier, and non-US locations (Ireland, UK/Ukraine, Brazil/Argentina/Mexico, Pakistan, Canada without a US qualifier), were excluded on this pass
@@ -48,6 +54,7 @@ _Note: `scan.mjs` (zero-token API scan) could not reach any ATS API this run —
 ## 2026-09-16 18:43 ET (API + WebSearch scan) — 25 new offers
 
 **Remote (US):**
+
 - [Flex — Senior Software Development Engineer in Test (SDET)](https://job-boards.greenhouse.io/flex/jobs/4726266005)
 - [Tech Holding — Senior SDET - Test Automation & Performance Engineering (Contract)](https://jobB-boards.greenhouse.io/techholding/jobs/4724476005)
 - [Upgrade — Senior QA Automation Engineer (Platform)](https://job-boards.greenhouse.io/upgrade/jobs/4724383005)
