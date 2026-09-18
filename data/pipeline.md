@@ -743,6 +743,8 @@
 - [ ] https://www.amazon.jobs/en/jobs/10552246/quality-assurance-technician-amazon-music-visual-experience-team | ADCI - Karnataka | Quality Assurance Technician, Amazon Music Visual experience team | Bengaluru, Karnataka, IND | posted: 2026-09-17
 - [ ] https://www.amazon.jobs/en/jobs/10552150/quality-assurance-engineer-community-and-fandom-music | Servicios Comerciales Amazon Mexico S. de R.L. de C.V. | Quality Assurance Engineer, Community and Fandom - Music | Mexico City, Mexico City, MEX | posted: 2026-09-17
 
+- [ ] https://www.amazon.jobs/en/jobs/10552694/sr-phased-array-ran-validation-engineer-leo-antenna-test-infrastructure | Amazon Kuiper Manufacturing Enterprises LLC | Sr. Phased Array & RAN Validation Engineer, LEO Antenna Test Infrastructure | San Diego, California, USA | posted: 2026-09-17
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
