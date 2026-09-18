@@ -745,6 +745,10 @@
 
 - [ ] https://www.amazon.jobs/en/jobs/10552694/sr-phased-array-ran-validation-engineer-leo-antenna-test-infrastructure | Amazon Kuiper Manufacturing Enterprises LLC | Sr. Phased Array & RAN Validation Engineer, LEO Antenna Test Infrastructure | San Diego, California, USA | posted: 2026-09-17
 
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8191597 | Toast | Senior Software Engineer, Release Engineering | Remote, US | posted: 2026-09-18
+
+- [ ] https://www.amazon.jobs/en/jobs/10553843/quality-assurance-engineer-prime-video-ads | Amazon.com Services LLC | Quality Assurance Engineer, Prime Video Ads | Seattle, Washington, USA | posted: 2026-09-18
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
