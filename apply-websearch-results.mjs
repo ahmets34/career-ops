@@ -150,6 +150,18 @@ async function main() {
     process.exit(1);
   }
 
+  // Sync with origin first, so dedup runs against the latest data and the
+  // local working copy is never stale after this script finishes -- also
+  // avoids the push-rejection conflict this repo hit before this safeguard
+  // existed (two writers appending to the same files without pulling first).
+  try {
+    git(['pull', '--rebase', '--autostash']);
+  } catch (err) {
+    console.error('git pull --rebase failed -- leaving repo untouched for manual resolution:');
+    console.error(err.stderr || err.message);
+    process.exit(1);
+  }
+
   const text = readFileSync(resultsPath, 'utf-8');
   const { newOffers: rawNew, skipped: rawSkipped } = parseResults(text);
 
@@ -195,7 +207,15 @@ async function main() {
   if (hasChanges) {
     const commitMsg = `scan: websearch ${dateStr} ${timeStr} ET - ${newOffers.length} new offer${newOffers.length === 1 ? '' : 's'}`;
     git(['commit', '-m', commitMsg]);
-    git(['push']);
+    try {
+      git(['push']);
+    } catch {
+      // Race with another writer between the pull above and now -- rebase
+      // once onto whatever landed and retry, rather than leaving a committed
+      // but unpushed local state.
+      git(['pull', '--rebase']);
+      git(['push']);
+    }
     console.log(`Committed and pushed: ${commitMsg}`);
   } else {
     console.log('No changes to commit.');
