@@ -1,3 +1,16 @@
+## 2026-09-19 15:11 ET (WebSearch scan) — 6 new offers
+
+**Remote (US):**
+- [Ellipsis Health — Senior Software Development Engineer in Test (SDET), Salesforce](https://jobs.ashbyhq.com/ellipsis-health/21fd56d8-71b8-4b8b-99e2-29527afd7f0d)
+- [Reveleer — Software Development Engineer in Test (SDET)](https://www.ziprecruiter.com/c/Reveleer/Job/Software-Development-Engineer-in-Test-(SDET)/-in-Remote,US?jid=8bf8f9c695056f8b)
+- [Pavago — QA Automation Engineer](https://apply.workable.com/pavago/j/88731C1DA2/apply/)
+
+**Location-based (US):**
+- [Keeper Security — Senior Infrastructure Test Engineer, DevOps](https://job-boards.greenhouse.io/keepersecurity/jobs/4364317009) _(Remote, US)_
+- [Sustainment — Senior QA Automation Engineer](https://job-boards.greenhouse.io/sustainment/jobs/4706055006) _(Austin, Texas, United States)_
+- [StackAdapt — Staff Quality Engineer](https://job-boards.greenhouse.io/stackadapt/jobs/4315675009) _(Canada; United States)_
+
+---
 ## 2026-09-19 10:09 ET (WebSearch scan)
 
 _(no new offers this run)_

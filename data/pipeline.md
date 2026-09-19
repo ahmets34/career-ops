@@ -751,6 +751,13 @@
 
 - [ ] https://www.amazon.jobs/en/jobs/10553928/sr-quality-manager-worldwide-grocery-stores-wwgs-private-brands-product-quality | Amazon.com Services LLC | Sr. Quality Manager, Worldwide Grocery Stores (WWGS) Private Brands, Product Quality | Seattle, Washington, USA | posted: 2026-09-18
 
+- [ ] https://jobs.ashbyhq.com/ellipsis-health/21fd56d8-71b8-4b8b-99e2-29527afd7f0d | Ellipsis Health | Senior Software Development Engineer in Test (SDET), Salesforce | San Francisco - Hybrid (open to remote candidates within the United States)
+- [ ] https://job-boards.greenhouse.io/keepersecurity/jobs/4364317009 | Keeper Security | Senior Infrastructure Test Engineer, DevOps | Remote, US
+- [ ] https://job-boards.greenhouse.io/sustainment/jobs/4706055006 | Sustainment | Senior QA Automation Engineer | Austin, Texas, United States
+- [ ] https://www.ziprecruiter.com/c/Reveleer/Job/Software-Development-Engineer-in-Test-(SDET)/-in-Remote,US?jid=8bf8f9c695056f8b | Reveleer | Software Development Engineer in Test (SDET) | Remote (US) | posted: 2026-09-02
+- [ ] https://apply.workable.com/pavago/j/88731C1DA2/apply/ | Pavago | QA Automation Engineer | Remote - United States
+- [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4315675009 | StackAdapt | Staff Quality Engineer | Canada; United States
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
