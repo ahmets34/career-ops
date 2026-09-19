@@ -64,6 +64,7 @@ config/benchmarks.yml
 config/local-paths.txt
 portals.yml
 websearch-scan-results.txt
+data/websearch-runs/
 modes/_profile.md
 modes/_custom.md
 modes/_brief.md
