@@ -1,7 +1,14 @@
+## 2026-09-19 16:09 ET (WebSearch scan) — 1 new offer
+
+**Location-based (US):**
+- [Greenboard — AI Automation Engineer](https://jobs.ashbyhq.com/Greenboard/f186f17e-6678-4a94-a624-669c9f9cb7df) _(New York City (On-site))_
+
+---
+
 ## 2026-09-19 15:11 ET (WebSearch scan) — 6 new offers
 
 **Remote (US):**
-- [Ellipsis Health — Senior Software Development Engineer in Test (SDET), Salesforce](https://jobs.ashbyhq.com/ellipsis-health/21fd56d8-71b8-4b8b-99e2-29527afd7f0d)
+- [Ellipsis Health — Senior Software Development Engineer in Test (SDET), Salesforce](https://jobs.ashbyhq.comyes/ellipsis-health/21fd56d8-71b8-4b8b-99e2-29527afd7f0d)
 - [Reveleer — Software Development Engineer in Test (SDET)](https://www.ziprecruiter.com/c/Reveleer/Job/Software-Development-Engineer-in-Test-(SDET)/-in-Remote,US?jid=8bf8f9c695056f8b)
 - [Pavago — QA Automation Engineer](https://apply.workable.com/pavago/j/88731C1DA2/apply/)
 

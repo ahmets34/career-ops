@@ -758,6 +758,8 @@
 - [ ] https://apply.workable.com/pavago/j/88731C1DA2/apply/ | Pavago | QA Automation Engineer | Remote - United States
 - [ ] https://job-boards.greenhouse.io/stackadapt/jobs/4315675009 | StackAdapt | Staff Quality Engineer | Canada; United States
 
+- [ ] https://jobs.ashbyhq.com/Greenboard/f186f17e-6678-4a94-a624-669c9f9cb7df | Greenboard | AI Automation Engineer | New York City (On-site)
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
