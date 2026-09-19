@@ -749,6 +749,8 @@
 
 - [ ] https://www.amazon.jobs/en/jobs/10553843/quality-assurance-engineer-prime-video-ads | Amazon.com Services LLC | Quality Assurance Engineer, Prime Video Ads | Seattle, Washington, USA | posted: 2026-09-18
 
+- [ ] https://www.amazon.jobs/en/jobs/10553928/sr-quality-manager-worldwide-grocery-stores-wwgs-private-brands-product-quality | Amazon.com Services LLC | Sr. Quality Manager, Worldwide Grocery Stores (WWGS) Private Brands, Product Quality | Seattle, Washington, USA | posted: 2026-09-18
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
