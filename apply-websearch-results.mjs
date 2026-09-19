@@ -39,6 +39,25 @@ const CODE_ROOT = path.dirname(fileURLToPath(import.meta.url));
 const DATA_ROOT = getCareerOpsRoot();
 const JOB_LINK_PATH = path.join(DATA_ROOT, 'output/job-link.md');
 
+// PowerShell's `*>`/`>` redirection writes UTF-16LE (with BOM) on Windows
+// PowerShell 5.1, regardless of the console's actual codepage. Reading that
+// blindly as UTF-8 doesn't error -- it silently decodes each ASCII byte as
+// its own character with interleaved NUL bytes, so `line.startsWith(...)`
+// checks below always fail and every NEW_OFFER/SKIPPED line is dropped with
+// no error (this happened on every run from 2026-09-17 night through
+// 2026-09-19 morning before this fix). Detect the encoding from the BOM
+// instead of assuming one.
+function readTextFileAnyEncoding(filePath) {
+  const buf = readFileSync(filePath);
+  if (buf.length >= 2 && buf[0] === 0xff && buf[1] === 0xfe) {
+    return buf.slice(2).toString('utf16le');
+  }
+  if (buf.length >= 3 && buf[0] === 0xef && buf[1] === 0xbb && buf[2] === 0xbf) {
+    return buf.slice(3).toString('utf-8');
+  }
+  return buf.toString('utf-8');
+}
+
 function parseLine(line) {
   const parts = line.split('|').map((p) => p.trim());
   const marker = parts[0];
@@ -126,8 +145,8 @@ function buildJobLinkSection(offers, dateStr, timeStr) {
     for (const o of located) lines.push(renderItem(o, true));
     lines.push('');
   }
-  lines.push('---', '');
-  return lines.join('\n');
+  lines.push('---');
+  return lines.join('\n') + '\n\n';
 }
 
 function prependJobLink(section) {
@@ -162,7 +181,7 @@ async function main() {
     process.exit(1);
   }
 
-  const text = readFileSync(resultsPath, 'utf-8');
+  const text = readTextFileAnyEncoding(resultsPath);
   const { newOffers: rawNew, skipped: rawSkipped } = parseResults(text);
 
   // Defensive dedup against scan-history.tsv/pipeline.md/applications.md, in

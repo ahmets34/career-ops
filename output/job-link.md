@@ -11,6 +11,7 @@
 - [StackAdapt — Staff Quality Engineer](https://job-boards.greenhouse.io/stackadapt/jobs/4315675009) _(Canada; United States)_
 
 ---
+
 ## 2026-09-19 10:09 ET (WebSearch scan)
 
 _(no new offers this run)_
