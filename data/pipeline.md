@@ -760,6 +760,10 @@
 
 - [ ] https://jobs.ashbyhq.com/Greenboard/f186f17e-6678-4a94-a624-669c9f9cb7df | Greenboard | AI Automation Engineer | New York City (On-site)
 
+- [ ] https://www.amazon.jobs/en/jobs/10554492/automation-engineer | Amazon Logistik Zweibruecken-Contwig GmbH - C81 | Automation Engineer | Contwig, Rhineland-Palatinate, DEU | posted: 2026-09-21
+- [ ] https://www.amazon.jobs/en/jobs/10554386/quality-assurance-engineer-i-key-for-business | ADCI - Karnataka | Quality Assurance Engineer I, Key For Business | Bengaluru, Karnataka, IND | posted: 2026-09-21
+- [ ] https://www.amazon.jobs/en/jobs/10554273/senior-supplier-quality-engineer-infrastructure-reliability-quality | Amazon Data Services, Inc. | Senior Supplier Quality Engineer, Infrastructure Reliability & Quality | Herndon, Virginia, USA | posted: 2026-09-21
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
