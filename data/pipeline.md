@@ -764,6 +764,10 @@
 - [ ] https://www.amazon.jobs/en/jobs/10554386/quality-assurance-engineer-i-key-for-business | ADCI - Karnataka | Quality Assurance Engineer I, Key For Business | Bengaluru, Karnataka, IND | posted: 2026-09-21
 - [ ] https://www.amazon.jobs/en/jobs/10554273/senior-supplier-quality-engineer-infrastructure-reliability-quality | Amazon Data Services, Inc. | Senior Supplier Quality Engineer, Infrastructure Reliability & Quality | Herndon, Virginia, USA | posted: 2026-09-21
 
+- [ ] https://www.amazon.jobs/en/jobs/10554932/senior-system-development-engineer-aws-networking-system-test-release-engineering-and-system-test | Amazon Data Services, Inc. | Senior System Development Engineer - AWS Networking System Test, Release Engineering and System Test | Cupertino, California, USA | posted: 2026-09-21
+
+- [ ] https://job-boards.greenhouse.io/zocdoc/jobs/8213942 | Zocdoc | Analyst, Quality Assurance | Pune, Maharashtra, India | posted: 2026-09-21
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
