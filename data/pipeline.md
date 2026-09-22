@@ -775,6 +775,10 @@
 - [ ] https://apply.workable.com/pavago/j/88731C1DA2 | Pavago | QA Automation Engineer | United States
 - [ ] https://weworkremotely.com/remote-jobs/lawnstarter-principal-quality-engineer-1 | LawnStarter | Principal Quality Engineer | Remote (US company, Austin TX HQ)
 
+- [ ] https://www.amazon.jobs/en/jobs/10555984/automation-engineer-amzl | Amazon UK Services Ltd. | Automation Engineer, AMZL | Edinburgh, Scotland, GBR | posted: 2026-09-22
+- [ ] https://www.amazon.jobs/en/jobs/10555765/machine-learning-performance-engineer-annapurna-labs | Annapurna Labs Ltd. | Machine Learning Performance Engineer, Annapurna Labs | Tel Aviv-Yafo, Tel Aviv, ISR | posted: 2026-09-22
+- [ ] https://www.amazon.jobs/en/jobs/10556002/nondestructive-testing-engineer-plain-city-services-team | Amazon Data Services, Inc. | Nondestructive Testing Engineer, Plain City Services Team | Plain City, Ohio, USA | posted: 2026-09-22
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
