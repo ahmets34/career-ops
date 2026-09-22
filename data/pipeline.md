@@ -779,6 +779,15 @@
 - [ ] https://www.amazon.jobs/en/jobs/10555765/machine-learning-performance-engineer-annapurna-labs | Annapurna Labs Ltd. | Machine Learning Performance Engineer, Annapurna Labs | Tel Aviv-Yafo, Tel Aviv, ISR | posted: 2026-09-22
 - [ ] https://www.amazon.jobs/en/jobs/10556002/nondestructive-testing-engineer-plain-city-services-team | Amazon Data Services, Inc. | Nondestructive Testing Engineer, Plain City Services Team | Plain City, Ohio, USA | posted: 2026-09-22
 
+- [ ] https://www.amazon.jobs/en/jobs/10556678/production-test-engineer-leo-propulsion-production-test-team | Amazon Kuiper Manufacturing Enterprises LLC | Production Test Engineer, Leo Propulsion Production Test Team | Redmond, Washington, USA | posted: 2026-09-22
+- [ ] https://www.amazon.jobs/en/jobs/10556554/senior-performance-engineer-efficiency-red-team | Amazon.com.ca, ULC | Senior Performance Engineer, Efficiency Red Team | Toronto, Ontario, CAN | posted: 2026-09-22
+- [ ] https://www.amazon.jobs/en/jobs/10556555/senior-performance-engineer-efficiency-red-team | Amazon.com Services LLC | Senior Performance Engineer, Efficiency Red Team | Seattle, Washington, USA | posted: 2026-09-22
+
+- [ ] https://www.amazon.jobs/en/jobs/10556813/production-quality-engineer-split-shift-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Production Quality Engineer - Split Shift, Amazon Leo | Kirkland, Washington, USA | posted: 2026-09-22
+- [ ] https://www.amazon.jobs/en/jobs/10556774/rf-comms-systems-integration-and-test-engineer-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | RF Comms Systems Integration and Test Engineer, Amazon Leo | Austin, Texas, USA | posted: 2026-09-22
+
+- [ ] https://apply.workable.com/multimediallc/j/CDA26CF98C | Multi Media LLC | Manual QA Engineer | Remote, United States
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅

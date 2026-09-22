@@ -1,3 +1,10 @@
+## 2026-09-22 16:02 ET (WebSearch scan) — 1 new offer
+
+**Remote (US):**
+- [Multi Media LLC — Manual QA Engineer](https://apply.workable.com/multimediallc/j/CDA26CF98C)
+
+---
+
 ## 2026-09-22 10:07 ET (WebSearch scan)
 
 _(no new offers this run)_
