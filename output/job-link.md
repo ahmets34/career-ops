@@ -1,3 +1,14 @@
+## 2026-09-22 02:08 ET (WebSearch scan) — 3 new offers
+
+**Remote (US):**
+- [KangarooHealth — Senior QA Automation Engineer (Remote US PST Hours)](https://wellfound.com/jobs/2726462-senior-qa-automation-engineer-remote-us-pst-hours)
+- [LawnStarter — Principal Quality Engineer](https://weworkremotely.com/remote-jobs/lawnstarter-principal-quality-engineer-1)
+
+**Location-based (US):**
+- [Pavago — QA Automation Engineer](https://apply.workable.com/pavago/j/88731C1DA2) _(United States)_
+
+---
+
 ## 2026-09-21 16:07 ET (WebSearch scan)
 
 _(no new offers this run)_

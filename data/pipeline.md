@@ -768,6 +768,13 @@
 
 - [ ] https://job-boards.greenhouse.io/zocdoc/jobs/8213942 | Zocdoc | Analyst, Quality Assurance | Pune, Maharashtra, India | posted: 2026-09-21
 
+- [ ] https://www.amazon.jobs/en/jobs/10555457/power-test-engineer-satellite-power-hardware-in-the-loop-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Power Test Engineer, Satellite Power Hardware-In-The-Loop, Amazon Leo | Redmond, Washington, USA | posted: 2026-09-21
+- [ ] https://www.amazon.jobs/en/jobs/10555031/quality-assurance-engineer-alexa-global-quality | Amazon Development Centre Ireland Limited | Quality Assurance Engineer, Alexa Global Quality | Dublin, IRL | posted: 2026-09-21
+
+- [ ] https://wellfound.com/jobs/2726462-senior-qa-automation-engineer-remote-us-pst-hours | KangarooHealth | Senior QA Automation Engineer (Remote US PST Hours) | Palo Alto / Remote (US)
+- [ ] https://apply.workable.com/pavago/j/88731C1DA2 | Pavago | QA Automation Engineer | United States
+- [ ] https://weworkremotely.com/remote-jobs/lawnstarter-principal-quality-engineer-1 | LawnStarter | Principal Quality Engineer | Remote (US company, Austin TX HQ)
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
