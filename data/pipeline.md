@@ -788,6 +788,8 @@
 
 - [ ] https://apply.workable.com/multimediallc/j/CDA26CF98C | Multi Media LLC | Manual QA Engineer | Remote, United States
 
+- [ ] https://www.amazon.jobs/en/jobs/10557377/sr-associate-quality-analyst-jp-global-solutions-and-risk-compliance-gsrc | ICP-Dalian branch - J15 | Sr. Associate-Quality Analyst JP, Global Solutions and Risk Compliance (GSRC) | Dalian, CHN | posted: 2026-09-23
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
