@@ -790,6 +790,8 @@
 
 - [ ] https://www.amazon.jobs/en/jobs/10557377/sr-associate-quality-analyst-jp-global-solutions-and-risk-compliance-gsrc | ICP-Dalian branch - J15 | Sr. Associate-Quality Analyst JP, Global Solutions and Risk Compliance (GSRC) | Dalian, CHN | posted: 2026-09-23
 
+- [ ] https://jobs.ashbyhq.com/delos-data/6b8a19b2-4d3b-4e2f-a413-1e48ca78ad96 | Delos Data Inc | Software Development Engineer in Test - AI | Palo Alto or Charlottesville, VA (Hybrid)
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅

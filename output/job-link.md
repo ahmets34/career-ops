@@ -1,3 +1,10 @@
+## 2026-09-23 16:05 ET (WebSearch scan) — 1 new offer
+
+**Location-based (US):**
+- [Delos Data Inc — Software Development Engineer in Test - AI](https://jobs.ashbyhq.com/delos-data/6b8a19b2-4d3b-4e2f-a413-1e48ca78ad96) _(Palo Alto or Charlottesville, VA (Hybrid))_
+
+---
+
 ## 2026-09-23 10:04 ET (WebSearch scan)
 
 _(no new offers this run)_
