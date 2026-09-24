@@ -798,6 +798,9 @@
 - [ ] https://job-boards.greenhouse.io/current/jobs/8833780002 | Current | Lead QA Engineer | Remote (US)
 - [ ] https://www.workatastartup.com/jobs/109214 | Beyond Reach Labs | Development Test Engineer | New York City
 
+- [ ] https://www.amazon.jobs/en/jobs/10559293/sr-software-quality-assurance-engineer-audio-edge-technology | ADCI - Karnataka | Sr. Software Quality Assurance Engineer - Audio, Edge Technology | Bengaluru, Karnataka, IND | posted: 2026-09-24
+- [ ] https://www.amazon.jobs/en/jobs/10559233/sr-quality-engineering-manager-amazon-leo-customer-terminals | Amazon Kuiper Manufacturing Enterprises LLC | Sr Quality Engineering Manager, Amazon Leo Customer Terminals | Redmond, Washington, USA | posted: 2026-09-24
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
