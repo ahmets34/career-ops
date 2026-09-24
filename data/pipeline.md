@@ -792,6 +792,12 @@
 
 - [ ] https://jobs.ashbyhq.com/delos-data/6b8a19b2-4d3b-4e2f-a413-1e48ca78ad96 | Delos Data Inc | Software Development Engineer in Test - AI | Palo Alto or Charlottesville, VA (Hybrid)
 
+- [ ] https://www.amazon.jobs/en/jobs/10558477/digital-ate-test-engineer-amazon-leo-silicon-team | Amazon Kuiper Manufacturing Enterprises LLC | Digital ATE Test Engineer, Amazon Leo Silicon Team | Sunnyvale, California, USA | posted: 2026-09-24
+
+- [ ] https://job-boards.greenhouse.io/upgrade/jobs/4724382005 | Upgrade | Senior QA Automation Engineer (HELOC) | United States (Remote)
+- [ ] https://job-boards.greenhouse.io/current/jobs/8833780002 | Current | Lead QA Engineer | Remote (US)
+- [ ] https://www.workatastartup.com/jobs/109214 | Beyond Reach Labs | Development Test Engineer | New York City
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅

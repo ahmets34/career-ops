@@ -1,3 +1,14 @@
+## 2026-09-24 10:02 ET (WebSearch scan) — 3 new offers
+
+**Remote (US):**
+- [Upgrade — Senior QA Automation Engineer (HELOC)](https://job-boards.greenhouse.io/upgrade/jobs/4724382005)
+- [Current — Lead QA Engineer](https://job-boards.greenhouse.io/current/jobs/8833780002)
+
+**Location-based (US):**
+- [Beyond Reach Labs — Development Test Engineer](https://www.workatastartup.com/jobs/109214) _(New York City)_
+
+---
+
 ## 2026-09-23 16:05 ET (WebSearch scan) — 1 new offer
 
 **Location-based (US):**
