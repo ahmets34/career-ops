@@ -1,3 +1,10 @@
+## 2026-09-25 10:03 ET (WebSearch scan) — 1 new offer
+
+**Remote (US):**
+- [OptionMetrics — Software Test Engineer (Contract Role)](https://jobs.lever.co/optionmetrics/ee1f0756-11ee-418e-86a3-c724d62dbf7c)
+
+---
+
 ## 2026-09-24 16:03 ET (WebSearch scan)
 
 _(no new offers this run)_

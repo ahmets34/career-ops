@@ -801,6 +801,13 @@
 - [ ] https://www.amazon.jobs/en/jobs/10559293/sr-software-quality-assurance-engineer-audio-edge-technology | ADCI - Karnataka | Sr. Software Quality Assurance Engineer - Audio, Edge Technology | Bengaluru, Karnataka, IND | posted: 2026-09-24
 - [ ] https://www.amazon.jobs/en/jobs/10559233/sr-quality-engineering-manager-amazon-leo-customer-terminals | Amazon Kuiper Manufacturing Enterprises LLC | Sr Quality Engineering Manager, Amazon Leo Customer Terminals | Redmond, Washington, USA | posted: 2026-09-24
 
+- [ ] https://www.amazon.jobs/en/jobs/10559488/senior-design-automation-engineer | Annapurna Labs (U.S.) Inc. | Senior Design Automation Engineer | Austin, Texas, USA | posted: 2026-09-24
+
+- [ ] https://www.okta.com/company/careers/opportunity/8212003?gh_jid=8212003 | Okta | Senior Engineering Manager, SDET - Okta Identity Governance (OIG) | Toronto, Ontario, Canada | posted: 2026-09-25
+- [ ] https://www.amazon.jobs/en/jobs/10560276/quality-assurance-engineer-i-amazon-connect-decission | Amazon Development Center U.S., Inc. | Quality Assurance Engineer I, Amazon Connect Decission | Austin, Texas, USA | posted: 2026-09-25
+
+- [ ] https://jobs.lever.co/optionmetrics/ee1f0756-11ee-418e-86a3-c724d62dbf7c | OptionMetrics | Software Test Engineer (Contract Role) | United States (Remote)
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
