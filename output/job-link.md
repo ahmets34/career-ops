@@ -1,3 +1,10 @@
+## 2026-09-25 16:02 ET (WebSearch scan) — 1 new offer
+
+**Remote (US):**
+- [Revecore — Senior QA Automation Engineer](https://jobs.ashbyhq.com/Revecore/2c8ebde6-79c3-44b6-a54e-49bdc291914a)
+
+---
+
 ## 2026-09-25 10:03 ET (WebSearch scan) — 1 new offer
 
 **Remote (US):**

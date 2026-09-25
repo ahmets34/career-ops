@@ -808,6 +808,12 @@
 
 - [ ] https://jobs.lever.co/optionmetrics/ee1f0756-11ee-418e-86a3-c724d62dbf7c | OptionMetrics | Software Test Engineer (Contract Role) | United States (Remote)
 
+- [ ] https://boards.greenhouse.io/robinhood/jobs/8187448?t=gh_src=&gh_jid=8187448 | Robinhood | Quality Engineer | Toronto, Canada | posted: 2026-09-25
+
+- [ ] https://www.amazon.jobs/en/jobs/10560683/ate-test-engineer-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | ATE Test Engineer , Amazon Leo | Sunnyvale, California, USA | posted: 2026-09-25
+
+- [ ] https://jobs.ashbyhq.com/Revecore/2c8ebde6-79c3-44b6-a54e-49bdc291914a | Revecore | Senior QA Automation Engineer | US-Remote
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
