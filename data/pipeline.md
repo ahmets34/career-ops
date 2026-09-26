@@ -814,6 +814,8 @@
 
 - [ ] https://jobs.ashbyhq.com/Revecore/2c8ebde6-79c3-44b6-a54e-49bdc291914a | Revecore | Senior QA Automation Engineer | US-Remote
 
+- [ ] https://www.amazon.jobs/en/jobs/10560874/automation-engineer-manager | Amazon.com Services LLC | Automation Engineer Manager | Rockville, Virginia, USA | posted: 2026-09-25
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
