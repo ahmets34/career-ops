@@ -1,3 +1,13 @@
+## 2026-11-09 09:08 ET (WebSearch scan) — 2 new offers
+
+**Remote (US):**
+- [Dispel — Senior QA Automation Engineer](https://apply.workable.com/dispel/j/F4A16941C3/)
+
+**Location-based (US):**
+- [CloudScouts Software Solutions LLC — Senior Automation QA Engineer - Hybrid - W2](https://cloudscouts-software-solutions-llc.careerplug.com/jobs/3457782) _(Hybrid - Austin, TX 78701)_
+
+---
+
 ## 2026-09-26 16:03 ET (WebSearch scan)
 
 _(no new offers this run)_

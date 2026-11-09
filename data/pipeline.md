@@ -816,6 +816,129 @@
 
 - [ ] https://www.amazon.jobs/en/jobs/10560874/automation-engineer-manager | Amazon.com Services LLC | Automation Engineer Manager | Rockville, Virginia, USA | posted: 2026-09-25
 
+- [ ] https://job-boards.greenhouse.io/amwell/jobs/4431732009 | Amwell | Sr Manager, QA Engineering | VIRTUAL US | posted: 2026-10-05
+- [ ] https://jobs.ashbyhq.com/snowflake/adcd1339-0d66-4d54-8af5-1e0ca6389835 | Snowflake | Engineering Manager, Release Validation | US-WA-Bellevue · US-CA-Menlo Park · Menlo Park · United States | posted: 2026-10-06
+- [ ] https://job-boards.greenhouse.io/pagerduty/jobs/6217788004 | PagerDuty | Senior Engineering Manager, Release Engineering | Toronto | posted: 2026-10-14
+- [ ] https://www.okta.com/company/careers/opportunity/8045905?gh_jid=8045905 | Okta | Principal Software Engineer in Test | Bengaluru, India | posted: 2026-07-08
+- [ ] https://www.okta.com/company/careers/opportunity/8236753?gh_jid=8236753 | Okta | Senior Software Engineer in Test (SET) — Access Essentials | Bengaluru, India | posted: 2026-09-28
+- [ ] https://www.okta.com/company/careers/opportunity/8071448?gh_jid=8071448 | Okta | Senior Software Engineer in Test, UI Platform | Toronto, Ontario, Canada | posted: 2026-10-01
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8262782 | DoorDash | Senior Associate, QA Automation, Marketing Technology Operations | New York, NY; San Francisco, CA; Los Angeles, CA; Sunnyvale, CA; Seattle, WA; Chicago, IL; Austin, TX; Denver, CO; Atlanta, GA; Miami, FL; Boston, MA; Washington, D.C. | posted: 2026-10-07
+- [ ] https://careers.airbnb.com/positions/8114339?gh_jid=8114339 | Airbnb | Quality Manager, AirCover | Canada | posted: 2026-08-31
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4742042005 | Scale AI | Systems Engineering Integration & Test Lead, Public Sector | Washington, DC | posted: 2026-10-09
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5438030008 | Anthropic | Research Engineer / Performance Engineer, RL Distributed Systems | San Francisco, CA / New York City, NY / Seattle, WA | posted: 2026-09-29
+- [ ] https://boards.greenhouse.io/cloudflare/jobs/8214470?gh_jid=8214470 | Cloudflare | Performance Engineer, Kernel and Memory | Hybrid · Austin, TX · New York, NY · Washington, DC | posted: 2026-10-05
+- [ ] https://www.coinbase.com/careers/positions/8241748?gh_jid=8241748 | Coinbase | Senior Software Engineer, Mobile QA | Remote - USA | posted: 2026-09-30
+- [ ] https://www.coinbase.com/careers/positions/8241752?gh_jid=8241752 | Coinbase | Staff Software Engineer, Mobile QA | Remote - USA | posted: 2026-09-30
+- [ ] https://stripe.com/jobs/search?gh_jid=8206729 | Stripe | Team Lead, Quality Analyst, Product Support Operations | Mexico City | posted: 2026-10-08
+- [ ] https://jobs.ashbyhq.com/perplexity/4b5e02a8-6a94-494d-9d49-037f2cfc144d | Perplexity | Member of Tehnical Staff (Senior QA Web) | New York City · San Francisco · United States | posted: 2026-10-05
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8829033002 | Databricks | AI Automation Engineer | Costa Rica | posted: 2026-10-12
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8633071002 | Databricks | P2P Data & Automation Lead | San Francisco, California | posted: 2026-08-03
+- [ ] https://databricks.com/company/careers/open-positions/job?gh_jid=8829047002 | Databricks | Sr. Automation Engineer - IT Asset Management | Bellevue, Washington; Mountain View, California; San Francisco, California; Seattle, Washington | posted: 2026-10-09
+- [ ] https://www.talkspace.com/careers/job?gh_jid=6219778004 | Talkspace | Clinical Quality Specialist | New York, NY (Remote) | posted: 2026-10-08
+- [ ] https://jobs.lever.co/zoox/83bbaa62-c523-4972-9eb9-bfdc8a04c0f5 | Zoox | Senior Software Development Engineer in Test | Foster City, CA | posted: 2026-10-14
+- [ ] https://jobs.lever.co/zoox/d3a7605d-7e6e-4361-bc00-04db50418c1e | Zoox | Software Development Engineer in Test | Foster City, CA | posted: 2026-10-13
+- [ ] https://careers.hellofresh.com/global/en/job/8248941?gh_jid=8248941 | HelloFresh | FSQA Manager (12 month FTC) | UK | posted: 2026-10-09
+- [ ] https://careers.hellofresh.com/global/en/job/6180866?gh_jid=6180866 | HelloFresh | QA Technical Auditor | Derby, England, United Kingdom | posted: 2024-09-27
+- [ ] https://careers.hellofresh.com/global/en/job/8239030?gh_jid=8239030 | HelloFresh | Quality Assurance Officer | Brisbane, Queensland, Australia | posted: 2026-09-29
+- [ ] https://careers.hellofresh.com/global/en/job/8236558?gh_jid=8236558 | HelloFresh | Teamleitung Food Safety and Quality Assurance (all genders) | Verden, Niedersachsen, Germany | posted: 2026-09-28
+- [ ] https://www.amazon.jobs/en/jobs/10578695/graduate-automation-engineer-apprenticeship-program | Amazon Logistic Prague s.r.o. | Graduate Automation Engineer Apprenticeship Program | Kojetín, Olomoucký kraj, CZE | posted: 2026-10-14
+- [ ] https://www.amazon.jobs/en/jobs/10577670/wifi-test-engineer-eero | ADCI - Tamil Nadu | WiFi Test Engineer, eero | Chennai, Tamil Nadu, IND | posted: 2026-10-13
+- [ ] https://www.amazon.jobs/en/jobs/10577164/sr-quality-assurance-engineer-aft-platform-engineering-services | Amazon.com Services LLC | Sr Quality Assurance Engineer, AFT Platform Engineering & Services | Bellevue, Washington, USA | posted: 2026-10-13
+- [ ] https://www.amazon.jobs/en/jobs/10578988/quality-manager-2nd-shift-leo | Amazon Kuiper Manufacturing Enterprises LLC | Quality Manager 2nd Shift, LEO | Everett, Washington, USA | posted: 2026-10-14
+- [ ] https://www.amazon.jobs/en/jobs/10577731/sensor-robotics-test-engineer-leo-ground-systems | Amazon Kuiper Manufacturing Enterprises LLC | Sensor & Robotics Test Engineer, Leo Ground Systems | Redmond, Washington, USA | posted: 2026-10-13
+- [ ] https://www.amazon.jobs/en/jobs/10575691/network-infrastructure-construction-quality-engineer-global-network-deployment-quality-assurance-cabling | Amazon Data Services Spain, S.L.U. - C94 | Network Infrastructure Construction Quality Engineer, Global Network Deployment Quality Assurance Cabling | Zaragoza, Aragon, ESP | posted: 2026-10-12
+- [ ] https://www.amazon.jobs/en/jobs/10574452/sr-supplier-quality-engineer-infrastructure-reliability-quality | Amazon Asia-Pacific Resources Private Limited (Singapore) | Sr. Supplier Quality Engineer, Infrastructure Reliability & Quality | SGP | posted: 2026-10-09
+- [ ] https://www.amazon.jobs/en/jobs/10573967/electromagnetic-effects-emi-emc-test-engineer-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Electromagnetic Effects (EMI/EMC) Test Engineer, Amazon Leo | Redmond, Washington, USA | posted: 2026-10-08
+- [ ] https://www.amazon.jobs/en/jobs/10577194/automation-engineer-amazon-reliability-maintenance-engineering-intlrme | Servicios Comerciales Amazon Mexico S. de R.L. de C.V. | Automation Engineer, Amazon Reliability Maintenance Engineering - IntlRME | Lerma, Mexico, MEX | posted: 2026-10-13
+- [ ] https://www.amazon.jobs/en/jobs/10575479/senior-test-engineer-hardware-compute-group | ADCI - BLR 14 SEZ - F07 | Senior Test Engineer, Hardware Compute Group | Bengaluru, Karnataka, IND | posted: 2026-10-12
+- [ ] https://www.amazon.jobs/en/jobs/10570164/bereichsleitung-inventory-quality-assurance | Amazon Helmstedt GmbH | Bereichsleitung – Inventory & Quality Assurance | Helmstedt, Lower-Saxony, DEU | posted: 2026-10-06
+- [ ] https://www.amazon.jobs/en/jobs/10570661/testing-engineer-rivr | RIVR Technologies AG | Testing Engineer, RIVR | Zurich, Zurich, CHE | posted: 2026-10-06
+- [ ] https://www.amazon.jobs/en/jobs/10571682/quality-manager-lm-aces | ASSPL - Karnataka | Quality Manager, LM ACES | Bengaluru, Karnataka, IND | posted: 2026-10-07
+- [ ] https://www.amazon.jobs/en/jobs/10576183/production-test-engineer-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Production Test Engineer, Amazon Leo | Redmond, Washington, USA | posted: 2026-10-12
+- [ ] https://www.amazon.jobs/en/jobs/10570376/automation-engineer-manager | Amazon.com Services LLC - A57 | Automation Engineer Manager | Moreland, Georgia, USA | posted: 2026-10-06
+
+- [ ] https://www.okta.com/company/careers/opportunity/8287689?gh_jid=8287689 | Okta | Senior Director, Quality Engineering – Performance, Scalability & Reliability | San Francisco, California | posted: 2026-10-16
+- [ ] https://www.amazon.jobs/en/jobs/10581109/quality-specialist-portuguese | ADCI HYD 13 SEZ | Quality Specialist -Portuguese | Hyderabad, Telangana, IND | posted: 2026-10-16
+- [ ] https://www.amazon.jobs/en/jobs/10581119/quality-specialist-spanish-dlp-lmaq | ADCI HYD 13 SEZ | Quality Specialist - Spanish, DLP LMAQ | Hyderabad, Telangana, IND | posted: 2026-10-16
+- [ ] https://www.amazon.jobs/en/jobs/10578751/icqa-lead-icqa | Amazon Italia Logistica S.R.L. | ICQA Lead, ICQA | Vercelli, Piedmont, ITA | posted: 2026-10-14
+
+- [ ] https://boards.greenhouse.io/figma/jobs/6233207004?gh_jid=6233207004 | Figma | Technical Quality Specialist - Figma Weave (Singapore) | Singapore | posted: 2026-10-25
+- [ ] https://jobs.ashbyhq.com/openai/88e65467-7e19-4164-a1de-1d49d3f2dd52 | OpenAI | Mechanical Engineer, PCBA Test Infrastructure, Robotics | San Francisco | posted: 2026-10-19
+- [ ] https://jobs.ashbyhq.com/openai/83939922-2a95-4cc0-b8ff-e1b15ed5254b | OpenAI | Electrical Engineer, PCBA Test Infrastructure, Robotics | San Francisco | posted: 2026-10-22
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/4720576008 | Anthropic | TPU Performance Engineer | San Francisco, CA / New York City, NY / Seattle, WA | posted: 2025-05-22
+- [ ] https://careers.toasttab.com/jobs?gh_jid=8281224 | Toast | Territory Account Executive, SMB - Cypress, TX | Cypress, TX | posted: 2026-10-19
+- [ ] https://jobs.lever.co/zoox/c742b956-4cca-49ca-887c-79cc98580f3e | Zoox | Senior Quality Engineer | Foster City, CA | posted: 2026-10-21
+- [ ] https://jobs.lever.co/zoox/cc60a930-5343-4e56-8e13-b7bce71e9945 | Zoox | System Test Engineer, System Behavioral Analysis | Foster City, CA | posted: 2026-10-23
+- [ ] https://careers.hellofresh.com/global/en/job/8278761?gh_jid=8278761 | HelloFresh | \[US DC\] Associate Quality Manager | Newark, NJ, United States | posted: 2026-10-15
+- [ ] https://www.amazon.jobs/en/jobs/10588926/manager-supplier-food-safety-and-quality-assurance | Amazon.com Services LLC | Manager, Supplier Food Safety and Quality Assurance | Austin, Texas, USA | posted: 2026-10-26
+- [ ] https://www.amazon.jobs/en/jobs/10588362/automation-engineer-jp-mhe-automation-engineering | Amazon Japan G.K. | Automation Engineer, JP MHE & Automation Engineering | Tokyo, JPN | posted: 2026-10-26
+- [ ] https://www.amazon.jobs/en/jobs/10588667/sr-automation-engineer-emerging-countries-engineering | Servicios Comerciales Amazon Mexico S. de R.L. de C.V. | Sr Automation Engineer , Emerging Countries Engineering | Mexico City, Mexico City, MEX | posted: 2026-10-26
+- [ ] https://www.amazon.jobs/en/jobs/10589038/sr-satellite-test-engineer-amazon-leo-integrated-vehicle-testing | Amazon Kuiper Manufacturing Enterprises LLC | Sr. Satellite Test Engineer, Amazon Leo Integrated Vehicle Testing | Redmond, Washington, USA | posted: 2026-10-26
+- [ ] https://www.amazon.jobs/en/jobs/10588446/quality-assurance-manager-special-projects | Amazon.com Services LLC | Quality Assurance Manager, Special Projects | Seattle, Washington, USA | posted: 2026-10-26
+- [ ] https://www.amazon.jobs/en/jobs/10586446/duales-studium-automation-engineer | Amazon Logistik Winsen GmbH | Duales Studium - Automation Engineer | Winsen (Luhe), Lower-Saxony, DEU | posted: 2026-10-22
+- [ ] https://www.amazon.jobs/en/jobs/10586445/duales-studium-automation-engineer | Amazon Logistik Frankenthal GmbH | Duales Studium - Automation Engineer | Kaiserslautern, Rhineland-Palatinate, DEU | posted: 2026-10-22
+- [ ] https://www.amazon.jobs/en/jobs/10586441/duales-studium-automation-engineer | Amazon Fulfillment Germany GmbH | Duales Studium - Automation Engineer | Rheinberg, North-Rhine-Westphalia, DEU | posted: 2026-10-22
+- [ ] https://www.amazon.jobs/en/jobs/10586440/duales-studium-automation-engineer | Amazon SZ NRW GmbH | Duales Studium - Automation Engineer | Witten, North-Rhine-Westphalia, DEU | posted: 2026-10-22
+- [ ] https://www.amazon.jobs/en/jobs/10586442/duales-studium-automation-engineer | Amazon Logistik Achim GmbH | Duales Studium - Automation Engineer | Achim, Lower-Saxony, DEU | posted: 2026-10-22
+- [ ] https://www.amazon.jobs/en/jobs/10589260/quality-assurance-engineer-smgs-planning-tools | Amazon Web Services, Inc. | Quality Assurance Engineer, SMGS Planning Tools | Dallas, Texas, USA | posted: 2026-10-26
+- [ ] https://www.amazon.jobs/en/jobs/10586443/duales-studium-automation-engineer | Amazon Grossenkneten GmbH | Duales Studium - Automation Engineer | Großenkneten, Lower-Saxony, DEU | posted: 2026-10-22
+- [ ] https://www.amazon.jobs/en/jobs/10586959/senior-manufacturing-and-automation-engineer | Amazon Kuiper Manufacturing Enterprises LLC | Senior Manufacturing And Automation Engineer | Redmond, Washington, USA | posted: 2026-10-22
+- [ ] https://www.amazon.jobs/en/jobs/10585915/sr-wireless-integration-and-test-engineer-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Sr. Wireless Integration and Test Engineer, Amazon Leo | Austin, Texas, USA | posted: 2026-10-22
+- [ ] https://www.amazon.jobs/en/jobs/10585183/quality-engineer-rivr | Amazon Innovation Center (Shenzhen) Company Limited Shanghai Branch | Quality Engineer, RIVR | Shanghai, CHN | posted: 2026-10-22
+- [ ] https://www.amazon.jobs/en/jobs/10587088/quality-specialist-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Quality Specialist, Amazon Leo | Redmond, Washington, USA | posted: 2026-10-23
+- [ ] https://www.amazon.jobs/en/jobs/10584673/associate-prodution-quality-engineer-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Associate Prodution Quality Engineer, AMAZON LEO | Kirkland, Washington, USA | posted: 2026-10-21
+- [ ] https://www.amazon.jobs/en/jobs/10584418/mechanical-engineer-antenna-test-infrastructure | Amazon Kuiper Manufacturing Enterprises LLC | Mechanical Engineer, Antenna Test Infrastructure | Redmond, Washington, USA | posted: 2026-10-20
+- [ ] https://www.amazon.jobs/en/jobs/10583284/icqa-lead-icqa | Amazon Fulfillment Poland sp. z o.o. - D15 | ICQA Lead , ICQA | Gorzyce, Silesian Voivodeship, POL | posted: 2026-10-19
+- [ ] https://www.amazon.jobs/en/jobs/10582075/systems-development-engineer-oisl-test-automation | Amazon Kuiper Manufacturing Enterprises LLC | Systems Development Engineer, OISL Test Automation | Redmond, Washington, USA | posted: 2026-10-17
+- [ ] https://www.amazon.jobs/en/jobs/10582785/spacecraft-integration-test-engineer-launch-operations | Amazon Kuiper Infrastructure LLC | Spacecraft Integration & Test Engineer, Launch Operations | Merritt Island, Florida, USA | posted: 2026-10-19
+- [ ] https://www.amazon.jobs/en/jobs/10589846/inventory-control-quality-assurance-operations-manager | Amazon UK Services Ltd. | Inventory Control & Quality Assurance Operations Manager | Gateshead, England, GBR | posted: 2026-10-27
+- [ ] https://www.amazon.jobs/en/jobs/10585212/investigation-specialist-qa-relay-product-excellence | ADCI - Karnataka - A66 | Investigation Specialist (QA), Relay Product Excellence | Bengaluru, Karnataka, IND | posted: 2026-10-21
+- [ ] https://www.amazon.jobs/en/jobs/10581552/production-quality-engineer-night-shift-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Production Quality Engineer - Night Shift, Amazon Leo | Redmond, Washington, USA | posted: 2026-10-16
+
+- [ ] https://job-boards.greenhouse.io/doordashusa/jobs/8349894 | DoorDash | Manufacturing Test Engineer - Dot | Oakland, CA | posted: 2026-11-04
+- [ ] https://careers.airbnb.com/positions/8349121?gh_jid=8349121 | Airbnb | Senior Risk Tools & Automation Lead | Remote, India | posted: 2026-11-03
+- [ ] https://job-boards.greenhouse.io/scaleai/jobs/4750929005 | Scale AI | Quality Operations Lead, Gen AI | San Francisco, CA; New York, NY | posted: 2026-11-04
+- [ ] https://jobs.ashbyhq.com/openai/0369bd4b-bfb1-4c36-90cb-4e3a24365150 | OpenAI | Robotics Test Engineer | San Francisco | posted: 2026-11-06
+- [ ] https://jobs.ashbyhq.com/openai/2df14230-1cb5-4727-a34e-f480303e4212 | OpenAI | Manufacturing Quality Engineer, Data Center Equipment | US - Remote | posted: 2026-10-30
+- [ ] https://job-boards.greenhouse.io/anthropic/jobs/5468380008 | Anthropic | Data Center Substation, Protection & Automation Engineer | Remote-Friendly, United States | posted: 2026-10-30
+- [ ] https://careers.duolingo.com/jobs/8927565002?gh_jid=8927565002 | Duolingo | QA Specialist I, Recent Graduate | New York, NY; Pittsburgh, PA | posted: 2026-11-03
+- [ ] https://jobs.lever.co/zoox/6320b978-abf4-483b-a09f-bfba0c44c485 | Zoox | Manufacturing Test Infrastructure Engineer | Foster City, CA | posted: 2026-10-30
+- [ ] https://careers.upstart.com/jobs?gh_jid=8353713 | Upstart | Product Quality Manager, Unsecured Lending | United States / Remote | posted: 2026-11-04
+- [ ] https://careers.hellofresh.com/global/en/job/8315929?gh_jid=8315929 | HelloFresh | FSQA Lead | Goodyear, AZ, United States | posted: 2026-10-22
+- [ ] https://careers.hellofresh.com/global/en/job/8349831?gh_jid=8349831 | HelloFresh | FSQA Manager – Produce, Herbs and Mushrooms (f/m/x) | Amsterdam, North Holland, Netherlands | posted: 2026-11-04
+- [ ] http://block.xyz/careers/jobs/5440719008?gh_jid=5440719008 | Block | Compliance QA Program Manager | Bay Area, CA, United States of America | posted: 2026-11-02
+- [ ] https://www.amazon.jobs/en/jobs/10599200/rf-test-engineer-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | RF Test Engineer, Amazon Leo | San Diego, California, USA | posted: 2026-11-06
+- [ ] https://www.amazon.jobs/en/jobs/10598519/automation-engineer | Amazon UK Services Ltd. | Automation Engineer | Leeds, England, GBR | posted: 2026-11-06
+- [ ] https://www.amazon.jobs/en/jobs/10598643/automation-engineering-apprentice-west-midlands-48-month-fixed-term-contract | Amazon UK Services Ltd. | Automation Engineering Apprentice - West Midlands (48-month fixed term contract) | Sutton Coldfield, England, GBR | posted: 2026-11-06
+- [ ] https://www.amazon.jobs/en/jobs/10598642/automation-engineering-apprentice-london-48-month-fixed-term-contract | Amazon UK Services Ltd. | Automation Engineering Apprentice - London (48-month fixed term contract) | Enfield, England, GBR | posted: 2026-11-06
+- [ ] https://www.amazon.jobs/en/jobs/10598641/automation-engineering-apprentice-north-east-48-month-fixed-term-contract | Amazon UK Services Ltd. | Automation Engineering Apprentice - North East (48-month fixed term contract) | Gateshead, England, GBR | posted: 2026-11-06
+- [ ] https://www.amazon.jobs/en/jobs/10597667/data-quality-specialist-swedish-agi-data-services-g-t-quality | Amazon MLS Poland Sp. z o.o. | Data Quality Specialist - Swedish, AGI Data Services - G T Quality | Gdansk, Pomeranian Voivodeship, POL | posted: 2026-11-05
+- [ ] https://www.amazon.jobs/en/jobs/10598640/automation-engineering-apprentice-north-west-48-month-fixed-term-contract | Amazon UK Services Ltd. | Automation Engineering Apprentice - North West (48-month fixed term contract) | Warrington, England, GBR | posted: 2026-11-06
+- [ ] https://www.amazon.jobs/en/jobs/10598635/automation-engineering-apprentice-east-midlands-48-month-fixed-term-contract | Amazon UK Services Ltd. | Automation Engineering Apprentice - East Midlands (48-month fixed term contract) | Coalville, England, GBR | posted: 2026-11-06
+- [ ] https://www.amazon.jobs/en/jobs/10598633/automation-engineering-apprentice-yorkshire-humber-48-month-fixed-term-contract | Amazon UK Services Ltd. | Automation Engineering Apprentice - Yorkshire & Humber (48-month fixed term contract) | Leeds, England, GBR | posted: 2026-11-06
+- [ ] https://www.amazon.jobs/en/jobs/10598600/software-tester-apprentice-24-month-fixed-term-contract | Amazon UK Services Ltd. | Software Tester Apprentice (24-month fixed term contract) | London, England, GBR | posted: 2026-11-06
+- [ ] https://www.amazon.jobs/en/jobs/10596357/field-quality-assurance | Amazon.com Services LLC | Field Quality Assurance | Hanahan, South Carolina, USA | posted: 2026-11-04
+- [ ] https://www.amazon.jobs/en/jobs/10596270/automation-engineer-automatisierungstechniker-kobern-gondorf-near-koblenz-mainz-bonn | Amazon Koblenz GmbH | Automation Engineer / Automatisierungstechniker - Kobern-Gondorf near Koblenz / Mainz / Bonn | Kobern-Gondorf, Rhineland-Palatinate, DEU | posted: 2026-11-04
+- [ ] https://www.amazon.jobs/en/jobs/10596452/inventory-control-quality-assurance-area-manager-m-w-d | Amazon Gattendorf GmbH | Inventory Control & Quality Assurance Area Manager (m/w/d) | Gattendorf, Bavaria, DEU | posted: 2026-11-04
+- [ ] https://www.amazon.jobs/en/jobs/10596561/regional-automation-engineer-amazon-reliability-maintenance-engineering-intlrme | Servicios Comerciales Amazon Mexico S. de R.L. de C.V. | Regional Automation Engineer, Amazon Reliability Maintenance Engineering - IntlRME | Tepotzotlán, Mexico, MEX | posted: 2026-11-04
+- [ ] https://www.amazon.jobs/en/jobs/10593804/quality-assurance-engineer-i-amz24481-6 | Amazon.com Services LLC | Quality Assurance Engineer I - AMZ24481.6 | Austin, Texas, USA | posted: 2026-10-30
+- [ ] https://www.amazon.jobs/en/jobs/10593667/sr-manufacturing-test-engineer-aws-rack-mfg-operations | Amazon Data Services, Inc. | Sr. Manufacturing Test Engineer, AWS Rack Mfg Operations | Hebron, Kentucky, USA | posted: 2026-11-06
+- [ ] https://www.amazon.jobs/en/jobs/10595430/call-center-quality-assurance-specialist-onsite-tempe-az-amazon-one-medical-customer-care | 1Life Healthcare, Inc. | Call Center Quality Assurance Specialist (Onsite - Tempe, AZ), Amazon One Medical Customer Care | Tempe, Arizona, USA | posted: 2026-11-03
+- [ ] https://www.amazon.jobs/en/jobs/10592907/senior-manufacturing-test-engineer-amazon-leo-oisl | Amazon Kuiper Manufacturing Enterprises LLC | Senior Manufacturing Test Engineer, Amazon Leo OISL | Redmond, Washington, USA | posted: 2026-11-02
+- [ ] https://www.amazon.jobs/en/jobs/10591190/infra-quality-engineer-infrastructure-reliability-quality-engineer | Amazon Data Services, Inc. | Infra Quality Engineer, (Infrastructure Reliability & Quality Engineer) | Austin, Texas, USA | posted: 2026-10-28
+- [ ] https://www.amazon.jobs/en/jobs/10597313/sr-fire-protection-engineer-design-quality-assurance-dqa | Amazon Data Services, Inc. | Sr. Fire Protection Engineer, Design Quality Assurance (DQA) | Herndon, Virginia, USA | posted: 2026-11-06
+- [ ] https://www.amazon.jobs/en/jobs/10595081/quality-assurance-engineer-japanese-amazon-music | Servicios Comerciales Amazon Mexico S. de R.L. de C.V. | Quality Assurance Engineer - Japanese, Amazon Music | Mexico City, Mexico City, MEX | posted: 2026-11-04
+- [ ] https://www.amazon.jobs/en/jobs/10593884/electrical-assembly-integration-testing-engineer-cryogenic-hardware-quantum-computing | Amazon Development Center U.S., Inc. | Electrical Assembly, Integration, & Testing Engineer, Cryogenic Hardware, Quantum Computing | Pasadena, California, USA | posted: 2026-10-30
+- [ ] https://www.amazon.jobs/en/jobs/10595185/sr-associate-quality-analyst-global-solutions-risk-compliance-gsrc | ADCI - Karnataka | Sr. Associate - Quality Analyst, Global Solutions & Risk Compliance (GSRC) | Bengaluru, Karnataka, IND | posted: 2026-11-03
+- [ ] https://www.amazon.jobs/en/jobs/10589491/principal-optical-quality-engineer-leo-quality | Amazon Kuiper Manufacturing Enterprises LLC | Principal Optical Quality Engineer, Leo Quality | Bellevue, Washington, USA | posted: 2026-10-27
+- [ ] https://www.amazon.jobs/en/jobs/10591957/sr-supplier-quality-engineer-infrastructure-reliability-quality-irq | Amazon Data Services Ireland Limited | Sr. Supplier Quality Engineer, Infrastructure Reliability & Quality (IRQ) | Dublin, IRL | posted: 2026-10-29
+- [ ] https://www.amazon.jobs/en/jobs/10595170/sr-compliance-associate-quality-analyst-global-solutions-risk-and-compliance-gsrc | ADCI - Maharashtra | Sr. Compliance Associate-Quality Analyst, Global Solutions Risk and Compliance (GSRC) | Pune, Maharashtra, IND | posted: 2026-11-03
+- [ ] https://www.amazon.jobs/en/jobs/10591598/quality-assurance-engineer-i-relay-taq | ADCI - Haryana | Quality Assurance Engineer I, Relay TAQ | Gurugram, Haryana, IND | posted: 2026-10-28
+- [ ] https://workday.wd5.myworkdayjobs.com/Workday/job/Canada-BC-Vancouver/Software-Development-Engineer-in-Test--Evisort-AI_JR-0111106 | Workday | Software Development Engineer in Test, Evisort AI | Canada, BC, Vancouver | posted: 2026-10-30
+
+- [ ] https://apply.workable.com/dispel/j/F4A16941C3/ | Dispel | Senior QA Automation Engineer | Remote (United States) | posted: 2026-10-19
+- [ ] https://cloudscouts-software-solutions-llc.careerplug.com/jobs/3457782 | CloudScouts Software Solutions LLC | Senior Automation QA Engineer - Hybrid - W2 | Hybrid - Austin, TX 78701
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
