@@ -939,6 +939,9 @@
 - [ ] https://apply.workable.com/dispel/j/F4A16941C3/ | Dispel | Senior QA Automation Engineer | Remote (United States) | posted: 2026-10-19
 - [ ] https://cloudscouts-software-solutions-llc.careerplug.com/jobs/3457782 | CloudScouts Software Solutions LLC | Senior Automation QA Engineer - Hybrid - W2 | Hybrid - Austin, TX 78701
 
+- [ ] https://www.amazon.jobs/en/jobs/10598007/test-manager-2nd-shift-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Test Manager - 2nd Shift, Amazon Leo | Kirkland, Washington, USA | posted: 2026-11-09
+- [ ] https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Chicago/Sr-Test-Manager_JR-0111188-1 | Workday | Sr Test Manager, Professional Services | 53 Locations | posted: 2026-11-09
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
