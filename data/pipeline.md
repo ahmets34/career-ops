@@ -946,6 +946,12 @@
 - [ ] https://www.amazon.jobs/en/jobs/10598524/automation-engineer-reliability-maintenance-engineering | Amazon Fulfillment MENA L.L.C | Automation Engineer, Reliability Maintenance Engineering | Abu Dhabi, ARE | posted: 2026-11-08
 - [ ] https://www.amazon.jobs/en/jobs/10600973/quality-assurance-engineer-ies-prime-tech | ADCI - Karnataka | Quality Assurance Engineer, IES Prime Tech | Bengaluru, Karnataka, IND | posted: 2026-11-10
 
+- [ ] https://www.amazon.jobs/en/jobs/10601044/icqa-lead-icqa-fulfillment-center-var-icqa | Amazon Italia Logistica S.R.L. | ICQA Lead, ICQA, Fulfillment Center - VAR, ICQA | Colleferro, Latium, ITA | posted: 2026-11-10
+- [ ] https://www.amazon.jobs/en/jobs/10594739/quality-assurance-engineer-iii-amz21815-4 | Amazon.com Services LLC | Quality Assurance Engineer III - AMZ21815.4 | Austin, Texas, USA | posted: 2026-11-02
+
+- [ ] https://www.amazon.jobs/en/jobs/10600646/quality-assurance-engineer-i-leo-network-observability-visibility-analytics-team | Amazon Kuiper Manufacturing Enterprises LLC | Quality Assurance Engineer I, Leo Network Observability, Visibility & Analytics team | Redmond, Washington, USA | posted: 2026-11-10
+- [ ] https://www.amazon.jobs/en/jobs/10601218/sdet-iii-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | SDET III, Amazon Leo | Redmond, Washington, USA | posted: 2026-11-10
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
