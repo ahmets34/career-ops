@@ -942,6 +942,10 @@
 - [ ] https://www.amazon.jobs/en/jobs/10598007/test-manager-2nd-shift-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Test Manager - 2nd Shift, Amazon Leo | Kirkland, Washington, USA | posted: 2026-11-09
 - [ ] https://workday.wd5.myworkdayjobs.com/Workday/job/USA-IL-Chicago/Sr-Test-Manager_JR-0111188-1 | Workday | Sr Test Manager, Professional Services | 53 Locations | posted: 2026-11-09
 
+- [ ] https://www.amazon.jobs/en/jobs/10600916/automation-engineer-m-w-d-rme | Amazon FC Graben GmbH | Automation Engineer (m/w/d), RME | Graben, Bavaria, DEU | posted: 2026-11-10
+- [ ] https://www.amazon.jobs/en/jobs/10598524/automation-engineer-reliability-maintenance-engineering | Amazon Fulfillment MENA L.L.C | Automation Engineer, Reliability Maintenance Engineering | Abu Dhabi, ARE | posted: 2026-11-08
+- [ ] https://www.amazon.jobs/en/jobs/10600973/quality-assurance-engineer-ies-prime-tech | ADCI - Karnataka | Quality Assurance Engineer, IES Prime Tech | Bengaluru, Karnataka, IND | posted: 2026-11-10
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
