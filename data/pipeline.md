@@ -952,6 +952,13 @@
 - [ ] https://www.amazon.jobs/en/jobs/10600646/quality-assurance-engineer-i-leo-network-observability-visibility-analytics-team | Amazon Kuiper Manufacturing Enterprises LLC | Quality Assurance Engineer I, Leo Network Observability, Visibility & Analytics team | Redmond, Washington, USA | posted: 2026-11-10
 - [ ] https://www.amazon.jobs/en/jobs/10601218/sdet-iii-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | SDET III, Amazon Leo | Redmond, Washington, USA | posted: 2026-11-10
 
+- [ ] https://job-boards.greenhouse.io/boxinc/jobs/8231997 | Box | Senior AI & Automation Engineer | Remote - Atlanta, Georgia - US | posted: 2026-10-01
+
+- [ ] https://www.amazon.jobs/en/jobs/10602955/senior-product-quality-engineering-manager-private-brands | Beijing Century Joyo Information Technology Co., Ltd. Shenzhen Branch | Senior Product Quality Engineering Manager, Private Brands | Shenzhen, CHN | posted: 2026-11-12
+- [ ] https://www.amazon.jobs/en/jobs/10600989/area-manager-inventory-control-and-quality-assurance-saudi-national | Afaq - Warehouse Branch | Area Manager, Inventory Control and Quality Assurance (Saudi National) | Riyadh, SAU | posted: 2026-11-11
+- [ ] https://www.amazon.jobs/en/jobs/10602314/sr-supplier-quality-engineer-irq-infrastructure-reliability-quality | Amazon Data Services, Inc. | Sr. Supplier Quality Engineer, IRQ (Infrastructure Reliability & Quality) | Austin, Texas, USA | posted: 2026-11-11
+- [ ] https://www.amazon.jobs/en/jobs/10602569/senior-regional-automation-engineer | Amazon.com Services LLC | Senior Regional Automation Engineer | Fort Worth, Texas, USA | posted: 2026-11-11
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
