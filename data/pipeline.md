@@ -959,6 +959,10 @@
 - [ ] https://www.amazon.jobs/en/jobs/10602314/sr-supplier-quality-engineer-irq-infrastructure-reliability-quality | Amazon Data Services, Inc. | Sr. Supplier Quality Engineer, IRQ (Infrastructure Reliability & Quality) | Austin, Texas, USA | posted: 2026-11-11
 - [ ] https://www.amazon.jobs/en/jobs/10602569/senior-regional-automation-engineer | Amazon.com Services LLC | Senior Regional Automation Engineer | Fort Worth, Texas, USA | posted: 2026-11-11
 
+- [ ] https://www.amazon.jobs/en/jobs/10603316/senior-sdm-test-infrastructure-automation-amazon-leo-d2d-software | Amazon Kuiper Manufacturing Enterprises LLC | Senior SDM, Test Infrastructure & Automation, Amazon Leo, D2D Software | Redmond, Washington, USA | posted: 2026-11-12
+
+- [ ] https://www.amazon.jobs/en/jobs/10601540/system-development-engineer-release-engineering-and-system-test | Amazon Data Services, Inc. | System Development Engineer, Release Engineering and System Test | Cupertino, California, USA | posted: 2026-11-12
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
