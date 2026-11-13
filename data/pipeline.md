@@ -963,6 +963,8 @@
 
 - [ ] https://www.amazon.jobs/en/jobs/10601540/system-development-engineer-release-engineering-and-system-test | Amazon Data Services, Inc. | System Development Engineer, Release Engineering and System Test | Cupertino, California, USA | posted: 2026-11-12
 
+- [ ] https://www.amazon.jobs/en/jobs/10603699/sr-manufacturing-test-engineer-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Sr Manufacturing Test Engineer, Amazon LEO | Kirkland, Washington, USA | posted: 2026-11-12
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
