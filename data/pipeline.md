@@ -965,6 +965,10 @@
 
 - [ ] https://www.amazon.jobs/en/jobs/10603699/sr-manufacturing-test-engineer-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Sr Manufacturing Test Engineer, Amazon LEO | Kirkland, Washington, USA | posted: 2026-11-12
 
+- [ ] https://www.amazon.jobs/en/jobs/10604213/quality-assurance-engineer-ii-alexa-connectivity-devices | ADCI - Karnataka | Quality Assurance Engineer II, Alexa Connectivity Devices | Bengaluru, Karnataka, IND | posted: 2026-11-13
+
+- [ ] https://careers.hellofresh.com/global/en/job/8374974?gh_jid=8374974 | HelloFresh | Food Safety & Quality Assurance Supervisor (6 months contract) | Edmonton, Alberta, Canada | posted: 2026-11-13
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
