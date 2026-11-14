@@ -969,6 +969,10 @@
 
 - [ ] https://careers.hellofresh.com/global/en/job/8374974?gh_jid=8374974 | HelloFresh | Food Safety & Quality Assurance Supervisor (6 months contract) | Edmonton, Alberta, Canada | posted: 2026-11-13
 
+- [ ] https://careers.airbnb.com/positions/7453190?gh_jid=7453190 | Airbnb | Senior Mobile Software Engineer, Quality Engineering | Brazil - Remote | posted: 2026-01-22
+
+- [ ] https://jobs.lever.co/zoox/1825c7df-ea96-4a2d-b57b-609a61300382 | Zoox | Automation Engineer - Compute Software Performance | Foster City, CA | posted: 2026-11-13
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
