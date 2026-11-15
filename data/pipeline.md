@@ -973,6 +973,8 @@
 
 - [ ] https://jobs.lever.co/zoox/1825c7df-ea96-4a2d-b57b-609a61300382 | Zoox | Automation Engineer - Compute Software Performance | Foster City, CA | posted: 2026-11-13
 
+- [ ] https://www.amazon.jobs/en/jobs/10605456/hardware-development-engineer-ii-systems-safety-automation-engineering | Amazon.com Services LLC | Hardware Development Engineer II, Systems Safety & Automation Engineering | Bellevue, Washington, USA | posted: 2026-11-15
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
