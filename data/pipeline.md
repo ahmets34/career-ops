@@ -977,6 +977,9 @@
 
 - [ ] https://www.amazon.jobs/en/jobs/10605716/senior-quality-assurance-engineer-qae-ii-amazon-business-private-brands-re-commerce | ADCI - Karnataka | Senior Quality Assurance Engineer (QAE II), Amazon Business, Private Brands & RE-commerce | Bengaluru, Karnataka, IND | posted: 2026-11-16
 
+- [ ] https://www.amazon.jobs/en/jobs/10605627/automation-engineer-rme-reliability-maintenance-and-engineering | Amazon Commercial Services Pty Ltd | Automation Engineer, RME (Reliability Maintenance and Engineering) | Melbourne, Victoria, AUS | posted: 2026-11-16
+- [ ] https://www.amazon.jobs/en/jobs/10605419/fls-test-engineer-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | FLS Test Engineer, Amazon LEO | Kirkland, Washington, USA | posted: 2026-11-16
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
