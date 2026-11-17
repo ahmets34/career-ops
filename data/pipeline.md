@@ -980,6 +980,12 @@
 - [ ] https://www.amazon.jobs/en/jobs/10605627/automation-engineer-rme-reliability-maintenance-and-engineering | Amazon Commercial Services Pty Ltd | Automation Engineer, RME (Reliability Maintenance and Engineering) | Melbourne, Victoria, AUS | posted: 2026-11-16
 - [ ] https://www.amazon.jobs/en/jobs/10605419/fls-test-engineer-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | FLS Test Engineer, Amazon LEO | Kirkland, Washington, USA | posted: 2026-11-16
 
+- [ ] https://www.amazon.jobs/en/jobs/10606743/production-quality-engineer-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Production Quality Engineer, AMAZON LEO | Kirkland, Washington, USA | posted: 2026-11-17
+- [ ] https://www.amazon.jobs/en/jobs/10606793/environmental-test-engineer | KGS LLC | Environmental test engineer | Northridge, California, USA | posted: 2026-11-17
+
+- [ ] https://www.amazon.jobs/en/jobs/10607137/systems-automation-engineer-ii-data-center-operations-business-automation-optimization | Amazon Data Services, Inc. | Systems Automation Engineer II, Data Center Operations, Business Automation & Optimization | Herndon, Virginia, USA | posted: 2026-11-17
+- [ ] https://www.amazon.jobs/en/jobs/10607138/systems-automation-engineer-availability-data-center-operations-business-automation-optimization | Amazon Data Services, Inc. | Systems Automation Engineer, Availability , Data Center Operations, Business Automation & Optimization | Herndon, Virginia, USA | posted: 2026-11-17
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
