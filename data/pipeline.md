@@ -986,6 +986,13 @@
 - [ ] https://www.amazon.jobs/en/jobs/10607137/systems-automation-engineer-ii-data-center-operations-business-automation-optimization | Amazon Data Services, Inc. | Systems Automation Engineer II, Data Center Operations, Business Automation & Optimization | Herndon, Virginia, USA | posted: 2026-11-17
 - [ ] https://www.amazon.jobs/en/jobs/10607138/systems-automation-engineer-availability-data-center-operations-business-automation-optimization | Amazon Data Services, Inc. | Systems Automation Engineer, Availability , Data Center Operations, Business Automation & Optimization | Herndon, Virginia, USA | posted: 2026-11-17
 
+- [ ] https://www.okta.com/company/careers/opportunity/8237695?gh_jid=8237695 | Okta | Senior Software Engineer, Developer Experience (CI/CD & Release Engineering) | Toronto, ON, Canada | posted: 2026-09-28
+
+- [ ] https://www.amazon.jobs/en/jobs/10607561/quality-assurance-engineer-prime-video-sports | ADCI - Karnataka | Quality Assurance Engineer, Prime Video Sports | Bengaluru, Karnataka, IND | posted: 2026-11-17
+
+- [ ] https://www.okta.com/company/careers/opportunity/8396722?gh_jid=8396722 | Okta | Senior Software Development Engineer in Test - Okta Identity Governance | Toronto, ON, Canada | posted: 2026-11-17
+- [ ] https://www.amazon.jobs/en/jobs/10607751/senior-quality-engineer-robotics-manufacturing | Amazon.com Services LLC | Senior Quality Engineer, Robotics Manufacturing | North Reading, Massachusetts, USA | posted: 2026-11-18
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
