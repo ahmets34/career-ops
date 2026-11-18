@@ -993,6 +993,13 @@
 - [ ] https://www.okta.com/company/careers/opportunity/8396722?gh_jid=8396722 | Okta | Senior Software Development Engineer in Test - Okta Identity Governance | Toronto, ON, Canada | posted: 2026-11-17
 - [ ] https://www.amazon.jobs/en/jobs/10607751/senior-quality-engineer-robotics-manufacturing | Amazon.com Services LLC | Senior Quality Engineer, Robotics Manufacturing | North Reading, Massachusetts, USA | posted: 2026-11-18
 
+- [ ] http://block.xyz/careers/jobs/5485941008?gh_jid=5485941008 | Block | Quality Engineering Manager, Hardware | Bay Area, CA, United States of America | posted: 2026-11-18
+- [ ] https://jobs.lever.co/zoox/c84c90b4-22f2-4d2e-9034-afee385dd0d2 | Zoox | Test Automation Engineer, Robot Platform | Foster City, CA | posted: 2026-11-18
+- [ ] https://www.amazon.jobs/en/jobs/10605421/manufacturing-test-engineer-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Manufacturing Test Engineer, Amazon Leo | Kirkland, Washington, USA | posted: 2026-11-18
+
+- [ ] https://www.amazon.jobs/en/jobs/10608444/senior-test-engineer-manufacturing-aws-rack-mfg-operations | Amazon Data Services Ireland Limited | Senior Test Engineer ( Manufacturing ) , AWS Rack Mfg Operations | Dublin, IRL | posted: 2026-11-18
+- [ ] https://www.amazon.jobs/en/jobs/10606565/manager-system-integration-test-engineering-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Manager, System Integration/Test Engineering, Amazon LEO | Kirkland, Washington, USA | posted: 2026-11-18
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅
