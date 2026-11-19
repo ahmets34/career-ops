@@ -1000,6 +1000,15 @@
 - [ ] https://www.amazon.jobs/en/jobs/10608444/senior-test-engineer-manufacturing-aws-rack-mfg-operations | Amazon Data Services Ireland Limited | Senior Test Engineer ( Manufacturing ) , AWS Rack Mfg Operations | Dublin, IRL | posted: 2026-11-18
 - [ ] https://www.amazon.jobs/en/jobs/10606565/manager-system-integration-test-engineering-amazon-leo | Amazon Kuiper Manufacturing Enterprises LLC | Manager, System Integration/Test Engineering, Amazon LEO | Kirkland, Washington, USA | posted: 2026-11-18
 
+- [ ] https://jobs.ashbyhq.com/notion/a8143379-6693-4046-b8cf-1528178d0f0f | Notion | CX Systems & Automation Lead | San Francisco, California | posted: 2026-11-18
+- [ ] https://www.amazon.jobs/en/jobs/10607729/senior-software-development-engineer-amazon-leo-deployment-release-engineering | Amazon Kuiper Manufacturing Enterprises LLC | Senior Software Development Engineer, Amazon Leo - Deployment & Release Engineering | Redmond, Washington, USA | posted: 2026-11-18
+
+- [ ] https://careers.datadoghq.com/detail/8404061/?gh_jid=8404061 | Datadog | Enterprise Automation Engineer | New York, New York, USA | posted: 2026-11-19
+- [ ] https://www.amazon.jobs/en/jobs/10609185/quality-analyst-ii-flex-investigations-and-offboarding | ADCI HYD 16 SEZ | Quality Analyst II, Flex Investigations and Offboarding | Hyderabad, Telangana, IND | posted: 2026-11-19
+
+- [ ] https://www.builtinboston.com/job/lead-quality-engineer/9163587 | Replicant | Senior Software Engineer in Test | Remote ΓÇö Hiring Remotely in United States
+- [ ] https://www.builtinboston.com/job/qa-engineer/9770737 | Neuroscale | QA Engineer | Remote ΓÇö Hiring Remotely in United States
+
 ## Procesadas
 
 - [x] #017 | https://job-boards.greenhouse.io/machinifyinc/jobs/4111848009 | Machinify | Staff Automation Engineer QA | 4.6/5 | PDF ✅

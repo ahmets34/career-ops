@@ -1,3 +1,11 @@
+## 2026-11-19 16:49 ET (WebSearch scan) — 2 new offers
+
+**Remote (US):**
+- [Replicant — Senior Software Engineer in Test](https://www.builtinboston.com/job/lead-quality-engineer/9163587)
+- [Neuroscale — QA Engineer](https://www.builtinboston.com/job/qa-engineer/9770737)
+
+---
+
 ## 2026-11-18 15:03 ET (WebSearch scan)
 
 _(no new offers this run)_
